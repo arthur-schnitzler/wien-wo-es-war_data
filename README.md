@@ -12,7 +12,7 @@ Das Burgtheater hat 2026 ein historisches Verzeichnis aller Veranstaltungen in i
 Die Sammlung umfasst alle Aufführungen bis 1945, die im »Spielplan der Wiener Oper 1869 bis 1955« https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/ aufgenommen sind. Erstellt wurde sie von Christian Glanz, Thomas Hübl, Carolin Bahr u.a. 
 knapp 35.000 Ereignisse, 500 Werke, 600 Personen, ergänzt November 2026
 
-## Arthur Schnitzler – Kulturveranstaltungen. 
+## Arthur Schnitzler – Kulturveranstaltungen 
 Theateraufführungen, Konzerte, Premieren, Kinoabende und andere Veranstaltungen – mehr als zweimal jede Woche war Arthur Schnitzler unterwegs und nahm am kulturellen Leben teil. Die Website https://schnitzler-kultur.acdh.oeaw.ac.at versammelt erstmals über 6.200 Ereignisse, die er zwischen 1876 und 1931 besuchte und macht sie zugänglich. Das umfasst alle Veranstaltungen, bei denen er selbst tätig wurde, wie seine seltenen öffentlichen Lesungen. Es umfasst auch die Lesungen aus seinen (zumeist noch unveröffentlichten) Werken im privaten Kreis. Somit sind erstmals auch alle Theaterproben, Besuche im Kaiserpanorama, Bälle und Soiréen schnell auffindbar.
 
 ## Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren
