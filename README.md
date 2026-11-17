@@ -26,6 +26,7 @@ Ereignisse von https://brahms-online.oeaw.ac.at
 
 # In Vorbereitung:
 * Karl Kraus als Vorleser
+* Schönberg-Events https://www.schoenberg-ue.at/ue/events/index.html
 
 ## Mögliche weitere Datengeber:
 
