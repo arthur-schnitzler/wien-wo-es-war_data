@@ -18,6 +18,11 @@ Theateraufführungen, Konzerte, Premieren, Kinoabende und andere Veranstaltungen
 ## Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren
 Das aktivste Projekt der PMB, das die Kuratierung der meisten Datensätze übernommen hat, https://schnitzler-briefe.acdh.oeaw.ac.at/. Während viele der Ereignisse auch in Schnitzler-Kultur vorkommen (weil Schnitzler teilnahm), legt das Projekt auch Ereignisse an, an denen Schnitzler nicht teilgenommen hat, die aber in seiner Korrespondenz Erwähnung finden.
 
+## Max Kalbeck
+Max Kalbeck: Praktiken des Netzwerkens in Wien um 1900, https://www.mdw.ac.at/imi/max-kalbeck/
+
+## Johannes Brahms online
+Ereignisse von https://brahms-online.oeaw.ac.at
 
 # In Vorbereitung:
 * Karl Kraus als Vorleser
