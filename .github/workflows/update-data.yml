@@ -1,0 +1,46 @@
+name: Update Data from PMB
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Python einrichten
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+
+      - name: Daten aus PMB abrufen
+        run: python3 ./python-scripts/fetch-data-from-pmb.py
+
+      - name: Ereignisse und Register erzeugen
+        run: python3 ./python-scripts/build-data.py
+
+      - name: Änderungen committen
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add -A editions indices
+          if ! git diff --cached --quiet; then
+            git commit -m "Update durch Workflow"
+            # Falls main sich während des Laufs bewegt hat: rebasen und erneut versuchen
+            for i in 1 2 3; do
+              if git push; then
+                break
+              fi
+              git pull --rebase origin main
+            done
+          else
+            echo "Keine Änderungen, Commit wird übersprungen."
+          fi

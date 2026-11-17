@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+# Rohdaten aus der PMB (werden bei jedem Lauf neu heruntergeladen)
+input-data/
+# Manuell heruntergeladene Kopie von listevent.xml (wird nach input-data/ geladen)
+/listevent.xml

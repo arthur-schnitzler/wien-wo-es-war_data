@@ -31,3 +31,38 @@ Das aktivste Projekt der PMB, das die Kuratierung der meisten Datensätze übern
 * Wiener Philharmoniker, Konzertarchiv: https://www.wienerphilharmoniker.at/de/konzert-archiv
   
 Wir freuen uns über weitere Datenbestände und bitten um Kontaktaufnahme!
+
+
+# Technisches
+
+## Daten
+
+* `editions/listevent_YYYY.xml` – ein TEI-Dokument pro Jahr (1860–1939) mit allen Ereignissen dieses Jahres, chronologisch sortiert
+* `indices/listperson.xml` – Personen, die an den Ereignissen beteiligt sind (mitwirkend, teilnehmend), sowie die Urheber:innen der aufgeführten Werke
+* `indices/listplace.xml` – Orte der Ereignisse
+* `indices/listbibl.xml` – Werke, auf die die Ereignisse verweisen (aufgeführt, gelesen, rezensiert …)
+* `indices/listorg.xml` – Institutionen, die die Ereignisse veranstaltet haben
+
+Alle Kennungen sind wie in den anderen Projekten zu `pmbXXXX` vereinheitlicht (PMB: `event__XXXX`, `person__XXXX`, `place__XXXX`, `work__XXXX`, `org__XXXX`). Die Verweise in den Ereignissen (`@key`) zeigen auf die `@xml:id` der Register.
+
+## Auswahl
+
+Aus `https://pmb.acdh.oeaw.ac.at/media/listevent.xml` werden die Ereignisse übernommen, die
+
+* **zeitlich** in den Zeitraum 1.1.1860–31.12.1939 fallen (`@when-iso` bzw. `@from-iso`/`@to-iso`; Ereignisse ohne Datum entfallen) und
+* **räumlich** an mindestens einem Ort innerhalb der heutigen Wiener Stadtgrenze stattgefunden haben.
+
+Für die Ortsbestimmung werden die Koordinaten des Ortes aus der PMB (`listplace.xml`) gegen das Polygon der Wiener Landesgrenze (`geodata/wien-landesgrenze.geojson`, Stadt Wien – data.wien.gv.at, CC BY 4.0) geprüft. Hat ein Ort keine eigenen Koordinaten, werden die des übergeordneten Ortes (`located_in_place`, meist „Wien") verwendet. Da die heutige Stadtgrenze zugrunde liegt, zählen auch Orte in den erst 1892, 1904 bzw. 1938 eingemeindeten Gebieten zu Wien.
+
+Zeitraum und Pfade lassen sich am Anfang von `python-scripts/build-data.py` anpassen.
+
+## Aktualisieren
+
+Lokal (nur Python 3.9+, keine weiteren Abhängigkeiten):
+
+```bash
+python3 python-scripts/fetch-data-from-pmb.py   # lädt die PMB-Exporte nach input-data/ (~200 MB, nicht versioniert)
+python3 python-scripts/build-data.py            # erzeugt editions/ und indices/
+```
+
+Auf GitHub erledigt das der Workflow `Update Data from PMB` (`.github/workflows/update-data.yml`, manuell über *Actions → Run workflow*). Er committet `editions/` und `indices/`, sofern sich etwas geändert hat.
