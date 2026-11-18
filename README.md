@@ -1,4 +1,4 @@
-# Wohin in Wien damals (Data)
+# Wien, wo es war (Data)
 Data repository containing events in Vienna (Austria) between 1860 and 1939 as XML-files for every year
 
 Dieses Repositorium versammelt Einträge aus verschiedenen Aufführungsdatenbanken und online-Quellen und verbindet sie zeitlich und lokal. Es handelt sich nur um kulturelle Ereignisse, die in Wien stattgefunden haben. Während Aufführungen in den zentralen Häusern (Oper, Burgtheater) vollständig erfasst sind, ist das bei anderen Häusern nicht der Fall. Die Website selbst befindet sich in Vorbereitung. Das dazugehörige Repositorium findet sich unter https://github.com/arthur-schnitzler/wien-wo-es-war_static/
@@ -48,7 +48,7 @@ Wir freuen uns über weitere Datenbestände und bitten um Kontaktaufnahme!
 * `indices/listplace.xml` – Orte der Ereignisse
 * `indices/listbibl.xml` – Werke, auf die die Ereignisse verweisen (aufgeführt, gelesen, rezensiert …)
 * `indices/listorg.xml` – Institutionen, die die Ereignisse veranstaltet haben
-* `csv/pmb_uris-in-use.csv` – alle Entitäten aus `editions/` und `indices/` mit ihrer URI auf https://wohin-in-wien-damals.acdh.oeaw.ac.at; die PMB gleicht damit ihre Verweise auf dieses Projekt ab (Konfiguration: `pmb-uris.json`)
+* `csv/pmb_uris-in-use.csv` – alle Entitäten aus `editions/` und `indices/` mit ihrer URI auf https://wien-wo-es-war.acdh.oeaw.ac.at; die PMB gleicht damit ihre Verweise auf dieses Projekt ab (Konfiguration: `pmb-uris.json`)
 
 Alle Kennungen sind wie in den anderen Projekten zu `pmbXXXX` vereinheitlicht (PMB: `event__XXXX`, `person__XXXX`, `place__XXXX`, `work__XXXX`, `org__XXXX`). Die Verweise in den Ereignissen (`@key`) zeigen auf die `@xml:id` der Register.
 

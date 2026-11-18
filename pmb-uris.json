@@ -1,6 +1,6 @@
 {
   "domain": "wien-wo-es-war",
-  "uri_template": "https://wohin-in-wien-damals.acdh.oeaw.ac.at/{xml_id}.html",
+  "uri_template": "https://wien-wo-es-war.acdh.oeaw.ac.at/{xml_id}.html",
   "index_glob": "*s/list*.xml",
   "exclude": [],
   "id_pattern": "^pmb(\\d+)$",

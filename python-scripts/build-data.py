@@ -43,7 +43,7 @@ EDITIONS = "./editions"
 INDICES = "./indices"
 BOUNDARY = "./geodata/wien-landesgrenze.geojson"
 
-PROJECT_TITLE = "Wohin in Wien damals"
+PROJECT_TITLE = "Wien, wo es war"
 
 # -----------------------------------------------------------------------------
 
