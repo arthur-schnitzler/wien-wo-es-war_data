@@ -1,7 +1,7 @@
 # Wohin in Wien damals (Data)
 Data repository containing events in Vienna (Austria) between 1860 and 1939 as XML-files for every year
 
-Dieses Repositorium versammelt Einträge aus verschiedenen Aufführungsdatenbanken und online-Quellen und verbindet sie zeitlich und lokal. Es handelt sich nur um kulturelle Ereignisse, die in Wien stattgefunden haben. Während Aufführungen in den zentralen Häusern (Oper, Burgtheater) vollständig erfasst sind, ist das bei anderen Häusern nicht der Fall. Die Website selbst befindet sich in Vorbereitung. Das dazugehörige Repositorium findet sich unter https://github.com/arthur-schnitzler/wohin-in-wien-damals_static/
+Dieses Repositorium versammelt Einträge aus verschiedenen Aufführungsdatenbanken und online-Quellen und verbindet sie zeitlich und lokal. Es handelt sich nur um kulturelle Ereignisse, die in Wien stattgefunden haben. Während Aufführungen in den zentralen Häusern (Oper, Burgtheater) vollständig erfasst sind, ist das bei anderen Häusern nicht der Fall. Die Website selbst befindet sich in Vorbereitung. Das dazugehörige Repositorium findet sich unter https://github.com/arthur-schnitzler/wien-wo-es-war_static/
 
 Aufgenommen sind Einträge aus:
 
