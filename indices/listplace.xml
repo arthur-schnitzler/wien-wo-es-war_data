@@ -1374,6 +1374,7 @@
           <placeName>XIX., Döbling</placeName>
           <placeName type="legacy-name-merge">Döbling</placeName>
           <placeName type="legacy-name-merge">Wien-Döbling</placeName>
+          <placeName type="legacy-name-merge">Dobling</placeName>
           <desc type="entity_type">A.ADM3</desc>
           <desc type="entity_type_id">1124</desc>
           <location type="coords">
@@ -1401,10 +1402,14 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb69.html</idno>
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb69.html</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb69.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341393/</idno>
+          <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.3</idno>
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/3324498/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb69.html</idno>
           <listBibl>
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
           </listBibl>
           <note type="image">
@@ -2261,6 +2266,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/527/</idno>
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb527.html</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb527.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb527.html</idno>
         </place>
         <place xml:id="pmb542">
           <placeName>Bösendorferstraße</placeName>
@@ -2592,7 +2598,6 @@
           </location>
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb730.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/730/</idno>
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb730.html</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb730.html</idno>
           <listBibl>
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -3305,7 +3310,6 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92460/</idno>
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Praterstraße</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92306.html</idno>
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92460.html</idno>
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2107895</idno>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Praterstra%C3%9Fe</idno>
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb50933.html</idno>
@@ -3531,6 +3535,7 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92180.html</idno>
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb92180.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb92180.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb92180.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -4074,6 +4079,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168183/</idno>
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb168183.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168183.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -4092,6 +4098,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168273/</idno>
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb168273.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168273.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -6362,7 +6369,6 @@
             <placeName key="pmb92349">Kreuzgasse</placeName>
             <geo>50,936904 6,951649</geo>
           </location>
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92402.html</idno>
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb292.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/190582/</idno>
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb190582.html</idno>
@@ -7744,6 +7750,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/232166/</idno>
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb232166.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb232166.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb232166.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -9811,6 +9818,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294346/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294346.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294346.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -9841,6 +9849,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294370.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333689/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb294370.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294370.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -9862,6 +9871,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294670/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294670.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294670.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -9883,6 +9893,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294678/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294678.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294678.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -9908,6 +9919,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294694/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294694.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294694.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -9929,6 +9941,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294789/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294789.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294789.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -9950,6 +9963,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294803/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294803.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294803.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -9971,6 +9985,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294813/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294813.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294813.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -9992,6 +10007,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294827/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294827.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294827.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10013,6 +10029,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294848/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294848.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294848.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10034,6 +10051,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294855/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294855.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294855.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10055,6 +10073,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294870/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294870.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294870.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10076,6 +10095,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294895/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294895.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294895.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10100,6 +10120,7 @@
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1286707080</idno>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Leopoldst%C3%A4dter_Tempel</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294905.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294905.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10126,6 +10147,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294915/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294915.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294915.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10147,6 +10169,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294923/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294923.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294923.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10168,6 +10191,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294991/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294991.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294991.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10190,6 +10214,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294997/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294997.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb294997.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10210,6 +10235,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295020/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295020.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295020.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10232,6 +10258,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295029/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295029.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295029.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10253,6 +10280,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295043/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295043.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295043.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10274,6 +10302,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295053/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295053.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295053.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10288,6 +10317,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295105/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295105.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295105.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10309,6 +10339,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295369/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295369.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295369.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10330,6 +10361,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295385/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295385.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295385.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10351,6 +10383,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295394/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295394.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295394.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10373,6 +10406,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295411/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295411.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295411.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10394,6 +10428,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295455/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295455.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295455.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10415,6 +10450,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295463/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295463.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295463.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10440,6 +10476,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295470/</idno>
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Zum_wei%C3%9Fen_R%C3%B6ssel_(2)</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295470.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295470.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10461,6 +10498,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295503/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295503.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295503.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10482,6 +10520,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295576/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295576.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295576.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10503,6 +10542,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295596/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295596.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295596.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10524,6 +10564,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295613/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb295613.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295613.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10547,6 +10588,7 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1978522</idno>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Nestroyhof</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb296060.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb296060.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10569,6 +10611,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296582/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb296582.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb296582.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10590,6 +10633,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296608/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb296608.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb296608.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10611,6 +10655,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296613/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb296613.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb296613.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10631,6 +10676,7 @@
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/102520025X</idno>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Turnertempel</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb296632.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb296632.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10658,6 +10704,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296641/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb296641.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb296641.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10679,6 +10726,7 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296670/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb296670.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb296670.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10699,6 +10747,8 @@
             <geo>48,22387 16,35641</geo>
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298336/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298336.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb298336.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10744,6 +10794,8 @@
             <geo>48,20769 16,37049</geo>
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/340669/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb340669.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb340669.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10821,6 +10873,8 @@
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364746/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb364746.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb364746.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb364746.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
@@ -10857,6 +10911,8 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q96623003</idno>
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1029364710</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb405742.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb405742.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb405742.html</idno>
           <listBibl>
             <bibl type="collections" n="120">Max Kalbeck: Tagebücher</bibl>
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>

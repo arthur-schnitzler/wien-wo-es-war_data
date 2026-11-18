@@ -506,6 +506,7 @@ pmb_id,entity_type,uri,domain
 33969,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb33969.html,wien-wo-es-war
 34138,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb34138.html,wien-wo-es-war
 34233,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb34233.html,wien-wo-es-war
+34235,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb34235.html,wien-wo-es-war
 34239,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb34239.html,wien-wo-es-war
 34251,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb34251.html,wien-wo-es-war
 34253,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb34253.html,wien-wo-es-war
@@ -746,7 +747,6 @@ pmb_id,entity_type,uri,domain
 76820,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb76820.html,wien-wo-es-war
 76822,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb76822.html,wien-wo-es-war
 76823,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb76823.html,wien-wo-es-war
-76825,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb76825.html,wien-wo-es-war
 76826,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb76826.html,wien-wo-es-war
 76835,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb76835.html,wien-wo-es-war
 76836,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb76836.html,wien-wo-es-war
@@ -1199,6 +1199,7 @@ pmb_id,entity_type,uri,domain
 78433,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb78433.html,wien-wo-es-war
 78434,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb78434.html,wien-wo-es-war
 78435,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb78435.html,wien-wo-es-war
+78455,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb78455.html,wien-wo-es-war
 78456,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb78456.html,wien-wo-es-war
 78459,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb78459.html,wien-wo-es-war
 78462,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb78462.html,wien-wo-es-war
@@ -2655,6 +2656,7 @@ pmb_id,entity_type,uri,domain
 201379,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb201379.html,wien-wo-es-war
 201411,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb201411.html,wien-wo-es-war
 201413,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb201413.html,wien-wo-es-war
+201439,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb201439.html,wien-wo-es-war
 201446,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb201446.html,wien-wo-es-war
 201450,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb201450.html,wien-wo-es-war
 201480,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb201480.html,wien-wo-es-war
@@ -2696,6 +2698,7 @@ pmb_id,entity_type,uri,domain
 202672,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb202672.html,wien-wo-es-war
 202691,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb202691.html,wien-wo-es-war
 202698,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb202698.html,wien-wo-es-war
+202704,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb202704.html,wien-wo-es-war
 202737,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb202737.html,wien-wo-es-war
 202739,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb202739.html,wien-wo-es-war
 202775,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb202775.html,wien-wo-es-war
@@ -2785,6 +2788,7 @@ pmb_id,entity_type,uri,domain
 206211,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb206211.html,wien-wo-es-war
 206311,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb206311.html,wien-wo-es-war
 206505,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb206505.html,wien-wo-es-war
+206675,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb206675.html,wien-wo-es-war
 206698,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb206698.html,wien-wo-es-war
 206750,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb206750.html,wien-wo-es-war
 206851,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb206851.html,wien-wo-es-war
@@ -2913,6 +2917,7 @@ pmb_id,entity_type,uri,domain
 363015,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb363015.html,wien-wo-es-war
 363021,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb363021.html,wien-wo-es-war
 363173,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb363173.html,wien-wo-es-war
+363256,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb363256.html,wien-wo-es-war
 363319,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb363319.html,wien-wo-es-war
 363333,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb363333.html,wien-wo-es-war
 363375,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb363375.html,wien-wo-es-war
@@ -3241,7 +3246,6 @@ pmb_id,entity_type,uri,domain
 419834,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb419834.html,wien-wo-es-war
 419838,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb419838.html,wien-wo-es-war
 419840,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb419840.html,wien-wo-es-war
-419847,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb419847.html,wien-wo-es-war
 419849,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb419849.html,wien-wo-es-war
 419851,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb419851.html,wien-wo-es-war
 419857,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb419857.html,wien-wo-es-war
@@ -3319,7 +3323,6 @@ pmb_id,entity_type,uri,domain
 420069,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420069.html,wien-wo-es-war
 420071,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420071.html,wien-wo-es-war
 420073,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420073.html,wien-wo-es-war
-420075,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420075.html,wien-wo-es-war
 420077,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420077.html,wien-wo-es-war
 420079,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420079.html,wien-wo-es-war
 420081,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420081.html,wien-wo-es-war
@@ -3401,7 +3404,6 @@ pmb_id,entity_type,uri,domain
 420280,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420280.html,wien-wo-es-war
 420282,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420282.html,wien-wo-es-war
 420284,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420284.html,wien-wo-es-war
-420286,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420286.html,wien-wo-es-war
 420288,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420288.html,wien-wo-es-war
 420290,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420290.html,wien-wo-es-war
 420292,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420292.html,wien-wo-es-war
@@ -3561,7 +3563,6 @@ pmb_id,entity_type,uri,domain
 420697,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420697.html,wien-wo-es-war
 420699,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420699.html,wien-wo-es-war
 420701,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420701.html,wien-wo-es-war
-420703,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420703.html,wien-wo-es-war
 420705,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420705.html,wien-wo-es-war
 420707,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420707.html,wien-wo-es-war
 420709,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb420709.html,wien-wo-es-war
@@ -3829,7 +3830,6 @@ pmb_id,entity_type,uri,domain
 421348,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb421348.html,wien-wo-es-war
 421350,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb421350.html,wien-wo-es-war
 421352,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb421352.html,wien-wo-es-war
-421354,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb421354.html,wien-wo-es-war
 421356,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb421356.html,wien-wo-es-war
 421360,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb421360.html,wien-wo-es-war
 421364,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb421364.html,wien-wo-es-war
@@ -4040,7 +4040,6 @@ pmb_id,entity_type,uri,domain
 511735,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb511735.html,wien-wo-es-war
 511738,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb511738.html,wien-wo-es-war
 511741,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb511741.html,wien-wo-es-war
-511745,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb511745.html,wien-wo-es-war
 511748,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb511748.html,wien-wo-es-war
 511750,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb511750.html,wien-wo-es-war
 511752,bibl,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb511752.html,wien-wo-es-war
@@ -11654,7 +11653,6 @@ pmb_id,entity_type,uri,domain
 315497,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb315497.html,wien-wo-es-war
 315500,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb315500.html,wien-wo-es-war
 315503,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb315503.html,wien-wo-es-war
-315506,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb315506.html,wien-wo-es-war
 315509,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb315509.html,wien-wo-es-war
 315512,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb315512.html,wien-wo-es-war
 315515,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb315515.html,wien-wo-es-war
@@ -12913,7 +12911,6 @@ pmb_id,entity_type,uri,domain
 319616,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb319616.html,wien-wo-es-war
 319619,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb319619.html,wien-wo-es-war
 319622,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb319622.html,wien-wo-es-war
-319625,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb319625.html,wien-wo-es-war
 319628,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb319628.html,wien-wo-es-war
 319631,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb319631.html,wien-wo-es-war
 319634,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb319634.html,wien-wo-es-war
@@ -12932,7 +12929,6 @@ pmb_id,entity_type,uri,domain
 319673,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb319673.html,wien-wo-es-war
 319676,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb319676.html,wien-wo-es-war
 319679,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb319679.html,wien-wo-es-war
-319682,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb319682.html,wien-wo-es-war
 319685,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb319685.html,wien-wo-es-war
 319688,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb319688.html,wien-wo-es-war
 319691,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb319691.html,wien-wo-es-war
@@ -14010,7 +14006,6 @@ pmb_id,entity_type,uri,domain
 323782,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb323782.html,wien-wo-es-war
 323785,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb323785.html,wien-wo-es-war
 323788,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb323788.html,wien-wo-es-war
-323791,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb323791.html,wien-wo-es-war
 323794,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb323794.html,wien-wo-es-war
 323797,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb323797.html,wien-wo-es-war
 323800,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb323800.html,wien-wo-es-war
@@ -14092,7 +14087,6 @@ pmb_id,entity_type,uri,domain
 324028,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb324028.html,wien-wo-es-war
 324031,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb324031.html,wien-wo-es-war
 324034,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb324034.html,wien-wo-es-war
-324037,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb324037.html,wien-wo-es-war
 324040,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb324040.html,wien-wo-es-war
 324043,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb324043.html,wien-wo-es-war
 324046,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb324046.html,wien-wo-es-war
@@ -14358,7 +14352,6 @@ pmb_id,entity_type,uri,domain
 324946,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb324946.html,wien-wo-es-war
 324949,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb324949.html,wien-wo-es-war
 324952,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb324952.html,wien-wo-es-war
-324955,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb324955.html,wien-wo-es-war
 324958,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb324958.html,wien-wo-es-war
 324961,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb324961.html,wien-wo-es-war
 324964,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb324964.html,wien-wo-es-war
@@ -14378,7 +14371,6 @@ pmb_id,entity_type,uri,domain
 325006,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb325006.html,wien-wo-es-war
 325009,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb325009.html,wien-wo-es-war
 325012,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb325012.html,wien-wo-es-war
-325015,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb325015.html,wien-wo-es-war
 325018,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb325018.html,wien-wo-es-war
 325021,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb325021.html,wien-wo-es-war
 325024,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb325024.html,wien-wo-es-war
@@ -14692,7 +14684,6 @@ pmb_id,entity_type,uri,domain
 325990,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb325990.html,wien-wo-es-war
 325993,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb325993.html,wien-wo-es-war
 325996,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb325996.html,wien-wo-es-war
-325999,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb325999.html,wien-wo-es-war
 326002,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb326002.html,wien-wo-es-war
 326005,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb326005.html,wien-wo-es-war
 326008,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb326008.html,wien-wo-es-war
@@ -22167,7 +22158,6 @@ pmb_id,entity_type,uri,domain
 446160,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb446160.html,wien-wo-es-war
 446163,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb446163.html,wien-wo-es-war
 446166,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb446166.html,wien-wo-es-war
-446169,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb446169.html,wien-wo-es-war
 446172,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb446172.html,wien-wo-es-war
 446175,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb446175.html,wien-wo-es-war
 446178,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb446178.html,wien-wo-es-war
@@ -23551,7 +23541,6 @@ pmb_id,entity_type,uri,domain
 450318,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb450318.html,wien-wo-es-war
 450321,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb450321.html,wien-wo-es-war
 450324,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb450324.html,wien-wo-es-war
-450327,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb450327.html,wien-wo-es-war
 450330,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb450330.html,wien-wo-es-war
 450333,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb450333.html,wien-wo-es-war
 450336,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb450336.html,wien-wo-es-war
@@ -23806,7 +23795,6 @@ pmb_id,entity_type,uri,domain
 451083,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb451083.html,wien-wo-es-war
 451086,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb451086.html,wien-wo-es-war
 451089,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb451089.html,wien-wo-es-war
-451092,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb451092.html,wien-wo-es-war
 451095,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb451095.html,wien-wo-es-war
 451098,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb451098.html,wien-wo-es-war
 451101,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb451101.html,wien-wo-es-war
@@ -25893,7 +25881,6 @@ pmb_id,entity_type,uri,domain
 457344,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb457344.html,wien-wo-es-war
 457347,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb457347.html,wien-wo-es-war
 457350,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb457350.html,wien-wo-es-war
-457353,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb457353.html,wien-wo-es-war
 457356,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb457356.html,wien-wo-es-war
 457359,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb457359.html,wien-wo-es-war
 457362,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb457362.html,wien-wo-es-war
@@ -26424,7 +26411,6 @@ pmb_id,entity_type,uri,domain
 458940,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb458940.html,wien-wo-es-war
 458943,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb458943.html,wien-wo-es-war
 458946,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb458946.html,wien-wo-es-war
-458949,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb458949.html,wien-wo-es-war
 458952,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb458952.html,wien-wo-es-war
 458955,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb458955.html,wien-wo-es-war
 458958,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb458958.html,wien-wo-es-war
@@ -29611,7 +29597,6 @@ pmb_id,entity_type,uri,domain
 468501,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb468501.html,wien-wo-es-war
 468504,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb468504.html,wien-wo-es-war
 468507,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb468507.html,wien-wo-es-war
-468510,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb468510.html,wien-wo-es-war
 468513,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb468513.html,wien-wo-es-war
 468516,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb468516.html,wien-wo-es-war
 468519,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb468519.html,wien-wo-es-war
@@ -34217,11 +34202,6 @@ pmb_id,entity_type,uri,domain
 482320,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482320.html,wien-wo-es-war
 482323,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482323.html,wien-wo-es-war
 482326,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482326.html,wien-wo-es-war
-482329,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482329.html,wien-wo-es-war
-482332,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482332.html,wien-wo-es-war
-482335,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482335.html,wien-wo-es-war
-482338,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482338.html,wien-wo-es-war
-482341,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482341.html,wien-wo-es-war
 482344,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482344.html,wien-wo-es-war
 482347,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482347.html,wien-wo-es-war
 482350,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482350.html,wien-wo-es-war
@@ -34239,8 +34219,6 @@ pmb_id,entity_type,uri,domain
 482386,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482386.html,wien-wo-es-war
 482389,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482389.html,wien-wo-es-war
 482392,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482392.html,wien-wo-es-war
-482395,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482395.html,wien-wo-es-war
-482398,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482398.html,wien-wo-es-war
 482401,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482401.html,wien-wo-es-war
 482404,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482404.html,wien-wo-es-war
 482407,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb482407.html,wien-wo-es-war
@@ -34496,9 +34474,6 @@ pmb_id,entity_type,uri,domain
 483157,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483157.html,wien-wo-es-war
 483160,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483160.html,wien-wo-es-war
 483163,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483163.html,wien-wo-es-war
-483166,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483166.html,wien-wo-es-war
-483169,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483169.html,wien-wo-es-war
-483172,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483172.html,wien-wo-es-war
 483175,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483175.html,wien-wo-es-war
 483178,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483178.html,wien-wo-es-war
 483181,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483181.html,wien-wo-es-war
@@ -34522,8 +34497,6 @@ pmb_id,entity_type,uri,domain
 483235,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483235.html,wien-wo-es-war
 483238,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483238.html,wien-wo-es-war
 483241,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483241.html,wien-wo-es-war
-483244,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483244.html,wien-wo-es-war
-483247,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483247.html,wien-wo-es-war
 483250,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483250.html,wien-wo-es-war
 483253,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483253.html,wien-wo-es-war
 483256,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483256.html,wien-wo-es-war
@@ -34533,12 +34506,6 @@ pmb_id,entity_type,uri,domain
 483268,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483268.html,wien-wo-es-war
 483271,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483271.html,wien-wo-es-war
 483274,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483274.html,wien-wo-es-war
-483277,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483277.html,wien-wo-es-war
-483280,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483280.html,wien-wo-es-war
-483283,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483283.html,wien-wo-es-war
-483286,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483286.html,wien-wo-es-war
-483289,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483289.html,wien-wo-es-war
-483292,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483292.html,wien-wo-es-war
 483295,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483295.html,wien-wo-es-war
 483298,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483298.html,wien-wo-es-war
 483301,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb483301.html,wien-wo-es-war
@@ -38951,7 +38918,6 @@ pmb_id,entity_type,uri,domain
 496523,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb496523.html,wien-wo-es-war
 496526,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb496526.html,wien-wo-es-war
 496529,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb496529.html,wien-wo-es-war
-496532,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb496532.html,wien-wo-es-war
 496535,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb496535.html,wien-wo-es-war
 496538,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb496538.html,wien-wo-es-war
 496541,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb496541.html,wien-wo-es-war
@@ -39028,7 +38994,6 @@ pmb_id,entity_type,uri,domain
 496754,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb496754.html,wien-wo-es-war
 496757,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb496757.html,wien-wo-es-war
 496760,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb496760.html,wien-wo-es-war
-496763,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb496763.html,wien-wo-es-war
 496766,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb496766.html,wien-wo-es-war
 496769,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb496769.html,wien-wo-es-war
 496772,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb496772.html,wien-wo-es-war
@@ -61454,9 +61419,6 @@ pmb_id,entity_type,uri,domain
 587488,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb587488.html,wien-wo-es-war
 587492,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb587492.html,wien-wo-es-war
 587496,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb587496.html,wien-wo-es-war
-587500,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb587500.html,wien-wo-es-war
-587504,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb587504.html,wien-wo-es-war
-587508,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb587508.html,wien-wo-es-war
 587512,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb587512.html,wien-wo-es-war
 587516,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb587516.html,wien-wo-es-war
 587520,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb587520.html,wien-wo-es-war
@@ -65643,8 +65605,6 @@ pmb_id,entity_type,uri,domain
 604510,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb604510.html,wien-wo-es-war
 604514,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb604514.html,wien-wo-es-war
 604518,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb604518.html,wien-wo-es-war
-604522,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb604522.html,wien-wo-es-war
-604526,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb604526.html,wien-wo-es-war
 604530,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb604530.html,wien-wo-es-war
 604534,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb604534.html,wien-wo-es-war
 604538,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb604538.html,wien-wo-es-war
@@ -68525,6 +68485,7 @@ pmb_id,entity_type,uri,domain
 616349,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb616349.html,wien-wo-es-war
 616353,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb616353.html,wien-wo-es-war
 623584,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb623584.html,wien-wo-es-war
+623709,event,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb623709.html,wien-wo-es-war
 29205,org,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb29205.html,wien-wo-es-war
 29236,org,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb29236.html,wien-wo-es-war
 29237,org,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb29237.html,wien-wo-es-war
@@ -69367,6 +69328,7 @@ pmb_id,entity_type,uri,domain
 8856,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb8856.html,wien-wo-es-war
 8868,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb8868.html,wien-wo-es-war
 8871,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb8871.html,wien-wo-es-war
+8879,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb8879.html,wien-wo-es-war
 8889,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb8889.html,wien-wo-es-war
 8895,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb8895.html,wien-wo-es-war
 8900,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb8900.html,wien-wo-es-war
@@ -73402,7 +73364,9 @@ pmb_id,entity_type,uri,domain
 305008,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb305008.html,wien-wo-es-war
 305016,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb305016.html,wien-wo-es-war
 305031,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb305031.html,wien-wo-es-war
+305165,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb305165.html,wien-wo-es-war
 305435,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb305435.html,wien-wo-es-war
+305599,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb305599.html,wien-wo-es-war
 305665,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb305665.html,wien-wo-es-war
 307554,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb307554.html,wien-wo-es-war
 307601,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb307601.html,wien-wo-es-war
@@ -74074,7 +74038,6 @@ pmb_id,entity_type,uri,domain
 511137,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb511137.html,wien-wo-es-war
 511139,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb511139.html,wien-wo-es-war
 511141,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb511141.html,wien-wo-es-war
-511142,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb511142.html,wien-wo-es-war
 511143,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb511143.html,wien-wo-es-war
 511144,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb511144.html,wien-wo-es-war
 511145,person,https://wien-wo-es-war.acdh.oeaw.ac.at/pmb511145.html,wien-wo-es-war

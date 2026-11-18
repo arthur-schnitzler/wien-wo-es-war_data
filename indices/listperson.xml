@@ -381,13 +381,19 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207364/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207364.html</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18760905&amp;seite=1#burgtheater-heinrich-der-vierte-erster-teil</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/323791/</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665739f14e11902147553f92</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18760905&amp;seite=1#burgtheater-koenig-heinrich-iv-1-teil</idno>
             </event>
             <event n="Theateraufführung" key="207365" when-iso="1876-09-07">
               <desc n="1370">teilnehmend</desc>
               <label>Aufführung von König Heinrich der Vierte (Zweiter Teil), 7.9.1876</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207365/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207365.html</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66573ad54e11902147555259</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18760907&amp;seite=1#burgtheater-koenig-heinrich-der-vierte-zweiter-teil</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/324037/</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18760907&amp;seite=1#burgtheater-koenig-heinrich-iv-2-teil</idno>
             </event>
             <event n="Theateraufführung" key="207366" when-iso="1876-09-09">
               <desc n="1370">teilnehmend</desc>
@@ -773,10 +779,13 @@
             </event>
             <event n="Theateraufführung" key="207425" when-iso="1878-02-27">
               <desc n="1370">teilnehmend</desc>
-              <label>Aufführung von Faust. Eine Tragödie, 27.2.1878</label>
+              <label>Aufführung von Faust, 27.2.1878</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207425/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207425.html</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18780227&amp;seite=1#burgtheater-faust-eine-tragoedie</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/325999/</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66583f4f4e11902147698870</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18780227&amp;seite=1#burgtheater-faust-i-teil</idno>
             </event>
             <event n="Vortrag" key="207426" when-iso="1878-03-02">
               <desc n="1370">teilnehmend</desc>
@@ -880,10 +889,13 @@
             </event>
             <event n="Theateraufführung" key="207442" when-iso="1878-05-25">
               <desc n="1370">teilnehmend</desc>
-              <label>Aufführung von Uriel Acosta. Trauerspiel in fünf Aufzügen, 25.5.1878</label>
+              <label>Aufführung von Uriel Acosta, 25.5.1878</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207442/</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/315506/</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665895aa4e1190214770c163</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207442.html</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18780525&amp;seite=1#burgtheater-uriel-acosta-trauerspiel-in-fuenf-aufzuegen</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18780525&amp;seite=1#burgtheater-uriel-acosta</idno>
             </event>
             <event n="Opernaufführung" key="207443" when-iso="1878-06-02">
               <desc n="1370">teilnehmend</desc>
@@ -1075,10 +1087,13 @@
             </event>
             <event n="Theateraufführung" key="207470" when-iso="1879-02-01">
               <desc n="1370">teilnehmend</desc>
-              <label>Aufführung von Die Journalisten. Lustspiel in vier Akten, 1.2.1879</label>
+              <label>Aufführung von Die Journalisten, 1.2.1879</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207470/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207470.html</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/319625/</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658b8214e1190214773f0be</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790201&amp;seite=1#burgtheater-die-journalisten-lustspiel-in-vier-akten</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790201&amp;seite=1#burgtheater-die-journalisten</idno>
             </event>
             <event n="Opernaufführung" key="207471" when-iso="1879-02-05">
               <desc n="1370">teilnehmend</desc>
@@ -1403,12 +1418,21 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207520/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207520.html</idno>
             </event>
-            <event n="Theateraufführung" key="207521" when-iso="1879-10-26">
+            <event n="Theateraufführung" key="207521" when-iso="1879-10-31">
               <desc n="1370">teilnehmend</desc>
-              <label>Aufführung von Hofball, Wenn man nicht tanzt, 26.10.1879</label>
+              <label>Aufführung von Hofball, Wenn man nicht tanzt, 31.10.1879</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207521/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207521.html</idno>
-              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18791026&amp;seite=1#burgtheater-hofball-wenn-man-nicht-tanzt</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/325015/</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665986774e11902147842364</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/324955/</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/446169/</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665986604e11902147842176</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18791031&amp;seite=1#burgtheater-wenn-man-nicht-tanzt</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18791031&amp;seite=1#burgtheater-hofball-wenn-man-nicht-tanzt</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18791031&amp;seite=1#burgtheater-die-verlassenen</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665986a64e1190214784272f</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18791031&amp;seite=1#burgtheater-der-hofball</idno>
             </event>
             <event n="Theateraufführung" key="207522" when-iso="1879-11-07">
               <desc n="1370">teilnehmend</desc>
@@ -3972,12 +3996,15 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207916/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207916.html</idno>
             </event>
-            <event n="Theateraufführung" key="207917" when-iso="1885-05-31">
+            <event n="Theateraufführung" key="207917" when-iso="1885-05-30">
               <desc n="1370">teilnehmend</desc>
-              <label>Aufführung von Die Journalisten. Lustspiel in vier Akten, 31.5.1885</label>
+              <label>Aufführung von Die Journalisten, 30.5.1885</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207917/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207917.html</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/319682/</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665ee0f74e11902147efbb83</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18850531&amp;seite=1#burgtheater-die-journalisten-lustspiel-in-vier-akten</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18850530&amp;seite=1#burgtheater-die-journalisten</idno>
             </event>
             <event n="Volksgesang" key="207918" when-iso="1885-06-01">
               <desc n="1370">teilnehmend</desc>
@@ -4803,12 +4830,15 @@
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208040.html</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18860610&amp;seite=1#burgtheater-die-journalisten-lustspiel-in-vier-akten</idno>
             </event>
-            <event n="Theateraufführung" key="208041" when-iso="1886-06-14">
+            <event n="Theateraufführung" key="208041" when-iso="1886-06-15">
               <desc n="1370">teilnehmend</desc>
-              <label>Aufführung von Die alten Junggesellen, 14.6.1886</label>
+              <label>Aufführung von Die alten Junggesellen, 15.6.1886</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208041/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208041.html</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18860614&amp;seite=1#burgtheater-die-alten-junggesellen</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/450327/</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66601f5d4e1190214708f7e7</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18860615&amp;seite=1#burgtheater-die-alten-junggesellen</idno>
             </event>
             <event n="Theateraufführung" key="208042" when-iso="1886-06-18">
               <desc n="1370">teilnehmend</desc>
@@ -5492,7 +5522,10 @@
               <label>Aufführung von Was Ihr wollt, 24.6.1887</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208148/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208148.html</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/451092/</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6661882d4e11902147252238</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18870624&amp;seite=1#burgtheater-was-ihr-wollt</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18870624&amp;seite=1#burgtheater-was-ihr-wollt-2</idno>
             </event>
             <event n="Theateraufführung" key="208149" when-iso="1887-06-28">
               <desc n="1370">teilnehmend</desc>
@@ -6638,6 +6671,7 @@
               <desc n="1256">mitwirkend</desc>
               <label>Sitzung des Veranstaltungskomitees des Balles der allgemeinen Poliklinik, 19.3.1889</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/339339/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb339339.html</idno>
             </event>
             <event n="Varieté" key="208323" when-iso="1889-03-21">
               <desc n="1370">teilnehmend</desc>
@@ -6842,7 +6876,6 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186720/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186720.html</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208350/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208350.html</idno>
             </event>
             <event n="Philharmonisches Konzert" key="208351" when-iso="1889-11-03">
               <desc n="1370">teilnehmend</desc>
@@ -6905,7 +6938,6 @@
               <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 5.12.1889</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186741/</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208359/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208359.html</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186741.html</idno>
             </event>
             <event n="Theateraufführung" key="208360" when-iso="1889-12-10">
@@ -6920,7 +6952,6 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186746/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186746.html</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208361/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208361.html</idno>
             </event>
             <event n="Private Lesung" key="186755" when-iso="1889-12-17">
               <desc n="1256">mitwirkend</desc>
@@ -8200,6 +8231,7 @@
               <label>Private Lesung von Sensationen, 2.1.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364753/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb364753.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb364753.html</idno>
             </event>
             <event n="Theateraufführung" key="208519" when-iso="1892-01-03">
               <desc n="1370">teilnehmend</desc>
@@ -8448,6 +8480,7 @@
               <label>Vereinsabend Verein für modernes Leben, 29.3.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89338/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb89338.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb89338.html</idno>
             </event>
             <event n="Theaterpremiere" key="208548" when-iso="1892-04-02">
               <desc n="1370">teilnehmend</desc>
@@ -8732,6 +8765,7 @@
               <label>Private Lesung von Gestern, 9.10.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/336761/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb336761.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb336761.html</idno>
             </event>
             <event n="Theateraufführung" key="208578" when-iso="1892-10-11">
               <desc n="1370">teilnehmend</desc>
@@ -8825,6 +8859,7 @@
               <desc n="1370">teilnehmend</desc>
               <label>3. Abonnementkonzert, 4.12.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/405507/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb405507.html</idno>
             </event>
             <event n="Opernaufführung" key="208587" when-iso="1892-12-05">
               <desc n="1370">teilnehmend</desc>
@@ -8853,6 +8888,7 @@
               <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66683f1fcd334071f7b571be</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb405512.html</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18921214&amp;seite=1#burgtheater-die-juedin-von-toledo</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb405512.html</idno>
             </event>
             <event n="Private Lesung" key="192651" when-iso="1892-12-20">
               <desc n="1256">mitwirkend</desc>
@@ -8864,6 +8900,7 @@
               <desc n="1370">teilnehmend</desc>
               <label>?? [Theaterbesuch], 29.12.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/405519/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb405519.html</idno>
             </event>
             <event n="Quartett" key="208589" when-iso="1893-01-03">
               <desc n="1370">teilnehmend</desc>
@@ -8999,6 +9036,7 @@
               <label>Opernredoute, 1.2.1893</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364861/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb364861.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb364861.html</idno>
             </event>
             <event n="Theateraufführung" key="208603" when-iso="1893-02-06">
               <desc n="1370">teilnehmend</desc>
@@ -10096,8 +10134,8 @@
               <label>Wohltätigkeitsaufführung von Tata-Toto, 28.9.1894</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38885/</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195169/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195169.html</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb38885.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb38885.html</idno>
             </event>
             <event n="Theaterpremiere" key="208693" when-iso="1894-09-29">
               <desc n="1370">teilnehmend</desc>
@@ -10757,7 +10795,10 @@
               <label>Aufführung von Viel Lärm um nichts, 24.5.1895</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208743/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208743.html</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666a911acd334071f7e446dd</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18950524&amp;seite=1#burgtheater-viel-laerm-um-nichts</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/457353/</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18950524&amp;seite=1#burgtheater-viel-laerm-um-nichts-2</idno>
             </event>
             <event n="Theaterpremiere" key="208744" when-iso="1895-06-08">
               <desc n="1370">teilnehmend</desc>
@@ -10909,6 +10950,7 @@
               <label>Aufführung eines Marionettentheaters, 11.8.1895</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/405561/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb405561.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb405561.html</idno>
             </event>
             <event n="Opernaufführung" key="208765" when-iso="1895-08-12">
               <desc n="1370">teilnehmend</desc>
@@ -11510,7 +11552,6 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43358/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43358.html</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208820/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208820.html</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43358.html</idno>
             </event>
             <event n="Probe" key="199477" when-iso="1896-02-01">
@@ -12459,7 +12500,10 @@
               <label>Aufführung von Der Widerspenstigen Zähmung, 21.3.1897</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208912/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208912.html</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ed706cd334071f739b2ae</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18970321&amp;seite=2#burgtheater-der-widerspenstigen-zaehmung</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/458949/</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18970321&amp;seite=2#burgtheater-die-widerspaenstige-der-widerspenstigen-zaehmung</idno>
             </event>
             <event n="Private Lesung" key="183906" when-iso="1897-03-22">
               <desc n="1256">mitwirkend</desc>
@@ -12467,7 +12511,6 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183906/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183906.html</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184192/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184192.html</idno>
             </event>
             <event n="Probe" key="200052" when-iso="1897-03-24">
               <desc n="1256">mitwirkend</desc>
@@ -13055,6 +13098,7 @@
               <desc n="1370">teilnehmend</desc>
               <label>1. Abonnement-Concert des k.k. Hofopernorchesters unter der Leitung von Hans Richter, 7.11.1897</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/365145/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb365145.html</idno>
             </event>
             <event n="Quartett" key="208974" when-iso="1897-11-09">
               <desc n="1370">teilnehmend</desc>
@@ -13982,6 +14026,7 @@
               <label>Private Lesung von Der Abenteurer und die Sängerin, 6.11.1898</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/365200/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb365200.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb365200.html</idno>
             </event>
             <event n="Theateraufführung" key="209041" when-iso="1898-11-10">
               <desc n="1370">teilnehmend</desc>
@@ -14379,6 +14424,7 @@
               <desc n="1370">teilnehmend</desc>
               <label>Hochzeit von Risa Strisower und Paul Horn, 26.2.1899</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353320/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353320.html</idno>
             </event>
             <event n="Probe" key="206931" when-iso="1899-02-27">
               <desc n="1370">teilnehmend</desc>
@@ -21143,7 +21189,7 @@
               <label>Premiere von Die gelbe Nachtigall, 15.5.1909</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35293/</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209562/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209562.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35293.html</idno>
             </event>
             <event n="Theateraufführung" key="209563" when-iso="1909-05-17">
               <desc n="1370">teilnehmend</desc>
@@ -22837,12 +22883,11 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/252920/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb252920.html</idno>
             </event>
-            <event n="Opernaufführung" key="209631" when-iso="1912-03-14">
+            <event n="Sinfoniekonzert" key="209631" when-iso="1912-03-14">
               <desc n="1370">teilnehmend</desc>
-              <label>Aufführung von 8. Sinfonie, 14.3.1912</label>
+              <label>Premiere von 8. Sinfonie, 14.3.1912</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209631/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209631.html</idno>
-              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=ope&amp;datum=19120314&amp;seite=1#oper-8-sinfonie</idno>
             </event>
             <event n="Probe" key="252928" when-iso="1912-03-14">
               <desc n="1370">teilnehmend</desc>
@@ -25276,7 +25321,6 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238700/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238700.html</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/263716/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb263716.html</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19151017&amp;seite=1#burgtheater-komoedie-der-worte</idno>
             </event>
             <event n="Panoramabesuch" key="298008" when-iso="1915-10-18">
@@ -29491,7 +29535,13 @@
               <label>Aufführung von Das Triptychon, 1.6.1921</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210100/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210100.html</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/587500/</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/587508/</idno>
+              <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/449#op_1921-06-01_449</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/587504/</idno>
+              <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/322#op_1921-06-01_322</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=ope&amp;datum=19210601&amp;seite=1#oper-das-triptychon</idno>
+              <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/201#op_1921-06-01_201</idno>
             </event>
             <event n="Opernaufführung" key="210101" when-iso="1921-06-04">
               <desc n="1370">teilnehmend</desc>
@@ -32802,7 +32852,7 @@
               <label>Premiere von Überfahrt, 14.11.1924</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55623/</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210314/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210314.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55623.html</idno>
             </event>
             <event n="Orchesterkonzert" key="210315" when-iso="1924-11-16">
               <desc n="1370">teilnehmend</desc>
@@ -33292,7 +33342,7 @@
               <label>Vortrag von Das heutige Europa, 8.4.1925</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37735/</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210338/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210338.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb37735.html</idno>
             </event>
             <event n="Konzert" key="210339" when-iso="1925-04-16">
               <desc n="1370">teilnehmend</desc>
@@ -33983,6 +34033,7 @@
               <desc n="1370">teilnehmend</desc>
               <label>Empfang und Souper bei Oberbürgermeister Boess, 7.2.1926</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353622/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353622.html</idno>
             </event>
             <event n="Revue" key="249730" when-iso="1926-02-13">
               <desc n="1370">teilnehmend</desc>
@@ -35038,7 +35089,6 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/247485/</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210412/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210412.html</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb247485.html</idno>
             </event>
             <event n="Varieté" key="210895" when-iso="1927-04-23">
               <desc n="1370">teilnehmend</desc>
@@ -37643,9 +37693,11 @@
             </event>
             <event n="Theateraufführung" key="237955" when-iso="1930-02-26">
               <desc n="1370">teilnehmend</desc>
-              <label>Aufführung von Die Feuerglocke, 26.2.1930</label>
+              <label>Aufführung von Drei Damen im Kongreß oder Die Feuerglocke, 26.2.1930</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/237955/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb237955.html</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/496532/</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66940aa56af2b0e29f6110ff</idno>
             </event>
             <event n="Theateraufführung" key="237961" when-iso="1930-03-02">
               <desc n="1370">teilnehmend</desc>
@@ -37743,10 +37795,13 @@
             </event>
             <event n="Theateraufführung" key="238015" when-iso="1930-04-06">
               <desc n="1370">teilnehmend</desc>
-              <label>Aufführung von Der Kampf. Vivat academia! (Herr Doktor, haben Sie zu essen?), 6.4.1930</label>
+              <label>Aufführung von Herr Doktor, haben Sie zu essen?, 6.4.1930</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238015/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238015.html</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/496763/</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19300406&amp;seite=1#burgtheater-der-kampf-vivat-academia-herr-doktor-haben-sie-zu-essen</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669540576af2b0e29f79bdaf</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19300406&amp;seite=1#burgtheater-herr-doktor-haben-sie-zu-essen</idno>
             </event>
             <event n="Filmvorführung" key="211146" when-iso="1930-04-07">
               <desc n="1370">teilnehmend</desc>
@@ -38530,7 +38585,6 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238915/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238915.html</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244756/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244756.html</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19310122&amp;seite=1#burgtheater-haus-rothschild</idno>
             </event>
             <event n="Opernaufführung" key="244761" when-iso="1931-01-23">
@@ -39258,7 +39312,11 @@
               <label>Aufführung von Das Triptychon, 25.9.1931</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/245662/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb245662.html</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/604526/</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/604522/</idno>
+              <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/322#op_1931-09-25_322</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=ope&amp;datum=19310925&amp;seite=1#oper-das-triptychon</idno>
+              <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/449#op_1931-09-25_449</idno>
             </event>
             <event n="Filmvorführung" key="211268" when-iso="1931-09-26">
               <desc n="1370">teilnehmend</desc>
@@ -40514,6 +40572,7 @@
               <label>Private Lesung von Sensationen, 2.1.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364753/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb364753.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb364753.html</idno>
             </event>
             <event n="Private Lesung" key="142757" when-iso="1892-01-31">
               <desc n="1370">teilnehmend</desc>
@@ -40613,6 +40672,7 @@
               <label>Opernredoute, 1.2.1893</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364861/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb364861.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb364861.html</idno>
             </event>
             <event n="Private Lesung" key="192678" when-iso="1893-03-21">
               <desc n="1370">teilnehmend</desc>
@@ -40728,6 +40788,7 @@
               <label>Aufführung eines Marionettentheaters, 11.8.1895</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/405561/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb405561.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb405561.html</idno>
             </event>
             <event n="Veranstaltung" key="585719" when-iso="1895-10-01">
               <desc n="1370">teilnehmend</desc>
@@ -42199,6 +42260,12 @@
               <label>Private Lesung von Frau Beate und ihr Sohn, 25.2.1912</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/252782/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb252782.html</idno>
+            </event>
+            <event n="Sinfoniekonzert" key="209631" when-iso="1912-03-14">
+              <desc n="1370">teilnehmend</desc>
+              <label>Premiere von 8. Sinfonie, 14.3.1912</label>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209631/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209631.html</idno>
             </event>
             <event n="Theateruraufführung" key="148379" when-iso="1912-03-16">
               <desc n="1370">teilnehmend</desc>
@@ -44676,6 +44743,7 @@
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00099154</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb2276.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb2276.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb2276.html</idno>
           <listEvent>
             <event n="Theateraufführung" key="210118" when-iso="1921-10-20">
               <desc n="1370">teilnehmend</desc>
@@ -45548,8 +45616,8 @@
               <label>Wohltätigkeitsaufführung von Tata-Toto, 28.9.1894</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38885/</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195169/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195169.html</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb38885.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb38885.html</idno>
             </event>
             <event n="Vereinstreffen" key="192466" when-iso="1907-11-06">
               <desc n="1370">teilnehmend</desc>
@@ -46001,7 +46069,6 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183906/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183906.html</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184192/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184192.html</idno>
             </event>
             <event n="Konzert" key="118484" when-iso="1897-04-30">
               <desc n="1370">teilnehmend</desc>
@@ -46849,6 +46916,7 @@
               <label>Private Lesung von Sensationen, 2.1.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364753/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb364753.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb364753.html</idno>
             </event>
             <event n="Bankett" key="143820" when-iso="1900-04-15">
               <desc n="1370">teilnehmend</desc>
@@ -47002,19 +47070,22 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/300186/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb300186.html</idno>
             </event>
-            <event n="Theateraufführung" key="421440" when-iso="1904-11-07">
-              <desc n="1256">mitwirkend</desc>
-              <label>Aufführung von Die Verschwörung des Fiesko zu Genua, 7.11.1904</label>
-              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421440/</idno>
-              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb421440.html</idno>
-              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19041107&amp;seite=1#burgtheater-die-verschwoerung-des-fiesko-zu-genua</idno>
-            </event>
             <event n="Theateraufführung" key="143145" when-iso="1905-09-29">
               <desc n="1370">teilnehmend</desc>
               <label>Aufführung von Liebelei, Die Gefährtin, 29.9.1905</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143145/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143145.html</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19050929&amp;seite=1#burgtheater-liebelei-die-gefaehrtin</idno>
+            </event>
+            <event n="Theateraufführung" key="421440" when-iso="1907-11-09">
+              <desc n="1256">mitwirkend</desc>
+              <label>Aufführung von Die Verschwörung des Fiesko zu Genua, 9.11.1907</label>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421440/</idno>
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb421440.html</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/468510/</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66775e8ecd334071f7e95e0b</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19041107&amp;seite=1#burgtheater-die-verschwoerung-des-fiesko-zu-genua</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19071109&amp;seite=1#burgtheater-die-verschwoerung-des-fiesko-zu-genua</idno>
             </event>
             <event n="Probe" key="249927" when-iso="1910-04-07">
               <desc n="1256">mitwirkend</desc>
@@ -47179,6 +47250,7 @@
               <label>Private Lesung von Sensationen, 2.1.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364753/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb364753.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb364753.html</idno>
             </event>
             <event n="Vereinstreffen" key="89316" when-iso="1892-01-18">
               <desc n="1370">teilnehmend</desc>
@@ -47288,6 +47360,7 @@
               <label>Private Lesung von Sensationen, 2.1.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364753/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb364753.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb364753.html</idno>
             </event>
             <event n="Private Lesung" key="192651" when-iso="1892-12-20">
               <desc n="1370">teilnehmend</desc>
@@ -48573,6 +48646,7 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb2583.html</idno>
           <idno type="URL" subtype="oebl">https://doi.org/10.1553/0X00284693</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb2583.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb2583.html</idno>
           <listBibl>
             <bibl type="collections" n="12">Karl Kraus: Die Fackel</bibl>
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
@@ -49880,6 +49954,7 @@
           <idno type="URL" subtype="oebl">https://doi.org/10.1553/0x00281f6f</idno>
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q61197804</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb2732.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb2732.html</idno>
           <listEvent>
             <event n="Opernaufführung" key="209611" when-iso="1911-09-20">
               <desc n="1256">mitwirkend</desc>
@@ -52585,6 +52660,7 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb2992.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/338594/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb2992.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb2992.html</idno>
           <affiliation>
             <term key="1182">arbeitet für</term>
             <orgName key="60847">Russkije vedomosti</orgName>
@@ -53283,6 +53359,7 @@
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb3073</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb3073.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb3073.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb3073.html</idno>
           <listEvent>
             <event n="Generalprobe" key="209552" when-iso="1909-03-04">
               <desc n="1256">mitwirkend</desc>
@@ -55336,6 +55413,7 @@
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb3452</idno>
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00016242</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb3452.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb3452.html</idno>
           <listEvent>
             <event n="Private Lesung" key="298447" when-iso="1881-02-13">
               <desc n="1370">teilnehmend</desc>
@@ -56765,6 +56843,7 @@
               <label>Aufführung eines Marionettentheaters, 11.8.1895</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/405561/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb405561.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb405561.html</idno>
             </event>
             <event n="Theateraufführung" key="168841" when-iso="1896-11-13">
               <desc n="1370">teilnehmend</desc>
@@ -62317,9 +62396,9 @@
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5696.html</idno>
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00083162</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26862/</idno>
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb26862.html</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb26862.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb5696.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb5696.html</idno>
           <listBibl>
             <bibl type="collections" n="86">Arthur Schnitzler (DLA-Marbach)</bibl>
           </listBibl>
@@ -64988,6 +65067,7 @@
           <idno type="URL" subtype="brenner">https://brenner.oeaw.ac.at/?p=brennerp1320</idno>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/person/single.xhtml?id=10910902</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb6300.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb6300.html</idno>
           <listEvent>
             <event n="Theaterpremiere" key="209635" when-iso="1912-03-16">
               <desc n="1370">teilnehmend</desc>
@@ -69974,6 +70054,7 @@
           <idno type="URL" subtype="schaubuehne">https://schaubuehne.oeaw.ac.at/register.html?author=2022</idno>
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00015893</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb7193.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb7193.html</idno>
           <affiliation>
             <term key="3415">Lernender/Lernende an</term>
             <orgName key="143648">Gymnasium Wasagasse</orgName>
@@ -70187,6 +70268,16 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb7235.html</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb7235.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb7235.html</idno>
+          <affiliation from-iso="1906-01-01" to-iso="1907-01-01">
+            <term key="3415">Lernender/Lernende an</term>
+            <orgName key="623763">Cottage-Lyzeum</orgName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/623763/</idno>
+          </affiliation>
+          <affiliation from-iso="1917-01-01" to-iso="1920-01-01">
+            <term key="1182">arbeitet für</term>
+            <orgName key="623763">Cottage-Lyzeum</orgName>
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/623763/</idno>
+          </affiliation>
           <affiliation when-iso="1922-01-01">
             <term key="1182">arbeitet für</term>
             <orgName key="44439">Wiener psychoanalytische Vereinigung</orgName>
@@ -73880,6 +73971,7 @@
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00067902</idno>
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00077000</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb7777.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb7777.html</idno>
           <listEvent>
             <event n="Theateraufführung" key="182270" when-iso="1900-12-21">
               <desc n="1256">mitwirkend</desc>
@@ -74280,6 +74372,7 @@
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=17374</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb7882.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb7882.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb7882.html</idno>
           <affiliation when-iso="1910-12-17">
             <term key="4232">ist Mitglied bei</term>
             <orgName key="305655">Österreichische Krebshilfe</orgName>
@@ -74385,12 +74478,14 @@
               <label>Aufführung von Die Zauberflöte, 1.9.1869</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/511944/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/543#op_1869-09-01_543</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18690901&amp;seite=1#oper-die-zauberfloete</idno>
             </event>
             <event n="Opernpremiere" key="521297" when-iso="1877-03-05">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Die Walküre, 5.3.1877</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/521297/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/143#op_1877-03-05_143</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18770305&amp;seite=1#oper-die-walkuere</idno>
             </event>
           </listEvent>
           <listBibl>
@@ -75459,6 +75554,7 @@
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb8057</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb8057.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb8057.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb8057.html</idno>
           <affiliation>
             <term key="1182">arbeitet für</term>
             <orgName key="29414">Neues Wiener Tagblatt</orgName>
@@ -80096,6 +80192,12 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/252928/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb252928.html</idno>
             </event>
+            <event n="Sinfoniekonzert" key="209631" when-iso="1912-03-14">
+              <desc n="1256">mitwirkend</desc>
+              <label>Premiere von 8. Sinfonie, 14.3.1912</label>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209631/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209631.html</idno>
+            </event>
             <event n="Probe" key="252938" when-iso="1912-03-15">
               <desc n="1256">mitwirkend</desc>
               <label>Probe von Der tapfere Kassian. Singspiel, 15.3.1912</label>
@@ -80788,6 +80890,47 @@
           <figure>
             <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Karl_May_edit.jpg/250px-Karl_May_edit.jpg" />
           </figure>
+        </person>
+        <person xml:id="pmb8879">
+          <persName>
+            <forename>Richard</forename>
+            <surname>Mayr</surname>
+          </persName>
+          <birth>
+            <date when-iso="1848-12-26">1848-12-26</date>
+            <settlement key="58825">
+              <placeName type="pref">Sieghartskirchen</placeName>
+              <location>
+                <geo>48,25531 16,01223</geo>
+              </location>
+            </settlement>
+          </birth>
+          <death>
+            <date when-iso="1915-01-29">1915-01-29</date>
+            <settlement key="50">
+              <placeName type="pref">Wien</placeName>
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+            </settlement>
+          </death>
+          <sex value="male" />
+          <occupation key="260">Gymnasiallehrer/Gymnasiallehrerin</occupation>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116973595</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8879/</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q4275048</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb8879.html</idno>
+          <listEvent>
+            <event n="Sinfoniekonzert" key="209631" when-iso="1912-03-14">
+              <desc n="1256">mitwirkend</desc>
+              <label>Premiere von 8. Sinfonie, 14.3.1912</label>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209631/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209631.html</idno>
+            </event>
+          </listEvent>
+          <listBibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+          </listBibl>
         </person>
         <person xml:id="pmb8889">
           <persName>
@@ -84085,6 +84228,7 @@
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00642893</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb9449.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb9449.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb9449.html</idno>
           <affiliation>
             <term key="1182">arbeitet für</term>
             <orgName key="29558">Grillparzer-Gesellschaft</orgName>
@@ -84153,6 +84297,7 @@
               <label>Premiere von Die Fledermaus, 28.10.1894</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/548315/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/177#op_1894-10-28_177</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18941028&amp;seite=1#oper-die-fledermaus</idno>
             </event>
             <event n="Opernuraufführung" key="550754" when-iso="1896-03-21">
               <desc n="1256">mitwirkend</desc>
@@ -84730,6 +84875,7 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb9531.html</idno>
           <idno type="URL" subtype="tillich-briefe">https://tillich-briefe.acdh.oeaw.ac.at/tillich_person_id__1611.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb9531.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb9531.html</idno>
           <affiliation when-iso="1916-01-01">
             <term key="1182">arbeitet für</term>
             <orgName key="293828">Kriegsarchiv</orgName>
@@ -85221,6 +85367,7 @@
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb9598</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb9598.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb9598.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb9598.html</idno>
           <affiliation from-iso="1899-10-15" to-iso="1899-11-21">
             <term key="1182">arbeitet für</term>
             <orgName key="36687">Staatsoper</orgName>
@@ -86019,6 +86166,7 @@
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00081946</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb9671.html</idno>
           <idno type="URL" subtype="oebl">https://doi.org/10.1553/0X00285007</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb9671.html</idno>
           <affiliation>
             <term key="1409">besitzt</term>
             <orgName key="29525">Wiener Sonn- und Montagszeitung</orgName>
@@ -92267,6 +92415,7 @@
             <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q4863769</idno>
             <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1167431332</idno>
             <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Barrison_Sisters</idno>
+            <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb336723.html</idno>
           </affiliation>
           <listEvent>
             <event n="Varieté" key="199353" when-iso="1895-10-17">
@@ -92317,6 +92466,7 @@
             <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q4863769</idno>
             <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1167431332</idno>
             <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Barrison_Sisters</idno>
+            <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb336723.html</idno>
           </affiliation>
           <listEvent>
             <event n="Varieté" key="199353" when-iso="1895-10-17">
@@ -92379,6 +92529,7 @@
             <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q4863769</idno>
             <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1167431332</idno>
             <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Barrison_Sisters</idno>
+            <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb336723.html</idno>
           </affiliation>
           <listEvent>
             <event n="Varieté" key="199353" when-iso="1895-10-17">
@@ -93641,6 +93792,7 @@
               <label>Private Lesung von Sensationen, 2.1.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364753/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb364753.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb364753.html</idno>
             </event>
             <event n="Vereinstreffen" key="89316" when-iso="1892-01-18">
               <desc n="1370">teilnehmend</desc>
@@ -93667,6 +93819,7 @@
               <label>Vereinsabend Verein für modernes Leben, 29.3.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89338/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb89338.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb89338.html</idno>
             </event>
             <event n="Theateraufführung" key="89342" when-iso="1892-04-13">
               <desc n="1256">mitwirkend</desc>
@@ -93856,6 +94009,7 @@
               <label>Aufführung von Die Walküre, 13.12.1904</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510896/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/143#pmb510896</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=ope&amp;datum=19041213&amp;seite=1#oper-die-walkuere</idno>
             </event>
             <event n="Gesellschaftskonzert" key="209351" when-iso="1904-12-14">
               <desc n="1370">teilnehmend</desc>
@@ -93927,12 +94081,14 @@
               <label>Aufführung von Götterdämmerung, 13.4.1913</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510957/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/145#pmb510957</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=ope&amp;datum=19130413&amp;seite=1#oper-goetterdaemmerung</idno>
             </event>
             <event n="Opernaufführung" key="510963" when-iso="1913-05-05">
               <desc n="1370">teilnehmend</desc>
               <label>Aufführung von Tristan und Isolde, 5.5.1913</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510963/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/140#pmb510963</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=ope&amp;datum=19130505&amp;seite=1#oper-tristan-und-isolde</idno>
             </event>
             <event n="Feier" key="296186" when-iso="1913-05-26">
               <desc n="1370">teilnehmend</desc>
@@ -94044,12 +94200,14 @@
               <label>Aufführung von Tannhäuser, 3.12.1904</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510890/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/138#pmb510890</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=ope&amp;datum=19041203&amp;seite=1#oper-tannhaeuser</idno>
             </event>
             <event n="Opernaufführung" key="510896" when-iso="1904-12-13">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Die Walküre, 13.12.1904</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510896/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/143#pmb510896</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=ope&amp;datum=19041213&amp;seite=1#oper-die-walkuere</idno>
             </event>
             <event n="Opernaufführung" key="421429" when-iso="1904-12-23">
               <desc n="1256">mitwirkend</desc>
@@ -94094,6 +94252,7 @@
               <label>Aufführung von Götterdämmerung, 13.4.1913</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510957/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/145#pmb510957</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=ope&amp;datum=19130413&amp;seite=1#oper-goetterdaemmerung</idno>
             </event>
             <event n="Konzert" key="185348" when-iso="1913-05-02">
               <desc n="1370">teilnehmend</desc>
@@ -94106,6 +94265,7 @@
               <label>Aufführung von Tristan und Isolde, 5.5.1913</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510963/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/140#pmb510963</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=ope&amp;datum=19130505&amp;seite=1#oper-tristan-und-isolde</idno>
             </event>
             <event n="Theateraufführung" key="59776" when-iso="1914-03-27">
               <desc n="1256">mitwirkend</desc>
@@ -94426,6 +94586,7 @@
               <desc n="1370">teilnehmend</desc>
               <label>Empfang und Souper bei Oberbürgermeister Boess, 7.2.1926</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353622/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353622.html</idno>
             </event>
           </listEvent>
           <listBibl>
@@ -95307,6 +95468,7 @@
               <label>Private Lesung von Gestern, 9.10.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/336761/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb336761.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb336761.html</idno>
             </event>
             <event n="Theateraufführung" key="42481" when-iso="1892-10-14">
               <desc n="1370">teilnehmend</desc>
@@ -95343,6 +95505,7 @@
               <label>Opernredoute, 1.2.1893</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364861/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb364861.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb364861.html</idno>
             </event>
             <event n="Theateraufführung" key="167867" when-iso="1893-02-07">
               <desc n="1370">teilnehmend</desc>
@@ -95630,6 +95793,7 @@
               <label>Private Lesung von Der Abenteurer und die Sängerin, 6.11.1898</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/365200/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb365200.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb365200.html</idno>
             </event>
             <event n="Theaterpremiere" key="35406" when-iso="1898-11-18">
               <desc n="1370">teilnehmend</desc>
@@ -95952,7 +96116,7 @@
               <label>Premiere von Überfahrt, 14.11.1924</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55623/</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210314/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210314.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55623.html</idno>
             </event>
             <event n="Theaterpremiere" key="186121" when-iso="1925-03-03">
               <desc n="1370">teilnehmend</desc>
@@ -96556,6 +96720,7 @@
               <desc n="1370">teilnehmend</desc>
               <label>Empfang und Souper bei Oberbürgermeister Boess, 7.2.1926</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353622/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353622.html</idno>
             </event>
             <event n="Theateraufführung" key="210378" when-iso="1926-06-10">
               <desc n="1256">mitwirkend</desc>
@@ -99348,7 +99513,7 @@
               <label>Vortrag von Das heutige Europa, 8.4.1925</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37735/</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210338/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210338.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb37735.html</idno>
             </event>
           </listEvent>
           <listBibl>
@@ -99401,6 +99566,7 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Theodor_K%C3%B6stlin</idno>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/person/single.xhtml?id=10560056</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb10995.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb10995.html</idno>
           <listEvent>
             <event n="Theateruraufführung" key="46453" when-iso="1889-10-20">
               <desc n="1256">mitwirkend</desc>
@@ -102331,6 +102497,7 @@
               <desc n="1370">teilnehmend</desc>
               <label>Empfang und Souper bei Oberbürgermeister Boess, 7.2.1926</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353622/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353622.html</idno>
             </event>
           </listEvent>
           <listBibl>
@@ -103526,6 +103693,7 @@
               <desc n="1370">teilnehmend</desc>
               <label>Empfang und Souper bei Oberbürgermeister Boess, 7.2.1926</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353622/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353622.html</idno>
             </event>
             <event n="Konferenz" key="334396" from-iso="1926-06-12" to-iso="1926-06-16">
               <desc n="1256">mitwirkend</desc>
@@ -104883,6 +105051,7 @@
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00017477</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb11469.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb11469.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb11469.html</idno>
           <affiliation from-iso="1895-10-01" to-iso="1901-01-01">
             <term key="1182">arbeitet für</term>
             <orgName key="29209">Die Zeit. Wiener Wochenschrift [Redaktion]</orgName>
@@ -107543,6 +107712,7 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb11687.html</idno>
           <idno type="URL" subtype="oebl">https://doi.org/10.1553/0X00281E0B</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb11687.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb11687.html</idno>
           <affiliation when-iso="1908-01-01">
             <term key="1182">arbeitet für</term>
             <orgName key="29677">Franz-Grillparzer-Preis</orgName>
@@ -107713,7 +107883,6 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183906/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183906.html</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184192/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184192.html</idno>
             </event>
             <event n="Probe" key="200052" when-iso="1897-03-24">
               <desc n="1256">mitwirkend</desc>
@@ -108069,6 +108238,7 @@
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00077180</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb11718.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb11718.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb11718.html</idno>
           <affiliation>
             <term key="1182">arbeitet für</term>
             <orgName key="50267">Erstes öffentliches Kinderkrankeninstitut</orgName>
@@ -108523,6 +108693,7 @@
               <label>Private Lesung von Sensationen, 2.1.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364753/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb364753.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb364753.html</idno>
             </event>
             <event n="Private Lesung" key="142757" when-iso="1892-01-31">
               <desc n="1370">teilnehmend</desc>
@@ -108553,6 +108724,7 @@
               <label>Private Lesung von Gestern, 9.10.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/336761/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb336761.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb336761.html</idno>
             </event>
             <event n="Private Lesung" key="142765" when-iso="1892-10-30">
               <desc n="1370">teilnehmend</desc>
@@ -108751,7 +108923,6 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183906/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183906.html</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184192/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184192.html</idno>
             </event>
             <event n="Vorlesung" key="59292" when-iso="1897-03-28">
               <desc n="1256">mitwirkend</desc>
@@ -108825,6 +108996,7 @@
               <label>Private Lesung von Der Abenteurer und die Sängerin, 6.11.1898</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/365200/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb365200.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb365200.html</idno>
             </event>
             <event n="Private Lesung" key="48949" when-iso="1898-12-19">
               <desc n="1370">teilnehmend</desc>
@@ -109451,6 +109623,7 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q94926845</idno>
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00077294</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb11777.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb11777.html</idno>
           <affiliation to-iso="1879-01-01">
             <term key="1153">in Bezug zu</term>
             <orgName key="46027">Akademisches Gymnasium Wien</orgName>
@@ -109936,6 +110109,7 @@
               <desc n="1370">teilnehmend</desc>
               <label>Empfang und Souper bei Oberbürgermeister Boess, 7.2.1926</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353622/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353622.html</idno>
             </event>
             <event n="Theateraufführung" key="210396" when-iso="1927-01-01">
               <desc n="1256">mitwirkend</desc>
@@ -110360,13 +110534,6 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231202/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb231202.html</idno>
             </event>
-            <event n="Theateraufführung" key="421440" when-iso="1904-11-07">
-              <desc n="1256">mitwirkend</desc>
-              <label>Aufführung von Die Verschwörung des Fiesko zu Genua, 7.11.1904</label>
-              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421440/</idno>
-              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb421440.html</idno>
-              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19041107&amp;seite=1#burgtheater-die-verschwoerung-des-fiesko-zu-genua</idno>
-            </event>
             <event n="Arrangierprobe" key="236470" when-iso="1905-09-20">
               <desc n="1256">mitwirkend</desc>
               <label>Arrangierprobe von Zwischenspiel, 20.9.1905</label>
@@ -110418,6 +110585,16 @@
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209491.html</idno>
               <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6677581ccd334071f7e8da03</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19071102&amp;seite=1#burgtheater-sommernacht</idno>
+            </event>
+            <event n="Theateraufführung" key="421440" when-iso="1907-11-09">
+              <desc n="1256">mitwirkend</desc>
+              <label>Aufführung von Die Verschwörung des Fiesko zu Genua, 9.11.1907</label>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421440/</idno>
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb421440.html</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/468510/</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66775e8ecd334071f7e95e0b</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19041107&amp;seite=1#burgtheater-die-verschwoerung-des-fiesko-zu-genua</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19071109&amp;seite=1#burgtheater-die-verschwoerung-des-fiesko-zu-genua</idno>
             </event>
             <event n="Generalprobe" key="53022" when-iso="1908-11-18">
               <desc n="1256">mitwirkend</desc>
@@ -111049,6 +111226,7 @@
               <desc n="1370">teilnehmend</desc>
               <label>Empfang und Souper bei Oberbürgermeister Boess, 7.2.1926</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353622/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353622.html</idno>
             </event>
           </listEvent>
           <listBibl>
@@ -115079,6 +115257,7 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb12254.html</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/person/6504166ba47588ad6024acb8</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb12254.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb12254.html</idno>
           <affiliation from-iso="1918-09-01" to-iso="1918-10-31">
             <term key="1182">arbeitet für</term>
             <orgName key="36247">Burgtheater</orgName>
@@ -120686,7 +120865,6 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238915/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238915.html</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244756/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244756.html</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19310122&amp;seite=1#burgtheater-haus-rothschild</idno>
             </event>
             <event n="Filmvorführung" key="211210" when-iso="1931-01-25">
@@ -122521,6 +122699,7 @@
               <desc n="1256">mitwirkend</desc>
               <label>1. Abonnement-Concert des k.k. Hofopernorchesters unter der Leitung von Hans Richter, 7.11.1897</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/365145/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb365145.html</idno>
             </event>
             <event n="Konzert" key="410006" when-iso="1897-11-07">
               <desc n="1256">mitwirkend</desc>
@@ -126818,6 +126997,7 @@
               <desc n="1370">teilnehmend</desc>
               <label>Empfang und Souper bei Oberbürgermeister Boess, 7.2.1926</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353622/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353622.html</idno>
             </event>
             <event n="Theateraufführung" key="210375" when-iso="1926-05-12">
               <desc n="1256">mitwirkend</desc>
@@ -128347,7 +128527,6 @@
               <desc n="1370">teilnehmend</desc>
               <label>Literarischer Abend (Premiere von Die Frage an das Schicksal, Gläubiger), 19.1.1900</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209130/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209130.html</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209130.html</idno>
             </event>
             <event n="Theateraufführung" key="335208" when-iso="1900-07-31">
@@ -129242,6 +129421,7 @@
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00036349</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb12772.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb12772.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb12772.html</idno>
           <listEvent>
             <event n="Private Lesung" key="334624" when-iso="1900-01-10">
               <desc n="1370">teilnehmend</desc>
@@ -129477,12 +129657,15 @@
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb53252.html</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19040609&amp;seite=1#burgtheater-vater-und-sohn</idno>
             </event>
-            <event n="Theateraufführung" key="421440" when-iso="1904-11-07">
+            <event n="Theateraufführung" key="421440" when-iso="1907-11-09">
               <desc n="1256">mitwirkend</desc>
-              <label>Aufführung von Die Verschwörung des Fiesko zu Genua, 7.11.1904</label>
+              <label>Aufführung von Die Verschwörung des Fiesko zu Genua, 9.11.1907</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421440/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb421440.html</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/468510/</idno>
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66775e8ecd334071f7e95e0b</idno>
               <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19041107&amp;seite=1#burgtheater-die-verschwoerung-des-fiesko-zu-genua</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19071109&amp;seite=1#burgtheater-die-verschwoerung-des-fiesko-zu-genua</idno>
             </event>
           </listEvent>
           <listBibl>
@@ -130789,6 +130972,7 @@
               <desc n="1370">teilnehmend</desc>
               <label>Empfang und Souper bei Oberbürgermeister Boess, 7.2.1926</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353622/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353622.html</idno>
             </event>
           </listEvent>
           <listBibl>
@@ -131989,6 +132173,7 @@
               <desc n="1370">teilnehmend</desc>
               <label>Empfang und Souper bei Oberbürgermeister Boess, 7.2.1926</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353622/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353622.html</idno>
             </event>
           </listEvent>
           <listBibl>
@@ -132956,12 +133141,14 @@
               <label>Aufführung von Tannhäuser und der Sängerkrieg auf Wartburg, 22.11.1875</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/519607/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/138#op_1875-11-22_138</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18751122&amp;seite=1#oper-tannhaeuser-und-der-saengerkrieg-auf-wartburg</idno>
             </event>
             <event n="Opernaufführung" key="519692" when-iso="1875-12-15">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Lohengrin, 15.12.1875</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/519692/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/139#op_1875-12-15_139</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18751215&amp;seite=1#oper-lohengrin</idno>
             </event>
           </listEvent>
           <listBibl>
@@ -133285,12 +133472,11 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/575176/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/512#op_1912-02-06_512</idno>
             </event>
-            <event n="Opernaufführung" key="209631" when-iso="1912-03-14">
+            <event n="Sinfoniekonzert" key="209631" when-iso="1912-03-14">
               <desc n="1256">mitwirkend</desc>
-              <label>Aufführung von 8. Sinfonie, 14.3.1912</label>
+              <label>Premiere von 8. Sinfonie, 14.3.1912</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209631/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209631.html</idno>
-              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=ope&amp;datum=19120314&amp;seite=1#oper-8-sinfonie</idno>
             </event>
             <event n="Konzert" key="209654" when-iso="1912-10-15">
               <desc n="1256">mitwirkend</desc>
@@ -137686,6 +137872,7 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q92054394</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb13561.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb13561.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb13561.html</idno>
           <affiliation>
             <term key="1182">arbeitet für</term>
             <orgName key="93006">La Liberté</orgName>
@@ -141595,6 +141782,7 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb14694.html</idno>
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=12486</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb14694.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb14694.html</idno>
           <affiliation>
             <term key="1182">arbeitet für</term>
             <orgName key="29794">Die Saubermänner. Tischgesellschaft</orgName>
@@ -142043,6 +142231,12 @@
               <label>Gesangskonzert von Sarah Cahier, 2.3.1911</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209596/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209596.html</idno>
+            </event>
+            <event n="Sinfoniekonzert" key="209631" when-iso="1912-03-14">
+              <desc n="1256">mitwirkend</desc>
+              <label>Premiere von 8. Sinfonie, 14.3.1912</label>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209631/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209631.html</idno>
             </event>
             <event n="Konzert" key="256096" when-iso="1914-04-07">
               <desc n="1256">mitwirkend</desc>
@@ -143028,14 +143222,12 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186720/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186720.html</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208350/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208350.html</idno>
             </event>
             <event n="Schulvortragsabend" key="186741" when-iso="1889-12-05">
               <desc n="1256">mitwirkend</desc>
               <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 5.12.1889</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186741/</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208359/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208359.html</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186741.html</idno>
             </event>
             <event n="Schulvortragsabend" key="186746" when-iso="1889-12-11">
@@ -143044,7 +143236,6 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186746/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186746.html</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208361/</idno>
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208361.html</idno>
             </event>
             <event n="Private Lesung" key="186943" when-iso="1890-03-24">
               <desc n="1370">teilnehmend</desc>
@@ -143588,6 +143779,7 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q125275567</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb15024.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb15024.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb15024.html</idno>
           <listEvent>
             <event n="Liederkonzert" key="210307" when-iso="1924-10-17">
               <desc n="1370">teilnehmend</desc>
@@ -144192,6 +144384,7 @@
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=24048</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb95302.html</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb15184.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb15184.html</idno>
           <listEvent>
             <event n="Theaterpremiere" key="209635" when-iso="1912-03-16">
               <desc n="1370">teilnehmend</desc>
@@ -146909,6 +147102,7 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q94869812</idno>
           <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_person_id_1553.html</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb15810.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb15810.html</idno>
           <listEvent>
             <event n="Theaterpremiere" key="209635" when-iso="1912-03-16">
               <desc n="1370">teilnehmend</desc>
@@ -147395,6 +147589,7 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Carla_Ernst</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb15999.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb15999.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb15999.html</idno>
           <affiliation>
             <term key="1182">arbeitet für</term>
             <orgName key="63031">Carl-Theater</orgName>
@@ -148323,6 +148518,7 @@
               <label>Private Lesung von Sensationen, 2.1.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364753/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb364753.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb364753.html</idno>
             </event>
           </listEvent>
         </person>
@@ -148589,6 +148785,12 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb16370.html</idno>
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/persons/pers.1086</idno>
           <listEvent>
+            <event n="Sinfoniekonzert" key="209631" when-iso="1912-03-14">
+              <desc n="1256">mitwirkend</desc>
+              <label>Premiere von 8. Sinfonie, 14.3.1912</label>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209631/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209631.html</idno>
+            </event>
             <event n="Wohltätigkeitskonzert" key="257480" when-iso="1915-03-31">
               <desc n="1256">mitwirkend</desc>
               <label>Wohltätigkeitskonzert zugunsten des Armenambulatoriums für die Flüchtlinge, 31.3.1915</label>
@@ -153812,6 +154014,7 @@
               <label>Aufführung von Abu Hassan, 14.12.1883</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/530904/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/10#op_1883-12-14_10</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18831214&amp;seite=2#oper-abu-hassan</idno>
             </event>
             <event n="Konzert" key="409840" when-iso="1884-02-28">
               <desc n="1256">mitwirkend</desc>
@@ -155901,6 +156104,7 @@
               <desc n="1256">mitwirkend</desc>
               <label>Hochzeit von Risa Strisower und Paul Horn, 26.2.1899</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353320/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353320.html</idno>
             </event>
           </listEvent>
           <listBibl>
@@ -155957,6 +156161,7 @@
               <desc n="1256">mitwirkend</desc>
               <label>Hochzeit von Risa Strisower und Paul Horn, 26.2.1899</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353320/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353320.html</idno>
             </event>
           </listEvent>
           <listBibl>
@@ -160958,6 +161163,7 @@
           <sex value="female" />
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19931/</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb19931.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb19931.html</idno>
           <listEvent>
             <event n="Ball" key="207835" when-iso="1884-01-17">
               <desc n="1370">teilnehmend</desc>
@@ -162412,6 +162618,7 @@
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/person/6504166ba47588ad6024abca</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/person/6504166ba47588ad6024adf5</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb20373.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb20373.html</idno>
           <listEvent>
             <event n="Theateraufführung" key="208893" when-iso="1897-01-05">
               <desc n="1256">mitwirkend</desc>
@@ -162637,6 +162844,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/154447/</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154447.html</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb20411.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb20411.html</idno>
           <listEvent>
             <event n="Theaterpremiere" key="41110" when-iso="1892-11-12">
               <desc n="1256">mitwirkend</desc>
@@ -164997,6 +165205,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21229/</idno>
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00079966</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb21229.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb21229.html</idno>
           <listEvent>
             <event n="Ball" key="207835" when-iso="1884-01-17">
               <desc n="1370">teilnehmend</desc>
@@ -166681,6 +166890,7 @@
             <forename>Modest P.</forename>
             <surname>Mussorgskij</surname>
           </persName>
+          <persName type="legacy-name-merge">Mussorgski, Modest</persName>
           <birth>
             <date when-iso="1839-03-21">1839-03-21</date>
             <settlement key="21682">
@@ -166701,13 +166911,17 @@
           </death>
           <sex value="male" />
           <occupation key="129">Komponist/Komponistin</occupation>
+          <occupation key="5227">Komponist/Komponistin | Librettist/Librettistin</occupation>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21681/</idno>
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q132682</idno>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Modest_Petrowitsch_Mussorgski</idno>
           <idno type="URL" subtype="zweig-digital">https://www.stefanzweig.digital/o:szd.personen/sdef:TEI/get#SZDPER.1013</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb21681.html</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb21681.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/511142/</idno>
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/person/594</idno>
           <listBibl>
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             <bibl type="collections" n="34">Stefan Zweig digital</bibl>
           </listBibl>
           <figure>
@@ -169403,6 +169617,7 @@
           <occupation key="753">Oberkantor/Oberkantorin</occupation>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22457/</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb22457.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb22457.html</idno>
           <listEvent>
             <event n="Hochzeit" key="44469" when-iso="1903-08-26">
               <desc n="1256">mitwirkend</desc>
@@ -169757,9 +169972,9 @@
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00101790</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb22529.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/167879/</idno>
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb167879.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/338427/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb22529.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb22529.html</idno>
           <affiliation when-iso="1892-01-01">
             <term key="1182">arbeitet für</term>
             <orgName key="146087">Volkstheater in Rudolfsheim</orgName>
@@ -170253,6 +170468,7 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q125285296</idno>
           <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/pmb22707.html</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb22707.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb22707.html</idno>
           <listEvent>
             <event n="Hochzeit" key="300410" when-iso="1898-05-10">
               <desc n="1256">mitwirkend</desc>
@@ -174462,6 +174678,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/337164/</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb24033.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb24033.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb24033.html</idno>
           <listEvent>
             <event n="Hochzeit" key="300410" when-iso="1898-05-10">
               <desc n="1370">teilnehmend</desc>
@@ -176020,6 +176237,7 @@
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/person/6504166ba47588ad6024b89b</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/person/6504166ba47588ad6024b5c9</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb24515.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb24515.html</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
             <bibl type="collections" n="30">Hanslick Online</bibl>
@@ -177433,12 +177651,14 @@
           <sex value="male" />
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24937/</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb24937.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb24937.html</idno>
           <listEvent>
             <event n="Private Lesung" key="364753" when-iso="1892-01-02">
               <desc n="1370">teilnehmend</desc>
               <label>Private Lesung von Sensationen, 2.1.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364753/</idno>
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb364753.html</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb364753.html</idno>
             </event>
           </listEvent>
           <listBibl>
@@ -179079,6 +179299,7 @@
           <sex value="not-set" />
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25367/</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb25367.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb25367.html</idno>
           <listEvent>
             <event n="Hausball" key="333801" when-iso="1893-01-07">
               <desc n="1256">mitwirkend</desc>
@@ -179266,6 +179487,12 @@
               <label>Gesangskonzert von Franz Steiner, 4.4.1911</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209604/</idno>
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209604.html</idno>
+            </event>
+            <event n="Sinfoniekonzert" key="209631" when-iso="1912-03-14">
+              <desc n="1256">mitwirkend</desc>
+              <label>Premiere von 8. Sinfonie, 14.3.1912</label>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209631/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209631.html</idno>
             </event>
             <event n="Liederkonzert" key="209744" when-iso="1915-02-09">
               <desc n="1256">mitwirkend</desc>
@@ -180801,8 +181028,8 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q42529566</idno>
           <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp44931</idno>
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=44983</idno>
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb106469.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb26046.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb26046.html</idno>
           <listEvent>
             <event n="Vortrag" key="233655" when-iso="1904-01-15">
               <desc n="1370">teilnehmend</desc>
@@ -181445,6 +181672,7 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Rudolf_Urbantschitsch</idno>
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00102716</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb26340.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb26340.html</idno>
           <affiliation when-iso="1908-01-01">
             <term key="1182">arbeitet für</term>
             <orgName key="44439">Wiener psychoanalytische Vereinigung</orgName>
@@ -183559,6 +183787,7 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95270983</idno>
           <idno type="URL" subtype="brenner">https://brenner.oeaw.ac.at/?p=brennerp11367</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb26873.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb26873.html</idno>
           <listEvent>
             <event n="Theaterpremiere" key="35110" when-iso="1903-03-14">
               <desc n="1256">mitwirkend</desc>
@@ -185272,6 +185501,7 @@
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00099856</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/339124/</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb27368.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb27368.html</idno>
           <affiliation when-iso="1914-01-01">
             <term key="1182">arbeitet für</term>
             <orgName key="183393">Nähstube</orgName>
@@ -185648,6 +185878,7 @@
             <term key="3415">Lernender/Lernende an</term>
             <orgName key="353245">Schauspielschule Lina Stengel</orgName>
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353245/</idno>
+            <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353245.html</idno>
           </affiliation>
           <affiliation when-iso="1901-07-21">
             <term key="1182">arbeitet für</term>
@@ -187636,6 +187867,7 @@
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb28359.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28359/</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb28359.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb28359.html</idno>
           <listEvent>
             <event n="Ball" key="207835" when-iso="1884-01-17">
               <desc n="1370">teilnehmend</desc>
@@ -188476,6 +188708,7 @@
           <occupation key="127">Theaterkritiker/Theaterkritikerin</occupation>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29099/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29099.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29099.html</idno>
           <affiliation when-iso="1893-12-01">
             <term key="1182">arbeitet für</term>
             <orgName key="29488">Das Vaterland</orgName>
@@ -188622,6 +188855,7 @@
           <occupation key="99">Journalist/Journalistin</occupation>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33970/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33970.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33970.html</idno>
           <note type="references">Der Reporter: Jung-Wiener Dichter (Zur Burgtheater-Première). In: Extrapost, 14. 10. 1895</note>
         </person>
         <person xml:id="pmb34135">
@@ -189411,6 +189645,7 @@
               <desc n="1256">mitwirkend</desc>
               <label>Sitzung des Veranstaltungskomitees des Balles der allgemeinen Poliklinik, 19.3.1889</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/339339/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb339339.html</idno>
             </event>
             <event n="Hochzeit" key="296694" when-iso="1890-05-08">
               <desc n="1256">mitwirkend</desc>
@@ -193386,6 +193621,7 @@
           <occupation key="99">Journalist/Journalistin</occupation>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89999/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb89999.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb89999.html</idno>
           <affiliation when-iso="1893-12-01">
             <term key="1182">arbeitet für</term>
             <orgName key="90000">Deutsches Volksblatt</orgName>
@@ -193502,6 +193738,7 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q5898437</idno>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hippolyte_Fierens-Gevaert</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93109.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93109.html</idno>
           <affiliation>
             <term key="1182">arbeitet für</term>
             <orgName key="29221">Journal des débats</orgName>
@@ -193524,6 +193761,7 @@
           <occupation key="99">Journalist/Journalistin</occupation>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93225/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93225.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93225.html</idno>
           <affiliation when-iso="1895-01-01">
             <term key="1182">arbeitet für</term>
             <orgName key="29637">Reichspost</orgName>
@@ -193544,6 +193782,7 @@
           <occupation key="99">Journalist/Journalistin</occupation>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93234/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93234.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93234.html</idno>
         </person>
         <person xml:id="pmb94041">
           <persName>
@@ -197687,6 +197926,7 @@
           <idno type="URL" subtype="oebl">https://doi.org/10.1553/0x00283274</idno>
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q55844826</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb99557.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb99557.html</idno>
           <affiliation>
             <term key="1182">arbeitet für</term>
             <orgName key="63031">Carl-Theater</orgName>
@@ -198036,6 +198276,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/154165/</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154165.html</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157159.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb100622.html</idno>
           <listEvent>
             <event n="Theateruraufführung" key="63078" when-iso="1891-11-20">
               <desc n="1256">mitwirkend</desc>
@@ -198873,6 +199114,7 @@
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116330341</idno>
           <idno type="URL" subtype="oebl">https://doi.org/10.1553/0x00284023</idno>
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q55674371</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb102246.html</idno>
           <listEvent>
             <event n="Theateruraufführung" key="63078" when-iso="1891-11-20">
               <desc n="1256">mitwirkend</desc>
@@ -200975,6 +201217,7 @@
           <idno type="URL" subtype="oeml">https://dx.doi.org/10.1553/0x0001d318</idno>
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=19261</idno>
           <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/person/541</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb112622.html</idno>
           <listEvent>
             <event n="Opernaufführung" key="210439" when-iso="1928-01-31">
               <desc n="1256">mitwirkend</desc>
@@ -201382,24 +201625,28 @@
               <label>Aufführung von Fra Diavolo oder Das Gasthaus zu Terracina, 27.10.1869</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/512153/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/184#op_1869-10-27_184</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18691027&amp;seite=1#oper-fra-diavolo-oder-das-gasthaus-zu-terracina</idno>
             </event>
             <event n="Opernpremiere" key="514146" when-iso="1871-05-30">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Rienzi, der Letzte der Tribunen, 30.5.1871</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/514146/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/136#op_1871-05-30_136</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18710530&amp;seite=1#oper-rienzi-der-letzte-der-tribunen</idno>
             </event>
             <event n="Opernaufführung" key="517652" when-iso="1874-03-09">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Der Nordstern, 9.3.1874</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/517652/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/362#op_1874-03-09_362</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18740309&amp;seite=1#oper-der-nordstern</idno>
             </event>
             <event n="Opernaufführung" key="526970" when-iso="1881-04-23">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Der Nordstern, 23.4.1881</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/526970/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/362#op_1881-04-23_362</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18810423&amp;seite=1#oper-der-nordstern</idno>
             </event>
           </listEvent>
           <listBibl>
@@ -203634,6 +203881,7 @@
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114944.html</idno>
           <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_person_id_1949.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb114944.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb114944.html</idno>
           <listEvent>
             <event n="Theateruraufführung" key="63078" when-iso="1891-11-20">
               <desc n="1256">mitwirkend</desc>
@@ -204316,6 +204564,7 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q65975656</idno>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb115482</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb115482.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb115482.html</idno>
           <affiliation>
             <term key="1182">arbeitet für</term>
             <orgName key="29351">Neue Freie Presse</orgName>
@@ -205807,6 +206056,7 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/F%C3%A9lix_Bertaux</idno>
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb117260</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb117260.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb117260.html</idno>
           <listBibl>
             <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
             <bibl type="collections" n="12">Karl Kraus: Die Fackel</bibl>
@@ -240996,6 +241246,7 @@
               <label>Aufführung von Alceste, 4.10.1885</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/533699/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/15#op_1885-10-04_15</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18851004&amp;seite=1#oper-alceste</idno>
             </event>
             <event n="Konzert" key="409562" when-iso="1894-01-15">
               <desc n="1256">mitwirkend</desc>
@@ -242818,6 +243069,7 @@
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152664.html</idno>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb161476</idno>
           <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/person/917</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb152664.html</idno>
           <listBibl>
             <bibl type="collections" n="30">Hanslick Online</bibl>
             <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
@@ -242992,6 +243244,7 @@
           <occupation key="105">Schauspieler/Schauspielerin</occupation>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/154015/</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154015.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb154015.html</idno>
           <listEvent>
             <event n="Theaterpremiere" key="209635" when-iso="1912-03-16">
               <desc n="1256">mitwirkend</desc>
@@ -243079,6 +243332,7 @@
           <sex value="male" />
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/154113/</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154113.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb154113.html</idno>
           <listEvent>
             <event n="Theaterpremiere" key="35110" when-iso="1903-03-14">
               <desc n="1256">mitwirkend</desc>
@@ -243266,6 +243520,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/154315/</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154315.html</idno>
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb154315</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb154315.html</idno>
           <listBibl>
             <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -243280,6 +243535,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/154426/</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154426.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb154426.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb154426.html</idno>
         </person>
         <person xml:id="pmb154495">
           <persName>
@@ -243399,6 +243655,7 @@
             <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q4863769</idno>
             <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1167431332</idno>
             <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Barrison_Sisters</idno>
+            <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb336723.html</idno>
           </affiliation>
           <listEvent>
             <event n="Varieté" key="199353" when-iso="1895-10-17">
@@ -243438,6 +243695,7 @@
             <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q4863769</idno>
             <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1167431332</idno>
             <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Barrison_Sisters</idno>
+            <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb336723.html</idno>
           </affiliation>
           <listEvent>
             <event n="Varieté" key="199353" when-iso="1895-10-17">
@@ -243872,6 +244130,7 @@
           <occupation key="105">Schauspieler/Schauspielerin</occupation>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/156901/</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156901.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb156901.html</idno>
           <listEvent>
             <event n="Theaterpremiere" key="208619" when-iso="1893-10-07">
               <desc n="1256">mitwirkend</desc>
@@ -243924,6 +244183,7 @@
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154273.html</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156903.html</idno>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb161967</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb156903.html</idno>
           <listEvent>
             <event n="Theaterpremiere" key="208619" when-iso="1893-10-07">
               <desc n="1256">mitwirkend</desc>
@@ -243973,6 +244233,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/157380/</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157380.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb157380.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb157380.html</idno>
           <listEvent>
             <event n="Theateruraufführung" key="63078" when-iso="1891-11-20">
               <desc n="1256">mitwirkend</desc>
@@ -244503,6 +244764,7 @@
           <sex value="female" />
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/159709/</idno>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb159709</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb159709.html</idno>
           <listEvent>
             <event n="Lesung" key="183397" when-iso="1917-02-27">
               <desc n="1370">teilnehmend</desc>
@@ -244612,18 +244874,21 @@
               <label>Aufführung von Margarethe (Faust), 28.3.1870</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/512724/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/326#op_1870-03-28_326</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18700328&amp;seite=1#oper-margarethe-faust</idno>
             </event>
             <event n="Opernaufführung" key="512801" when-iso="1870-04-27">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Die Afrikanerin, 27.4.1870</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/512801/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/13#op_1870-04-27_13</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18700427&amp;seite=1#oper-die-afrikanerin</idno>
             </event>
             <event n="Opernaufführung" key="525058" when-iso="1880-01-24">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Cosi fan tutte, 24.1.1880</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/525058/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/100#op_1880-01-24_100</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800124&amp;seite=1#oper-cosi-fan-tutte</idno>
             </event>
           </listEvent>
           <listBibl>
@@ -245186,6 +245451,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/170487/</idno>
           <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38875</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/305681/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb170487.html</idno>
           <listEvent>
             <event n="Theaterpremiere" key="209635" when-iso="1912-03-16">
               <desc n="1370">teilnehmend</desc>
@@ -245368,6 +245634,7 @@
           <sex value="female" />
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/172649/</idno>
           <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp43360</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb172649.html</idno>
           <listEvent>
             <event n="Theaterpremiere" key="209635" when-iso="1912-03-16">
               <desc n="1370">teilnehmend</desc>
@@ -245416,6 +245683,7 @@
           <sex value="female" />
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/173389/</idno>
           <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp44925</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb173389.html</idno>
           <listEvent>
             <event n="Theaterpremiere" key="209635" when-iso="1912-03-16">
               <desc n="1370">teilnehmend</desc>
@@ -245750,6 +246018,7 @@
           <occupation key="105">Schauspieler/Schauspielerin</occupation>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/176848/</idno>
           <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp52433</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb176848.html</idno>
           <listEvent>
             <event n="Theaterpremiere" key="208619" when-iso="1893-10-07">
               <desc n="1256">mitwirkend</desc>
@@ -246051,6 +246320,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/354110/</idno>
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q18221357</idno>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Johanna_Blasel</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb178479.html</idno>
           <listEvent>
             <event n="Theateruraufführung" key="63078" when-iso="1891-11-20">
               <desc n="1256">mitwirkend</desc>
@@ -246164,6 +246434,7 @@
           <sex value="female" />
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/179933/</idno>
           <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp59995</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb179933.html</idno>
           <listEvent>
             <event n="Theaterpremiere" key="209635" when-iso="1912-03-16">
               <desc n="1370">teilnehmend</desc>
@@ -250330,6 +250601,7 @@
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/305626/</idno>
             <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q137298035</idno>
             <idno type="URL" subtype="ansorge">https://conrad-ansorge.github.io/ansorge-static/ansorge_o_3.html</idno>
+            <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294057.html</idno>
           </affiliation>
           <affiliation>
             <term key="1182">arbeitet für</term>
@@ -250338,6 +250610,7 @@
             <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/305626/</idno>
             <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q137298035</idno>
             <idno type="URL" subtype="ansorge">https://conrad-ansorge.github.io/ansorge-static/ansorge_o_3.html</idno>
+            <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294057.html</idno>
           </affiliation>
           <listEvent>
             <event n="Konzert" key="407848" when-iso="1889-12-02">
@@ -251263,6 +251536,11 @@
               <label>Konzertaufführung im Großen Musikvereinssaal, 17.2.1896</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/409624/</idno>
               <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/EA-001388.html</idno>
+            </event>
+            <event n="Klavierkonzert" key="623709" when-iso="1897-01-11">
+              <desc n="1256">mitwirkend</desc>
+              <label>Konzertaufführung im Bösendorfer-Saal, 11.1.1897</label>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/623709/</idno>
             </event>
             <event n="Konzert" key="407282" when-iso="1897-02-01">
               <desc n="1256">mitwirkend</desc>
@@ -264593,6 +264871,7 @@
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119374536</idno>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Michel_Carr%C3%A9_(Librettist)</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb202624.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb202624.html</idno>
           <listBibl>
             <bibl type="collections" n="30">Hanslick Online</bibl>
           </listBibl>
@@ -266671,6 +266950,7 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q94778880</idno>
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/127422587</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298297/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298297.html</idno>
           <listEvent>
             <event n="Vortrag" key="207381" when-iso="1877-03-22">
               <desc n="1256">mitwirkend</desc>
@@ -266714,6 +266994,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298483/</idno>
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2072134</idno>
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116535571</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298483.html</idno>
           <listEvent>
             <event n="Veranstaltung" key="183655" when-iso="1915-01-03">
               <desc n="1256">mitwirkend</desc>
@@ -266757,6 +267038,7 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q16855498</idno>
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/142794724</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb298971.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298971.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
@@ -266793,6 +267075,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298982/</idno>
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q48696789</idno>
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1053042639</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298982.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
@@ -266885,6 +267168,7 @@
           <occupation key="105">Schauspieler/Schauspielerin</occupation>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/302011/</idno>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/person/single.xhtml?id=10902106</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb302011.html</idno>
           <affiliation when-iso="1900-01-01">
             <term key="3415">Lernender/Lernende an</term>
             <orgName key="29805">Konservatorium der Gesellschaft der Musikfreunde</orgName>
@@ -267728,6 +268012,52 @@
             <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HL_Damals_%E2%80%93_Grammann.jpg/250px-HL_Damals_%E2%80%93_Grammann.jpg" />
           </figure>
         </person>
+        <person xml:id="pmb305165">
+          <persName>
+            <forename>Hermine</forename>
+            <surname>Kittel</surname>
+          </persName>
+          <birth>
+            <date when-iso="1879-12-02">1879-12-02</date>
+            <settlement key="50">
+              <placeName type="pref">Wien</placeName>
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+            </settlement>
+          </birth>
+          <death>
+            <date when-iso="1948-04-07">1948-04-07</date>
+            <settlement key="50">
+              <placeName type="pref">Wien</placeName>
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+            </settlement>
+          </death>
+          <sex value="female" />
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_person_id_1084.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/305165/</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q5741576</idno>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116194294</idno>
+          <idno type="URL" subtype="ansorge">https://conrad-ansorge.github.io/ansorge-static/ansorge_p_395.html</idno>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hermine_Kittel</idno>
+          <listEvent>
+            <event n="Sinfoniekonzert" key="209631" when-iso="1912-03-14">
+              <desc n="1256">mitwirkend</desc>
+              <label>Premiere von 8. Sinfonie, 14.3.1912</label>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209631/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209631.html</idno>
+            </event>
+          </listEvent>
+          <listBibl>
+            <bibl type="collections" n="83">Conrad Ansorge 1862–1930. Ein Pianist des Fin de siècle</bibl>
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+          </listBibl>
+          <figure>
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hermine_Kittel_1902_Vilimek.jpg/250px-Hermine_Kittel_1902_Vilimek.jpg" />
+          </figure>
+        </person>
         <person xml:id="pmb305435">
           <persName>
             <forename>Clemens</forename>
@@ -267768,6 +268098,50 @@
             <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Clemens_Schmalstich_%281880-1960%29.jpg/250px-Clemens_Schmalstich_%281880-1960%29.jpg" />
           </figure>
         </person>
+        <person xml:id="pmb305599">
+          <persName>
+            <forename>Martha</forename>
+            <surname>Winternitz-Dorda</surname>
+          </persName>
+          <birth>
+            <date when-iso="1880-03-28">1880-03-28</date>
+            <settlement key="50">
+              <placeName type="pref">Wien</placeName>
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+            </settlement>
+          </birth>
+          <death>
+            <date when-iso="1958-12-09">1958-12-09</date>
+            <settlement key="506">
+              <placeName type="pref">Hamburg</placeName>
+              <location>
+                <geo>53,55055 9,993333</geo>
+              </location>
+            </settlement>
+          </death>
+          <sex value="female" />
+          <occupation key="2261">Opernsänger/Opernsängerin</occupation>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/305599/</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q28859476</idno>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/133474364</idno>
+          <idno type="URL" subtype="ansorge">https://conrad-ansorge.github.io/ansorge-static/ansorge_p_832.html</idno>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Martha_Winternitz-Dorda</idno>
+          <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/persons/pers.4195</idno>
+          <listEvent>
+            <event n="Sinfoniekonzert" key="209631" when-iso="1912-03-14">
+              <desc n="1256">mitwirkend</desc>
+              <label>Premiere von 8. Sinfonie, 14.3.1912</label>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209631/</idno>
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209631.html</idno>
+            </event>
+          </listEvent>
+          <listBibl>
+            <bibl type="collections" n="83">Conrad Ansorge 1862–1930. Ein Pianist des Fin de siècle</bibl>
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+          </listBibl>
+        </person>
         <person xml:id="pmb305665">
           <persName>
             <forename>Klementine Marie</forename>
@@ -267782,6 +268156,7 @@
           <sex value="female" />
           <occupation key="537">Prinz/Prinzessin</occupation>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/305665/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb305665.html</idno>
           <listEvent>
             <event n="Theaterpremiere" key="209635" when-iso="1912-03-16">
               <desc n="1370">teilnehmend</desc>
@@ -268455,12 +268830,14 @@
               <label>Aufführung von Lohengrin, 4.10.1870</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/513235/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/139#op_1870-10-04_139</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18701004&amp;seite=1#oper-lohengrin</idno>
             </event>
             <event n="Opernaufführung" key="514881" when-iso="1872-01-17">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Die Entführung aus dem Serail, 17.1.1872</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/514881/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/151#op_1872-01-17_151</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18720117&amp;seite=1#oper-die-entfuehrung-aus-dem-serail</idno>
             </event>
             <event n="Opernaufführung" key="589937" when-iso="1922-12-23">
               <desc n="1256">mitwirkend</desc>
@@ -269564,6 +269941,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333727/</idno>
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q4895796</idno>
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/129422975</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb333727.html</idno>
           <listBibl>
             <bibl type="collections" n="24">manually created entity</bibl>
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
@@ -269599,6 +269977,7 @@
           <sex value="female" />
           <occupation key="107">Sänger/Sängerin</occupation>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333949/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb333949.html</idno>
           <listEvent>
             <event n="Generalprobe" key="209552" when-iso="1909-03-04">
               <desc n="1256">mitwirkend</desc>
@@ -270317,6 +270696,7 @@
               <label>Aufführung von Don Juan (Don Giovanni), 25.5.1869</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/511776/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/117#op_1869-05-25_117</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18690525&amp;seite=1#oper-don-juan-don-giovanni</idno>
             </event>
             <event n="Opernaufführung" key="511882" when-iso="1869-06-27">
               <desc n="1256">mitwirkend</desc>
@@ -270329,102 +270709,119 @@
               <label>Premiere von Armida, 20.11.1869</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/512242/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/34#op_1869-11-20_34</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18691120&amp;seite=1#oper-armida</idno>
             </event>
             <event n="Opernpremiere" key="512615" when-iso="1870-02-27">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Die Meistersinger von Nürnberg, 27.2.1870</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/512615/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/141#op_1870-02-27_141</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18700227&amp;seite=1#oper-die-meistersinger-von-nuernberg</idno>
             </event>
             <event n="Opernaufführung" key="513182" when-iso="1870-09-20">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Robert der Teufel, 20.9.1870</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/513182/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/408#op_1870-09-20_408</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18700920&amp;seite=1#oper-robert-der-teufel</idno>
             </event>
             <event n="Opernaufführung" key="513280" when-iso="1870-10-15">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Die Hochzeit des Figaro, 15.10.1870</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/513280/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/230#op_1870-10-15_230</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18701015&amp;seite=1#oper-die-hochzeit-des-figaro</idno>
             </event>
             <event n="Opernuraufführung" key="513565" when-iso="1870-12-30">
               <desc n="1256">mitwirkend</desc>
               <label>Uraufführung von Judith, 30.12.1870</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/513565/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/264#op_1870-12-30_264</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18701230&amp;seite=1#oper-judith</idno>
             </event>
             <event n="Opernaufführung" key="514731" when-iso="1871-12-08">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Hans Heiling, 8.12.1871</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/514731/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/218#op_1871-12-08_218</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18711208&amp;seite=1#oper-hans-heiling</idno>
             </event>
             <event n="Opernaufführung" key="514970" when-iso="1872-02-08">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Die Nachtwandlerin, 8.2.1872</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/514970/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/354#op_1872-02-08_354</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18720208&amp;seite=1#oper-die-nachtwandlerin</idno>
             </event>
             <event n="Opernuraufführung" key="518845" when-iso="1875-03-10">
               <desc n="1256">mitwirkend</desc>
               <label>Uraufführung von Die Königin von Saba, 10.3.1875</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/518845/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/127#op_1875-03-10_127</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18750310&amp;seite=1#oper-die-koenigin-von-saba</idno>
             </event>
             <event n="Opernpremiere" key="520635" when-iso="1876-10-04">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Das Goldene Kreuz, 4.10.1876</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/520635/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/209#op_1876-10-04_209</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18761004&amp;seite=1#oper-das-goldene-kreuz</idno>
             </event>
             <event n="Opernaufführung" key="521156" when-iso="1877-01-31">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Die Ballnacht, 31.1.1877</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/521156/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/48#op_1877-01-31_48</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18770131&amp;seite=1#oper-die-ballnacht</idno>
             </event>
             <event n="Opernaufführung" key="521422" when-iso="1877-04-11">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Linda von Chamounix, 11.4.1877</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/521422/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/300#op_1877-04-11_300</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18770411&amp;seite=1#oper-linda-von-chamounix</idno>
             </event>
             <event n="Opernaufführung" key="522451" when-iso="1878-02-10">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Armida, 10.2.1878</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/522451/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/34#op_1878-02-10_34</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18780210&amp;seite=1#oper-armida</idno>
             </event>
             <event n="Opernpremiere" key="523204" when-iso="1878-10-04">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Philemon und Baucis, 4.10.1878</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/523204/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/387#op_1878-10-04_387</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18781004&amp;seite=1#oper-philemon-und-baucis</idno>
             </event>
             <event n="Opernpremiere" key="527895" when-iso="1881-12-04">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Undine, 4.12.1881</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/527895/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/501#op_1881-12-04_501</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18811204&amp;seite=1#oper-undine</idno>
             </event>
             <event n="Opernaufführung" key="530904" when-iso="1883-12-14">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Abu Hassan, 14.12.1883</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/530904/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/10#op_1883-12-14_10</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18831214&amp;seite=2#oper-abu-hassan</idno>
             </event>
             <event n="Opernpremiere" key="532718" when-iso="1885-01-31">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Das Andreasfest, 31.1.1885</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/532718/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/25#op_1885-01-31_25</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18850131&amp;seite=1#oper-das-andreasfest</idno>
             </event>
             <event n="Opernpremiere" key="537520" when-iso="1888-05-13">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Im Feldlager, 13.5.1888</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/537520/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/241#op_1888-05-13_241</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18880513&amp;seite=1#oper-im-feldlager</idno>
             </event>
           </listEvent>
           <listBibl>
@@ -271062,6 +271459,7 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Ranieri_de%E2%80%99_Calzabigi</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb355525.html</idno>
           <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/person/501</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb355525.html</idno>
           <listBibl>
             <bibl type="collections" n="30">Hanslick Online</bibl>
             <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
@@ -272396,6 +272794,7 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q374622</idno>
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/115840982</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb360808.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb360808.html</idno>
           <listBibl>
             <bibl type="collections" n="30">Hanslick Online</bibl>
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
@@ -272776,6 +273175,7 @@
           <sex value="female" />
           <occupation key="105">Schauspieler/Schauspielerin</occupation>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/365004/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb365004.html</idno>
           <affiliation>
             <term key="3415">Lernender/Lernende an</term>
             <orgName key="29805">Konservatorium der Gesellschaft der Musikfreunde</orgName>
@@ -286230,174 +286630,203 @@
               <label>Aufführung von Dinorah oder Die Wallfahrt nach Ploermel, 28.12.1871</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/514800/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/110#op_1871-12-28_110</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18711228&amp;seite=1#oper-dinorah-oder-die-wallfahrt-nach-ploermel</idno>
             </event>
             <event n="Opernaufführung" key="515927" when-iso="1872-12-12">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Dom Sebastian, 12.12.1872</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/515927/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/113#op_1872-12-12_113</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18721212&amp;seite=1#oper-dom-sebastian</idno>
             </event>
             <event n="Opernpremiere" key="519502" when-iso="1875-10-23">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Carmen, 23.10.1875</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/519502/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/87#op_1875-10-23_87</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18751023&amp;seite=1#oper-carmen</idno>
             </event>
             <event n="Opernaufführung" key="519692" when-iso="1875-12-15">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Lohengrin, 15.12.1875</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/519692/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/139#op_1875-12-15_139</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18751215&amp;seite=1#oper-lohengrin</idno>
             </event>
             <event n="Opernpremiere" key="520598" when-iso="1876-09-23">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Die Folkunger, 23.9.1876</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/520598/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/183#op_1876-09-23_183</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18760923&amp;seite=1#oper-die-folkunger</idno>
             </event>
             <event n="Opernaufführung" key="524657" when-iso="1879-10-25">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Idomeneus/Idomeneo, 25.10.1879</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/524657/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/240#op_1879-10-25_240</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18791025&amp;seite=1#oper-idomeneus-idomeneo</idno>
             </event>
             <event n="Opernaufführung" key="525067" when-iso="1880-01-27">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Titus der Gütige (La clemenza di Tito), 27.1.1880</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/525067/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/489#op_1880-01-27_489</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800127&amp;seite=1#oper-titus-der-guetige-la-clemenza-di-tito</idno>
             </event>
             <event n="Opernaufführung" key="526056" when-iso="1880-10-11">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Rigoletto, 11.10.1880</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/526056/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/404#op_1880-10-11_404</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18801011&amp;seite=1#oper-rigoletto</idno>
             </event>
             <event n="Opernaufführung" key="526061" when-iso="1880-10-12">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Die Meistersinger von Nürnberg, 12.10.1880</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/526061/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/141#op_1880-10-12_141</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18801012&amp;seite=1#oper-die-meistersinger-von-nuernberg</idno>
             </event>
             <event n="Opernaufführung" key="533699" when-iso="1885-10-04">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Alceste, 4.10.1885</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/533699/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/15#op_1885-10-04_15</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18851004&amp;seite=1#oper-alceste</idno>
             </event>
             <event n="Opernaufführung" key="536249" when-iso="1887-05-14">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Jessonda, 14.5.1887</label>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/256#op_1887-05-14_256</idno>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/536249/</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18870514&amp;seite=1#oper-jessonda</idno>
             </event>
             <event n="Opernaufführung" key="536698" when-iso="1887-10-29">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Don Juan (Don Giovanni), 29.10.1887</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/536698/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/117#op_1887-10-29_117</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18871029&amp;seite=1#oper-don-juan-don-giovanni</idno>
             </event>
             <event n="Opernpremiere" key="536751" when-iso="1887-11-22">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Der Cid, 22.11.1887</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/536751/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/93#op_1887-11-22_93</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18871122&amp;seite=1#oper-der-cid</idno>
             </event>
             <event n="Opernaufführung" key="537961" when-iso="1888-10-04">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Alessandro Stradella, 4.10.1888</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/537961/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/16#op_1888-10-04_16</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18881004&amp;seite=1#oper-alessandro-stradella</idno>
             </event>
             <event n="Opernpremiere" key="539526" when-iso="1889-10-15">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Die Beiden Schützen, 15.10.1889</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/539526/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/57#op_1889-10-15_57</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18891015&amp;seite=1#oper-die-beiden-schuetzen</idno>
             </event>
             <event n="Opernpremiere" key="539939" when-iso="1889-12-25">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Die Heilige Elisabeth, 25.12.1889</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/539939/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/223#op_1889-12-25_223</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18891225&amp;seite=1#oper-die-heilige-elisabeth</idno>
             </event>
             <event n="Opernpremiere" key="540424" when-iso="1890-03-20">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Beatrice und Benedict, 20.3.1890</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/540424/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/56#op_1890-03-20_56</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18900320&amp;seite=1#oper-beatrice-und-benedict</idno>
             </event>
             <event n="Opernpremiere" key="541245" when-iso="1890-10-04">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Der Barbier von Bagdad, 4.10.1890</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/541245/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/52#op_1890-10-04_52</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18901004&amp;seite=1#oper-der-barbier-von-bagdad</idno>
             </event>
             <event n="Opernpremiere" key="541510" when-iso="1890-11-19">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Manon, 19.11.1890</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/541510/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/320#op_1890-11-19_320</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18901119&amp;seite=1#oper-manon</idno>
             </event>
             <event n="Opernaufführung" key="541995" when-iso="1891-02-23">
               <desc n="1256">mitwirkend</desc>
               <label>Aufführung von Der Prophet, 23.2.1891</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/541995/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/396#op_1891-02-23_396</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18910223&amp;seite=1#oper-der-prophet</idno>
             </event>
             <event n="Opernpremiere" key="542104" when-iso="1891-03-20">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Cavalleria rusticana (Sizilianische Bauernehre), 20.3.1891</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/542104/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/90#op_1891-03-20_90</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18910320&amp;seite=1#oper-cavalleria-rusticana-sizilianische-bauernehre</idno>
             </event>
             <event n="Opernpremiere" key="543973" when-iso="1892-03-30">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Freund Fritz, 30.3.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/543973/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/189#op_1892-03-30_189</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18920330&amp;seite=1#oper-freund-fritz</idno>
             </event>
             <event n="Opernpremiere" key="544722" when-iso="1892-10-04">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Gringoire, 4.10.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/544722/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/213#op_1892-10-04_213</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18921004&amp;seite=1#oper-gringoire</idno>
             </event>
             <event n="Opernuraufführung" key="545007" when-iso="1892-11-19">
               <desc n="1256">mitwirkend</desc>
               <label>Uraufführung von Signora Formica, 19.11.1892</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/545007/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/452#op_1892-11-19_452</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18921119&amp;seite=1#oper-signora-formica</idno>
             </event>
             <event n="Opernpremiere" key="546684" when-iso="1893-11-19">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Der Bajazzo, 19.11.1893</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/546684/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/43#op_1893-11-19_43</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18931119&amp;seite=1#oper-der-bajazzo</idno>
             </event>
             <event n="Opernuraufführung" key="547049" when-iso="1894-01-20">
               <desc n="1256">mitwirkend</desc>
               <label>Uraufführung von Mirjam (Das Maifest), 20.1.1894</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/547049/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/345#op_1894-01-20_345</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18940120&amp;seite=1#oper-mirjam-das-maifest</idno>
             </event>
             <event n="Opernpremiere" key="547234" when-iso="1894-02-27">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Der Kuss, 27.2.1894</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/547234/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/288#op_1894-02-27_288</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18940227&amp;seite=1#oper-der-kuss</idno>
             </event>
             <event n="Opernpremiere" key="548315" when-iso="1894-10-28">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Die Fledermaus, 28.10.1894</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/548315/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/177#op_1894-10-28_177</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18941028&amp;seite=1#oper-die-fledermaus</idno>
             </event>
             <event n="Opernpremiere" key="548593" when-iso="1894-12-18">
               <desc n="1256">mitwirkend</desc>
               <label>Premiere von Hänsel und Gretel, 18.12.1894</label>
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/548593/</idno>
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/216#op_1894-12-18_216</idno>
+              <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18941218&amp;seite=1#oper-haensel-und-gretel</idno>
             </event>
             <event n="Opernpremiere" key="549171" when-iso="1895-03-27">
               <desc n="1256">mitwirkend</desc>
@@ -287888,25 +288317,6 @@
               <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/64#op_1936-06-17_64</idno>
             </event>
           </listEvent>
-          <listBibl>
-            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
-          </listBibl>
-        </person>
-        <person xml:id="pmb511142">
-          <persName>
-            <forename>Modest</forename>
-            <surname>Mussorgski</surname>
-          </persName>
-          <birth>
-            <date notBefore-iso="1839-01-01" when-iso="1839-01-01" notAfter-iso="1839-12-31">1839</date>
-          </birth>
-          <death>
-            <date when-iso="1881-01-01" notAfter-iso="1881-12-31">1881</date>
-          </death>
-          <sex value="not-set" />
-          <occupation key="5227">Komponist/Komponistin | Librettist/Librettistin</occupation>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/511142/</idno>
-          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/person/594</idno>
           <listBibl>
             <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
           </listBibl>

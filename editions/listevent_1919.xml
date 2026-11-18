@@ -84,6 +84,7 @@
           <eventName n="Theateraufführung">Aufführung von Götz von Berlichingen mit der eisernen Hand, 5.1.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d22facd334071f7614e45</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478312/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190105&amp;seite=1#burgtheater-goetz-von-berlichingen-mit-der-eisernen-hand</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -135,6 +136,7 @@
           <eventName n="Theateraufführung">Aufführung von Ein idealer Gatte, 6.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478315/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d29e3cd334071f761f2d5</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190106&amp;seite=1#burgtheater-ein-idealer-gatte</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -273,6 +275,7 @@
           <eventName n="Theateraufführung">Aufführung von Julius Cäsar, 11.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478318/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d2e21cd334071f76250df</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190111&amp;seite=1#burgtheater-julius-caesar</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -411,6 +414,7 @@
           <eventName n="Theateraufführung">Aufführung von Jugendfreunde, 12.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478321/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d2f19cd334071f762674d</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190112&amp;seite=1#burgtheater-jugendfreunde</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -462,6 +466,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Schöpfer, 15.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478324/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d305fcd334071f76285cb</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190115&amp;seite=1#burgtheater-der-schoepfer</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -513,6 +518,7 @@
           <eventName n="Theateraufführung">Aufführung von Julius Cäsar, 16.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478327/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d322ecd334071f762b048</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190116&amp;seite=1#burgtheater-julius-caesar</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -564,6 +570,7 @@
           <eventName n="Theateraufführung">Aufführung von Fasching, 17.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478330/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d3260cd334071f762b571</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190117&amp;seite=1#burgtheater-fasching</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -615,6 +622,7 @@
           <eventName n="Theateraufführung">Aufführung von König Lear, 18.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478333/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d329ecd334071f762bbd3</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190118&amp;seite=1#burgtheater-koenig-lear</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -674,6 +682,7 @@
           <eventName n="Theateraufführung">Aufführung von Liebelei, 19.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478336/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d32fbcd334071f762c43a</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190119&amp;seite=1#burgtheater-liebelei</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -696,12 +705,13 @@
           <eventName n="Theateraufführung">Aufführung von Was ihr wollt, 19.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478339/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d3312cd334071f762c759</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190119&amp;seite=1#burgtheater-was-ihr-wollt</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb201719">As you like it</title>
+              <title key="pmb201719">Twelfth Night, or What You Will</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -747,6 +757,7 @@
           <eventName n="Theateraufführung">Aufführung von Esther, 22.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478342/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d33a0cd334071f762d3ee</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190122&amp;seite=1#burgtheater-esther</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -769,6 +780,7 @@
           <eventName n="Theateraufführung">Aufführung von Elga, 22.1.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d33d1cd334071f762d844</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478345/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190122&amp;seite=1#burgtheater-elga</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -820,6 +832,7 @@
           <eventName n="Theateraufführung">Aufführung von Die verlorene Tochter, 23.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478348/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d340fcd334071f762ddf4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190123&amp;seite=1#burgtheater-die-verlorene-tochter</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -871,6 +884,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Schöpfer, 24.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478351/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d344acd334071f762e4bc</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190124&amp;seite=1#burgtheater-der-schoepfer</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -922,6 +936,7 @@
           <eventName n="Theateraufführung">Aufführung von Nathan der Weise, 25.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478354/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d34d3cd334071f762f294</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190125&amp;seite=1#burgtheater-nathan-der-weise</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1002,6 +1017,7 @@
           <eventName n="Theateraufführung">Aufführung von Phädra, 29.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478357/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b59d3ced60fbe1fa220</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190129&amp;seite=1#burgtheater-phaedra</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1053,6 +1069,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Schöpfer, 30.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478360/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d3513cd334071f762f8e2</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190130&amp;seite=1#burgtheater-der-schoepfer</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1104,6 +1121,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Verschwender, 31.1.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478363/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d35eccd334071f7630d16</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190131&amp;seite=1#burgtheater-der-verschwender</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1155,6 +1173,7 @@
           <eventName n="Theateraufführung">Aufführung von Die versunkene Glocke, 1.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478366/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d360bcd334071f7631062</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190201&amp;seite=1#burgtheater-die-versunkene-glocke</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1206,6 +1225,7 @@
           <eventName n="Theateraufführung">Aufführung von Zwischenspiel, 2.2.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d3638cd334071f76314e3</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478369/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190202&amp;seite=1#burgtheater-zwischenspiel</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1344,6 +1364,7 @@
           <eventName n="Theateraufführung">Aufführung von Ein idealer Gatte, 5.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478372/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d367ecd334071f7631b69</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190205&amp;seite=1#burgtheater-ein-idealer-gatte</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1395,6 +1416,7 @@
           <eventName n="Theateraufführung">Aufführung von Komödie der Worte, 6.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478375/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d36c5cd334071f76322b4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190206&amp;seite=1#burgtheater-komoedie-der-worte</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1480,6 +1502,7 @@
           <eventName n="Theateraufführung">Aufführung von Phädra, 7.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478378/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d39a2cd334071f7636305</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190207&amp;seite=1#burgtheater-phaedra</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1531,6 +1554,7 @@
           <eventName n="Theateraufführung">Aufführung von Dies irae, 8.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478381/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b58d3ced60fbe1fa00c</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190208&amp;seite=1#burgtheater-dies-irae</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1582,6 +1606,7 @@
           <eventName n="Theateraufführung">Aufführung von Dies irae, 9.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478384/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d3a74cd334071f7637726</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190209&amp;seite=1#burgtheater-dies-irae</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1633,6 +1658,7 @@
           <eventName n="Theateraufführung">Aufführung von Phädra, 12.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478387/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d3a93cd334071f7637a06</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190212&amp;seite=1#burgtheater-phaedra</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1684,6 +1710,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Schöpfer, 13.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478390/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d3ac0cd334071f7637e34</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190213&amp;seite=1#burgtheater-der-schoepfer</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1735,6 +1762,7 @@
           <eventName n="Theateraufführung">Aufführung von Dies irae, 14.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478393/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d3af3cd334071f76382e0</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190214&amp;seite=1#burgtheater-dies-irae</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1786,6 +1814,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Dummkopf, 15.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478396/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d3c0ecd334071f7639c98</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190215&amp;seite=1#burgtheater-der-dummkopf</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1837,6 +1866,7 @@
           <eventName n="Theateraufführung">Aufführung von Des Meeres und der Liebe Wellen, 16.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478399/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d3db6cd334071f763c259</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190216&amp;seite=1#burgtheater-des-meeres-und-der-liebe-wellen</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1984,6 +2014,7 @@
           <eventName n="Theateraufführung">Aufführung von Dies irae, 19.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478402/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d3deecd334071f763c767</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190219&amp;seite=1#burgtheater-dies-irae</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2035,6 +2066,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 20.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478405/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b59d3ced60fbe1fa3e4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190220&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2086,6 +2118,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 21.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478408/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d3e90cd334071f763d6e0</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190221&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2137,6 +2170,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Braut von Messina Die feindlichen Brüder, 22.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478411/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d3f3bcd334071f763e6b3</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190222&amp;seite=1#burgtheater-die-braut-von-messina-die-feindlichen-brueder</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2188,6 +2222,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 23.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478414/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d3f9dcd334071f763efb1</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190223&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2239,6 +2274,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 26.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478417/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d3fe1cd334071f763f563</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190226&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2328,6 +2364,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Schöpfer, 27.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478420/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d400dcd334071f763f9b6</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190227&amp;seite=1#burgtheater-der-schoepfer</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2379,6 +2416,7 @@
           <eventName n="Theateraufführung">Aufführung von Dies irae, 28.2.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478423/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4055cd334071f764001b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190228&amp;seite=1#burgtheater-dies-irae</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2461,6 +2499,7 @@
           <eventName n="Theateraufführung">Aufführung von Clavigo, 1.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478426/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/673dc3fe8d8fc0856bc93ff1</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190301&amp;seite=1#burgtheater-clavigo</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2483,6 +2522,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Biberpelz, 2.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478429/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d40d1cd334071f7640c8c</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190302&amp;seite=1#burgtheater-der-biberpelz</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2505,12 +2545,13 @@
           <eventName n="Theateraufführung">Aufführung von Was ihr wollt, 2.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478432/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4115cd334071f7641259</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190302&amp;seite=1#burgtheater-was-ihr-wollt</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb201719">As you like it</title>
+              <title key="pmb201719">Twelfth Night, or What You Will</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2586,6 +2627,7 @@
           <eventName n="Theateraufführung">Aufführung von Alt-Heidelberg, 4.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478435/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4143cd334071f7641691</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190304&amp;seite=2#burgtheater-alt-heidelberg</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2644,6 +2686,7 @@
           <eventName n="Theateraufführung">Aufführung von Dies irae, 5.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478438/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4239cd334071f7642ca1</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190305&amp;seite=1#burgtheater-dies-irae</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2695,6 +2738,7 @@
           <eventName n="Theateraufführung">Aufführung von Unterwegs, 6.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478441/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b5bd3ced60fbe1fa821</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190306&amp;seite=1#burgtheater-unterwegs</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2775,6 +2819,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Verschwörung des Fiesko zu Genua, 8.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478444/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4284cd334071f76433ab</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190308&amp;seite=1#burgtheater-die-verschwoerung-des-fiesko-zu-genua</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2826,6 +2871,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 9.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478447/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4328cd334071f76442c2</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190309&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2911,6 +2957,7 @@
           <eventName n="Theateraufführung">Aufführung von Unterwegs, 12.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478450/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4380cd334071f7644b5a</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190312&amp;seite=2#burgtheater-unterwegs</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2996,6 +3043,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Stützen der Gesellschaft, 13.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478453/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d43becd334071f764514b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190313&amp;seite=1#burgtheater-die-stuetzen-der-gesellschaft</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3047,6 +3095,7 @@
           <eventName n="Theateraufführung">Aufführung von Dies irae, 14.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478456/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d43f3cd334071f76456a3</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190314&amp;seite=1#burgtheater-dies-irae</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3127,6 +3176,7 @@
           <eventName n="Theateraufführung">Aufführung von Wallensteins Lager, 15.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478459/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4437cd334071f7645d47</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190315&amp;seite=1#burgtheater-wallensteins-lager</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3149,6 +3199,7 @@
           <eventName n="Theateraufführung">Aufführung von 2. Die Piccolomini, 15.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478462/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4462cd334071f7646133</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190315&amp;seite=1#burgtheater-2-die-piccolomini</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3244,6 +3295,7 @@
           <eventName n="Theateraufführung">Aufführung von 3. Wallensteins Tod, 16.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478465/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d44c9cd334071f7646ad7</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190316&amp;seite=1#burgtheater-3-wallensteins-tod</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3295,6 +3347,7 @@
           <eventName n="Theateraufführung">Aufführung von Unterwegs, 19.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478468/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4540cd334071f7647616</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190319&amp;seite=2#burgtheater-unterwegs</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3346,6 +3399,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Schöpfer, 20.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478471/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4566cd334071f7647956</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190320&amp;seite=1#burgtheater-der-schoepfer</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3397,6 +3451,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 21.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478474/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d45dfcd334071f7648475</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190321&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3448,6 +3503,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Wildente, 22.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478477/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4600cd334071f76487d2</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190322&amp;seite=1#burgtheater-die-wildente</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3499,6 +3555,7 @@
           <eventName n="Theateraufführung">Aufführung von Iphigenie auf Tauris, 23.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478480/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d46cfcd334071f7649b4c</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190323&amp;seite=1#burgtheater-iphigenie-auf-tauris</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3521,6 +3578,7 @@
           <eventName n="Theateraufführung">Aufführung von Garten der Jugend, 23.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478483/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d46f1cd334071f7649e35</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190323&amp;seite=2#burgtheater-garten-der-jugend</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3572,6 +3630,7 @@
           <eventName n="Theateraufführung">Aufführung von Flachsmann als Erzieher, 25.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478486/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d471acd334071f764a216</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190325&amp;seite=1#burgtheater-flachsmann-als-erzieher</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3594,6 +3653,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Schmetterlingsschlacht, 25.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478489/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d47a8cd334071f764af78</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190325&amp;seite=3#burgtheater-die-schmetterlingsschlacht</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3645,6 +3705,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 26.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478492/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d47eccd334071f764b62b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190326&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3667,6 +3728,7 @@
           <eventName n="Theateraufführung">Aufführung von Dies irae, 27.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478495/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d481fcd334071f764bafd</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190327&amp;seite=1#burgtheater-dies-irae</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3747,6 +3809,7 @@
           <eventName n="Theateraufführung">Aufführung von Julius Cäsar, 29.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478498/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4895cd334071f764c610</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190329&amp;seite=1#burgtheater-julius-caesar</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3798,6 +3861,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Raub der Sabinerinnen, 30.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478501/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d48c0cd334071f764c9f4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190330&amp;seite=1#burgtheater-der-raub-der-sabinerinnen</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3820,6 +3884,7 @@
           <eventName n="Theateraufführung">Aufführung von Die verlorene Tochter, 30.3.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478504/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d48eecd334071f764cebb</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190330&amp;seite=1#burgtheater-die-verlorene-tochter</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3933,6 +3998,7 @@
           <eventName n="Theateraufführung">Aufführung von Unterwegs, 2.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478507/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d491acd334071f764d317</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190402&amp;seite=1#burgtheater-unterwegs</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3984,6 +4050,7 @@
           <eventName n="Theateraufführung">Aufführung von Egmont, 3.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478510/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4947cd334071f764d79b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190403&amp;seite=1#burgtheater-egmont</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4069,6 +4136,7 @@
           <eventName n="Theateraufführung">Aufführung von Ein idealer Gatte, 4.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478513/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d499ccd334071f764df48</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190404&amp;seite=1#burgtheater-ein-idealer-gatte</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4184,6 +4252,7 @@
           <eventName n="Theateraufführung">Aufführung von Renaissance, 6.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478516/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d49f8cd334071f764e870</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190406&amp;seite=1#burgtheater-renaissance</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4206,6 +4275,7 @@
           <eventName n="Theateraufführung">Aufführung von Jaákobs Traum, 6.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478519/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4a29cd334071f764ecea</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190406&amp;seite=2#burgtheater-jaakobs-traum</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4346,6 +4416,7 @@
           <eventName n="Theateraufführung">Aufführung von Jaákobs Traum, 8.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478522/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4b19cd334071f7650474</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190408&amp;seite=1#burgtheater-jaakobs-traum</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4431,6 +4502,7 @@
           <eventName n="Theateraufführung">Aufführung von Dies irae, 9.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478525/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4b7bcd334071f7650ecf</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190409&amp;seite=1#burgtheater-dies-irae</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4482,6 +4554,7 @@
           <eventName n="Theateraufführung">Aufführung von Der einsame Weg, 10.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478528/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4befcd334071f7651be2</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190410&amp;seite=1#burgtheater-der-einsame-weg</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4533,6 +4606,7 @@
           <eventName n="Theateraufführung">Aufführung von Jaákobs Traum, 11.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478531/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4c27cd334071f7652133</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190411&amp;seite=1#burgtheater-jaakobs-traum</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4584,6 +4658,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Verschwender, 12.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478534/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4c80cd334071f76529e0</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190412&amp;seite=1#burgtheater-der-verschwender</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4635,6 +4710,7 @@
           <eventName n="Theateraufführung">Aufführung von Gyges und sein Ring, 13.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478537/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4d64cd334071f7654103</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190413&amp;seite=1#burgtheater-gyges-und-sein-ring</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4657,6 +4733,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Journalisten, 13.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478540/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4d8dcd334071f7654525</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190413&amp;seite=2#burgtheater-die-journalisten</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4708,6 +4785,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 14.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478543/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4dc3cd334071f7654ac2</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190414&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4759,6 +4837,7 @@
           <eventName n="Theateraufführung">Aufführung von Unterwegs, 15.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478546/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4e12cd334071f7655277</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190415&amp;seite=1#burgtheater-unterwegs</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4781,6 +4860,7 @@
           <eventName n="Theateraufführung">Aufführung von Jaákobs Traum, 16.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478549/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4e69cd334071f7655a9f</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190416&amp;seite=1#burgtheater-jaakobs-traum</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4832,6 +4912,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Schöpfer, 17.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478552/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4e9ccd334071f7655fc4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190417&amp;seite=1#burgtheater-der-schoepfer</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4914,6 +4995,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Kaufmann von Venedig, 19.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478555/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4edfcd334071f7656691</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190419&amp;seite=1#burgtheater-der-kaufmann-von-venedig</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5002,6 +5084,7 @@
           <eventName n="Theateraufführung">Aufführung von Jugendfreunde, 20.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478558/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d500acd334071f76582cf</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190420&amp;seite=1#burgtheater-jugendfreunde</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5024,6 +5107,7 @@
           <eventName n="Theateraufführung">Aufführung von Minna von Barnhelm Das Soldatenglück, 20.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478561/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5032cd334071f765872c</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190420&amp;seite=1#burgtheater-minna-von-barnhelm-das-soldatenglueck</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5046,6 +5130,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 20.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478564/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5087cd334071f765903b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190420&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5097,6 +5182,7 @@
           <eventName n="Theateraufführung">Aufführung von Die verlorene Tochter, 21.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478567/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d50e6cd334071f7659a55</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190421&amp;seite=1#burgtheater-die-verlorene-tochter</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5177,6 +5263,7 @@
           <eventName n="Theateraufführung">Aufführung von Fasching, 22.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478570/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5143cd334071f765a3a4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190422&amp;seite=1#burgtheater-fasching</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5291,6 +5378,7 @@
           <eventName n="Theateraufführung">Aufführung von Flachsmann als Erzieher, 24.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478573/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d519acd334071f765ac0e</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190424&amp;seite=1#burgtheater-flachsmann-als-erzieher</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5408,6 +5496,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Sorina, 25.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478576/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b5bd3ced60fbe1faa8b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190425&amp;seite=1#burgtheater-die-sorina</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5493,6 +5582,7 @@
           <eventName n="Theateraufführung">Aufführung von Weh dem der lügt, 26.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478579/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d51e1cd334071f765b3ad</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190426&amp;seite=1#burgtheater-weh-dem-der-luegt</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5573,6 +5663,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Sorina, 27.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478582/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5208cd334071f765b7c0</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190427&amp;seite=1#burgtheater-die-sorina</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5624,6 +5715,7 @@
           <eventName n="Theateraufführung">Aufführung von Maria Stuart, 28.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478585/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5269cd334071f765c15a</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190428&amp;seite=1#burgtheater-maria-stuart</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5675,6 +5767,7 @@
           <eventName n="Theateraufführung">Aufführung von Jaákobs Traum, 29.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478588/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d529ecd334071f765c63e</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190429&amp;seite=1#burgtheater-jaakobs-traum</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5757,6 +5850,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Sorina, 30.4.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478591/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d52c1cd334071f765caa4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190430&amp;seite=1#burgtheater-die-sorina</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5808,6 +5902,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Verschwörung des Fiesko zu Genua, 1.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478594/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d530ecd334071f765d2c4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190501&amp;seite=1#burgtheater-die-verschwoerung-des-fiesko-zu-genua</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5859,6 +5954,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Verschwörung des Fiesko zu Genua, 2.5.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d53a9cd334071f765e2a0</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478597/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190502&amp;seite=1#burgtheater-die-verschwoerung-des-fiesko-zu-genua</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5910,6 +6006,7 @@
           <eventName n="Theateraufführung">Aufführung von Pygmalion, 3.5.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d53ddcd334071f765e812</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478600/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190503&amp;seite=1#burgtheater-pygmalion</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5961,6 +6058,7 @@
           <eventName n="Theateraufführung">Aufführung von Garten der Jugend, 4.5.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d543acd334071f765f287</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478603/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190504&amp;seite=1#burgtheater-garten-der-jugend</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -5983,6 +6081,7 @@
           <eventName n="Theateraufführung">Aufführung von Pygmalion, 4.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478606/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d546ccd334071f765f76e</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190504&amp;seite=2#burgtheater-pygmalion</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -6121,6 +6220,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 5.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478609/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d54c6cd334071f76600e7</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190505&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -6172,6 +6272,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Sorina, 6.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478612/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5503cd334071f766079b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190506&amp;seite=1#burgtheater-die-sorina</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -6223,12 +6324,13 @@
           <eventName n="Theateraufführung">Aufführung von Was ihr wollt, 7.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478615/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5535cd334071f7660c29</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190507&amp;seite=1#burgtheater-was-ihr-wollt</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb201719">As you like it</title>
+              <title key="pmb201719">Twelfth Night, or What You Will</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6274,6 +6376,7 @@
           <eventName n="Theateraufführung">Aufführung von Jaákobs Traum, 8.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478618/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d557ecd334071f7661371</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190508&amp;seite=1#burgtheater-jaakobs-traum</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -6400,6 +6503,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Glück im Winkel, 9.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478621/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d559ecd334071f76616fa</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190509&amp;seite=1#burgtheater-das-glueck-im-winkel</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -6451,6 +6555,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Braut von Messina Die feindlichen Brüder, 10.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478624/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d55eacd334071f766202b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190510&amp;seite=1#burgtheater-die-braut-von-messina-die-feindlichen-brueder</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -6502,6 +6607,7 @@
           <eventName n="Theateraufführung">Aufführung von Komödie der Worte, 11.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478627/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d561acd334071f766261f</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190511&amp;seite=2#burgtheater-komoedie-der-worte</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -6524,6 +6630,7 @@
           <eventName n="Theateraufführung">Aufführung von Alt-Heidelberg, 11.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478630/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5644cd334071f7662bf5</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190511&amp;seite=1#burgtheater-alt-heidelberg</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -6726,12 +6833,13 @@
           <eventName n="Theateraufführung">Aufführung von Was ihr wollt, 12.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478633/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d56d5cd334071f7663c94</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190512&amp;seite=1#burgtheater-was-ihr-wollt</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb201719">As you like it</title>
+              <title key="pmb201719">Twelfth Night, or What You Will</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6777,6 +6885,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Schöpfer, 13.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478636/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5717cd334071f7664323</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190513&amp;seite=1#burgtheater-der-schoepfer</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -6828,6 +6937,7 @@
           <eventName n="Theateraufführung">Aufführung von Unterwegs, 14.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478639/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d574ccd334071f7664922</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190514&amp;seite=1#burgtheater-unterwegs</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -6879,6 +6989,7 @@
           <eventName n="Theateraufführung">Aufführung von Ein dunkler Ehrenmann, 15.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478642/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b5ad3ced60fbe1fa557</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190515&amp;seite=1#burgtheater-ein-dunkler-ehrenmann</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -6964,6 +7075,7 @@
           <eventName n="Theateraufführung">Aufführung von Ein dunkler Ehrenmann, 16.5.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d57b5cd334071f76654c7</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478645/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190516&amp;seite=1#burgtheater-ein-dunkler-ehrenmann</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -6986,6 +7098,7 @@
           <eventName n="Theateraufführung">Aufführung von Der häßliche Ferante, 17.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478648/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d57f5cd334071f7665bab</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190517&amp;seite=1#burgtheater-der-haessliche-ferante</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -7037,6 +7150,7 @@
           <eventName n="Theateraufführung">Aufführung von Goldfische, 18.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478651/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d586ecd334071f7666843</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190518&amp;seite=1#burgtheater-goldfische</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -7059,6 +7173,7 @@
           <eventName n="Theateraufführung">Aufführung von Ein dunkler Ehrenmann, 18.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478654/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d58a1cd334071f7666d18</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190518&amp;seite=2#burgtheater-ein-dunkler-ehrenmann</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -7176,12 +7291,13 @@
           <eventName n="Theateraufführung">Aufführung von Was ihr wollt, 19.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478657/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d58d1cd334071f76671f8</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190519&amp;seite=1#burgtheater-was-ihr-wollt</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb201719">As you like it</title>
+              <title key="pmb201719">Twelfth Night, or What You Will</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7248,6 +7364,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 20.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478660/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d590acd334071f7667758</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190520&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -7392,6 +7509,7 @@
           <eventName n="Theateraufführung">Aufführung von Ein dunkler Ehrenmann, 21.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478663/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d599fcd334071f7668571</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190521&amp;seite=1#burgtheater-ein-dunkler-ehrenmann</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -7488,6 +7606,7 @@
           <eventName n="Theateraufführung">Aufführung von Pygmalion, 22.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478666/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d59c8cd334071f76689b1</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190522&amp;seite=1#burgtheater-pygmalion</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -7662,6 +7781,7 @@
           <eventName n="Theateraufführung">Aufführung von Die verlorene Tochter, 23.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478669/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d59fccd334071f7668ec1</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190523&amp;seite=1#burgtheater-die-verlorene-tochter</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -7713,6 +7833,7 @@
           <eventName n="Theateraufführung">Aufführung von Othello, der Mohr von Venedig, 24.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478672/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5a36cd334071f76694b4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190524&amp;seite=1#burgtheater-othello-der-mohr-von-venedig</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -7764,6 +7885,7 @@
           <eventName n="Theateraufführung">Aufführung von Erde, 25.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478675/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5aa6cd334071f766a068</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190525&amp;seite=1#burgtheater-erde</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -7786,6 +7908,7 @@
           <eventName n="Theateraufführung">Aufführung von Karrnerleut, 25.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478678/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5adbcd334071f766a623</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190525&amp;seite=1#burgtheater-karrnerleut</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -7903,6 +8026,7 @@
           <eventName n="Theateraufführung">Aufführung von Der häßliche Ferante, 26.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478681/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5b9fcd334071f766b8d2</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190526&amp;seite=1#burgtheater-der-haessliche-ferante</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -7991,6 +8115,7 @@
           <eventName n="Theateraufführung">Aufführung von Pygmalion, 27.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478684/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5bc6cd334071f766bcb7</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190527&amp;seite=1#burgtheater-pygmalion</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8042,6 +8167,7 @@
           <eventName n="Theateraufführung">Aufführung von Die versunkene Glocke, 28.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478687/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5c0acd334071f766c3eb</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190528&amp;seite=1#burgtheater-die-versunkene-glocke</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8093,6 +8219,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Märchen vom Wolf, 29.5.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5c41cd334071f766c942</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478690/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190529&amp;seite=1#burgtheater-das-maerchen-vom-wolf</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8169,6 +8296,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Weibsteufel, 30.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478693/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5ca1cd334071f766d2ae</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190530&amp;seite=1#burgtheater-der-weibsteufel</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8278,6 +8406,7 @@
           <eventName n="Theateraufführung">Aufführung von Jaákobs Traum, 31.5.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478696/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5ce5cd334071f766d90d</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190531&amp;seite=1#burgtheater-jaakobs-traum</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8366,6 +8495,7 @@
           <eventName n="Theateraufführung">Aufführung von Wilhelm Tell, 1.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478699/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e51d7cd334071f77ab3a6</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190601&amp;seite=1#burgtheater-wilhelm-tell</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8417,6 +8547,7 @@
           <eventName n="Theateraufführung">Aufführung von Garten der Jugend, 2.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478702/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e5232cd334071f77abb50</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190602&amp;seite=1#burgtheater-garten-der-jugend</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8497,6 +8628,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Verschwender, 3.6.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e541fcd334071f77ae532</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478705/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190603&amp;seite=1#burgtheater-der-verschwender</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8569,6 +8701,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Zwillingsschwester, 4.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478708/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e5609cd334071f77b1144</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190604&amp;seite=1#burgtheater-die-zwillingsschwester</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8620,6 +8753,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Meineidbauer, 5.6.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e564ecd334071f77b1848</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478711/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190605&amp;seite=1#burgtheater-der-meineidbauer</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8737,6 +8871,7 @@
           <eventName n="Theateraufführung">Aufführung von Zwischenspiel, 6.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478714/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667efca34801253dbd129688</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190606&amp;seite=1#burgtheater-zwischenspiel</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8868,6 +9003,7 @@
           <eventName n="Theateraufführung">Aufführung von Gespenster, 7.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478720/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e5991cd334071f77b6375</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190607&amp;seite=1#burgtheater-gespenster</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8890,6 +9026,7 @@
           <eventName n="Theateraufführung">Aufführung von Goldfische, 7.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478723/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e59c8cd334071f77b67fa</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190607&amp;seite=1#burgtheater-goldfische</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8912,6 +9049,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 8.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478726/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e5c0ccd334071f77b98ea</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190608&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8963,6 +9101,7 @@
           <eventName n="Theateraufführung">Aufführung von Der häßliche Ferante, 9.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478729/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e5cb9cd334071f77ba930</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190609&amp;seite=1#burgtheater-der-haessliche-ferante</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9017,6 +9156,7 @@
           <eventName n="Theateraufführung">Aufführung von Alt-Heidelberg, 10.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478732/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e4626cd334071f779c66c</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190610&amp;seite=1#burgtheater-alt-heidelberg</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9068,6 +9208,7 @@
           <eventName n="Theateraufführung">Aufführung von Die verlorene Tochter, 11.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478735/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8af2cd334071f77fca1d</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190611&amp;seite=1#burgtheater-die-verlorene-tochter</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9125,6 +9266,7 @@
           <eventName n="Theateraufführung">Aufführung von Jugendfreunde, 12.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478738/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8af4cd334071f77fca4d</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190612&amp;seite=1#burgtheater-jugendfreunde</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9147,6 +9289,7 @@
           <eventName n="Theateraufführung">Aufführung von Unterwegs, 13.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478741/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667efcdc4801253dbd129c42</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190613&amp;seite=1#burgtheater-unterwegs</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9264,6 +9407,7 @@
           <eventName n="Theateraufführung">Aufführung von Nathan der Weise, 14.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478753/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8b49cd334071f77fd224</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190614&amp;seite=1#burgtheater-nathan-der-weise</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9350,6 +9494,7 @@
           <eventName n="Theateraufführung">Aufführung von Pygmalion, 15.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478756/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8bbfcd334071f77fdcc6</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190615&amp;seite=1#burgtheater-pygmalion</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9372,6 +9517,7 @@
           <eventName n="Theateraufführung">Aufführung von Liebelei, 16.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478759/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8baccd334071f77fdaf5</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190616&amp;seite=1#burgtheater-liebelei</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9394,6 +9540,7 @@
           <eventName n="Theateraufführung">Aufführung von Literatur, 16.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478762/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8bbecd334071f77fdca4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190616&amp;seite=1#burgtheater-literatur</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9571,6 +9718,7 @@
           <eventName n="Theateraufführung">Aufführung von Des Meeres und der Liebe Wellen, 17.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478765/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8c41cd334071f77fea3d</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190617&amp;seite=1#burgtheater-des-meeres-und-der-liebe-wellen</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9593,6 +9741,7 @@
           <eventName n="Theateraufführung">Aufführung von Maria Stuart, 18.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478768/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8cf8cd334071f77ffabb</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190618&amp;seite=1#burgtheater-maria-stuart</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9615,6 +9764,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Jüdin von Toledo, 19.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478771/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8d53cd334071f7800243</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190619&amp;seite=1#burgtheater-die-juedin-von-toledo</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9637,6 +9787,7 @@
           <eventName n="Theateraufführung">Aufführung von Jaákobs Traum, 20.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478774/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8e74cd334071f7801cc1</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190620&amp;seite=1#burgtheater-jaakobs-traum</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9680,12 +9831,13 @@
           <eventName n="Theateraufführung">Aufführung von Was ihr wollt, 21.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478777/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8e16cd334071f78014a1</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190621&amp;seite=1#burgtheater-was-ihr-wollt</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb201719">As you like it</title>
+              <title key="pmb201719">Twelfth Night, or What You Will</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9702,6 +9854,7 @@
           <eventName n="Theateraufführung">Aufführung von Erde, 22.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478780/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8fe4cd334071f7803ddd</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190622&amp;seite=1#burgtheater-erde</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9724,6 +9877,7 @@
           <eventName n="Theateraufführung">Aufführung von Karrnerleut, 22.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478783/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8ffecd334071f780406b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190622&amp;seite=1#burgtheater-karrnerleut</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9776,6 +9930,7 @@
           <eventName n="Theateraufführung">Aufführung von Garten der Jugend, 23.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478786/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e91a7cd334071f7806716</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190623&amp;seite=1#burgtheater-garten-der-jugend</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9798,6 +9953,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Band, 24.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478789/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b5dd3ced60fbe1fb228</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190624&amp;seite=1#burgtheater-das-band</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9820,6 +9976,7 @@
           <eventName n="Theateraufführung">Aufführung von Vorm Tode, 24.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478792/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b5ed3ced60fbe1fb4bc</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190624&amp;seite=1#burgtheater-vorm-tode</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9877,6 +10034,7 @@
           <eventName n="Theateraufführung">Aufführung von Jaákobs Traum, 25.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478795/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e93eccd334071f78094d4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190625&amp;seite=1#burgtheater-jaakobs-traum</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9899,6 +10057,7 @@
           <eventName n="Theateraufführung">Aufführung von Vorm Tode, 26.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478798/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667efd2a4801253dbd12a2d1</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190626&amp;seite=1#burgtheater-vorm-tode</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9921,6 +10080,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Band, 26.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478801/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/671b6ef423a753560d0dadb5</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190626&amp;seite=1#burgtheater-das-band</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -10002,6 +10162,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Band, 27.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478807/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8ca8cd334071f77ff37e</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190627&amp;seite=1#burgtheater-das-band</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -10024,6 +10185,7 @@
           <eventName n="Theateraufführung">Aufführung von Vorm Tode, 27.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478810/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8cbbcd334071f77ff548</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190627&amp;seite=1#burgtheater-vorm-tode</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -10046,6 +10208,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Märchen vom Wolf, 28.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478813/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8d25cd334071f77ffe23</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190628&amp;seite=1#burgtheater-das-maerchen-vom-wolf</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -10068,6 +10231,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Band, 29.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478816/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8daccd334071f7800bcc</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190629&amp;seite=1#burgtheater-das-band</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -10090,6 +10254,7 @@
           <eventName n="Theateraufführung">Aufführung von Vorm Tode, 29.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478819/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8dc8cd334071f7800e01</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190629&amp;seite=1#burgtheater-vorm-tode</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -10141,6 +10306,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 30.6.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478822/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e9556cd334071f780b21f</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190630&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11032,6 +11198,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Verschwörung des Fiesko zu Genua, 1.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478828/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e9843cd334071f780f061</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190901&amp;seite=2#burgtheater-die-verschwoerung-des-fiesko-zu-genua</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11112,6 +11279,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Band, 2.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478831/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8f65cd334071f780323e</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190902&amp;seite=1#burgtheater-das-band</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11134,6 +11302,7 @@
           <eventName n="Theateraufführung">Aufführung von Vorm Tode, 2.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478834/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e8f8dcd334071f78035cb</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190902&amp;seite=1#burgtheater-vorm-tode</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11185,6 +11354,7 @@
           <eventName n="Theateraufführung">Aufführung von Iphigenie auf Tauris, 3.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478837/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e9866cd334071f780f2e9</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190903&amp;seite=1#burgtheater-iphigenie-auf-tauris</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11294,6 +11464,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Verschwender, 4.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478840/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e9934cd334071f7810504</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190904&amp;seite=1#burgtheater-der-verschwender</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11316,6 +11487,7 @@
           <eventName n="Theateraufführung">Aufführung von Pygmalion, 5.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478843/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e9d5ecd334071f7815cda</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190905&amp;seite=1#burgtheater-pygmalion</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11396,6 +11568,7 @@
           <eventName n="Theateraufführung">Aufführung von Fasching, 6.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478846/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e9d42cd334071f7815a63</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190906&amp;seite=1#burgtheater-fasching</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11447,6 +11620,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Band, 7.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478849/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e9002cd334071f78040bc</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190907&amp;seite=1#burgtheater-das-band</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11469,6 +11643,7 @@
           <eventName n="Theateraufführung">Aufführung von Vorm Tode, 7.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478852/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e903dcd334071f78045e8</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190907&amp;seite=1#burgtheater-vorm-tode</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11520,6 +11695,7 @@
           <eventName n="Theateraufführung">Aufführung von Flachsmann als Erzieher, 8.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478855/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e9db0cd334071f78163f9</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190908&amp;seite=1#burgtheater-flachsmann-als-erzieher</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11571,6 +11747,7 @@
           <eventName n="Theateraufführung">Aufführung von Des Meeres und der Liebe Wellen, 9.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478858/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e9e76cd334071f78175d3</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190909&amp;seite=1#burgtheater-des-meeres-und-der-liebe-wellen</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11622,6 +11799,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Schmetterlingsschlacht, 10.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478861/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e9ec2cd334071f7817c7e</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190910&amp;seite=1#burgtheater-die-schmetterlingsschlacht</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11644,6 +11822,7 @@
           <eventName n="Theateraufführung">Aufführung von Julius Cäsar, 11.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478864/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e9f41cd334071f7818736</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190911&amp;seite=1#burgtheater-julius-caesar</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11695,6 +11874,7 @@
           <eventName n="Theateraufführung">Aufführung von Pygmalion, 12.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478867/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ea00fcd334071f78198aa</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190912&amp;seite=1#burgtheater-pygmalion</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11775,6 +11955,7 @@
           <eventName n="Theateraufführung">Aufführung von Othello, der Mohr von Venedig, 13.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478870/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e9131cd334071f7805cbb</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190913&amp;seite=1#burgtheater-othello-der-mohr-von-venedig</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11826,6 +12007,7 @@
           <eventName n="Theateraufführung">Aufführung von Gyges und sein Ring, 14.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478873/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ea1eecd334071f781bfe4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190914&amp;seite=1#burgtheater-gyges-und-sein-ring</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11877,6 +12059,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 15.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478876/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ea243cd334071f781c79d</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190915&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -11986,6 +12169,7 @@
           <eventName n="Theateraufführung">Aufführung von Medea, 16.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478879/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ea446cd334071f781f58e</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190916&amp;seite=1#burgtheater-medea</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -12037,6 +12221,7 @@
           <eventName n="Theateraufführung">Aufführung von Alt-Heidelberg, 17.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478882/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eafd0cd334071f782f359</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190917&amp;seite=1#burgtheater-alt-heidelberg</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -12088,6 +12273,7 @@
           <eventName n="Theateraufführung">Aufführung von Emilia Galotti, 18.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478885/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eb03ccd334071f782fccc</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190918&amp;seite=1#burgtheater-emilia-galotti</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -12174,6 +12360,7 @@
           <eventName n="Theateraufführung">Aufführung von Renaissance, 19.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478888/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667e9197cd334071f78065c7</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190919&amp;seite=1#burgtheater-renaissance</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -12255,6 +12442,7 @@
           <eventName n="Theateraufführung">Aufführung von Ein Geschlecht, 20.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478891/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b60d3ced60fbe1fbd10</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190920&amp;seite=1#burgtheater-ein-geschlecht</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -12306,6 +12494,7 @@
           <eventName n="Theateraufführung">Aufführung von Ein Geschlecht, 21.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478894/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eb0fecd334071f7830da4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190921&amp;seite=1#burgtheater-ein-geschlecht</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -12444,6 +12633,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 22.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478897/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eb1d3cd334071f7831e53</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190922&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -12495,6 +12685,7 @@
           <eventName n="Theateraufführung">Aufführung von Ein Geschlecht, 23.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478900/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eb297cd334071f7832df4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190923&amp;seite=1#burgtheater-ein-geschlecht</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -12546,6 +12737,7 @@
           <eventName n="Theateraufführung">Aufführung von Flachsmann als Erzieher, 24.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478903/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eb35dcd334071f7833d45</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190924&amp;seite=1#burgtheater-flachsmann-als-erzieher</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -12655,6 +12847,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Meineidbauer, 25.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478906/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eb401cd334071f7834a96</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190925&amp;seite=1#burgtheater-der-meineidbauer</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -12706,6 +12899,7 @@
           <eventName n="Theateraufführung">Aufführung von Ein Geschlecht, 26.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478909/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eb508cd334071f7835f65</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190926&amp;seite=1#burgtheater-ein-geschlecht</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -12795,6 +12989,7 @@
           <eventName n="Theateraufführung">Aufführung von Anna Karenina, 27.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478912/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eb5c5cd334071f7836ea3</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190927&amp;seite=1#burgtheater-anna-karenina</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -12846,6 +13041,7 @@
           <eventName n="Theateraufführung">Aufführung von Anna Karenina, 28.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478915/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eb73ccd334071f7838c35</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190928&amp;seite=1#burgtheater-anna-karenina</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -12897,6 +13093,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Heirat wider Willen, 29.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478918/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b5fd3ced60fbe1fb8ae</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190929&amp;seite=1#burgtheater-die-heirat-wider-willen</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -12919,6 +13116,7 @@
           <eventName n="Theateraufführung">Aufführung von Mirandolina La Locandiera, 29.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478921/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b5fd3ced60fbe1fb9c0</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190929&amp;seite=1#burgtheater-mirandolina-la-locandiera</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -13028,6 +13226,7 @@
           <eventName n="Theateraufführung">Aufführung von Mirandolina La Locandiera, 30.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478924/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eb838cd334071f783a085</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190930&amp;seite=1#burgtheater-mirandolina-la-locandiera</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -13050,6 +13249,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Heirat wider Willen, 30.9.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478927/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eb84ecd334071f783a222</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19190930&amp;seite=1#burgtheater-die-heirat-wider-willen</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -13101,6 +13301,7 @@
           <eventName n="Theateraufführung">Aufführung von Ein Geschlecht, 1.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478930/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eb929cd334071f783b32d</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191001&amp;seite=1#burgtheater-ein-geschlecht</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -13152,6 +13353,7 @@
           <eventName n="Theateraufführung">Aufführung von Sappho, 2.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478933/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eb995cd334071f783bbab</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191002&amp;seite=1#burgtheater-sappho</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -13203,6 +13405,7 @@
           <eventName n="Theateraufführung">Aufführung von Anna Karenina, 3.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478936/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eb9f3cd334071f783c3de</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191003&amp;seite=1#burgtheater-anna-karenina</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -13325,6 +13528,7 @@
           <eventName n="Theateraufführung">Aufführung von Maria Stuart, 5.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478939/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eba8acd334071f783cfec</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191005&amp;seite=1#burgtheater-maria-stuart</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -13376,6 +13580,7 @@
           <eventName n="Theateraufführung">Aufführung von Anna Karenina, 6.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478942/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667efe2d4801253dbd12b6f9</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191006&amp;seite=1#burgtheater-anna-karenina</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -13512,6 +13717,7 @@
           <eventName n="Theateraufführung">Aufführung von Die versunkene Glocke, 8.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478945/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eff654801253dbd12d086</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191008&amp;seite=1#burgtheater-die-versunkene-glocke</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -13588,6 +13794,7 @@
           <eventName n="Theateraufführung">Aufführung von Ein Geschlecht, 9.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478951/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ecdcbcd334071f7854be8</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191009&amp;seite=1#burgtheater-ein-geschlecht</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -13704,6 +13911,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Raub der Sabinerinnen, 10.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478954/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667eced0cd334071f785620f</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191010&amp;seite=1#burgtheater-der-raub-der-sabinerinnen</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -13801,6 +14009,7 @@
           <eventName n="Theateraufführung">Aufführung von Egmont, 11.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478957/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f00b14801253dbd12eabc</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191011&amp;seite=1#burgtheater-egmont</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -13852,6 +14061,7 @@
           <eventName n="Theateraufführung">Aufführung von Vater und Sohn (Esmann), 12.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478960/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ecf81cd334071f785706c</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191012&amp;seite=1#burgtheater-vater-und-sohn-esmann</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -13988,6 +14198,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Braut von Messina Die feindlichen Brüder, 13.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478963/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f01174801253dbd12f3a4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191013&amp;seite=1#burgtheater-die-braut-von-messina-die-feindlichen-brueder</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -14110,6 +14321,7 @@
           <eventName n="Theateraufführung">Aufführung von Pygmalion, 14.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478966/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f01484801253dbd12f7ac</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191014&amp;seite=1#burgtheater-pygmalion</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -14195,6 +14407,7 @@
           <eventName n="Theateraufführung">Aufführung von Vater und Sohn (Esmann), 15.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478969/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ed16ccd334071f7859754</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191015&amp;seite=1#burgtheater-vater-und-sohn-esmann</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -14277,6 +14490,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Leben ein Traum, 16.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478972/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f024a4801253dbd130c4d</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191016&amp;seite=1#burgtheater-das-leben-ein-traum</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -14379,6 +14593,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Schmetterlingsschlacht, 17.10.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f030f4801253dbd131ce8</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478978/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191017&amp;seite=2#burgtheater-die-schmetterlingsschlacht</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -14430,6 +14645,7 @@
           <eventName n="Theateraufführung">Aufführung von Klein Eyolf, 18.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478981/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f033c4801253dbd1320e5</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191018&amp;seite=1#burgtheater-klein-eyolf</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -14481,6 +14697,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Konzert, 19.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478984/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ed1f5cd334071f785a299</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191019&amp;seite=1#burgtheater-das-konzert</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -14595,6 +14812,7 @@
           <eventName n="Theateraufführung">Aufführung von Mirandolina La Locandiera, 20.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478987/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f03ac4801253dbd132a94</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191020&amp;seite=1#burgtheater-mirandolina-la-locandiera</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -14758,6 +14976,7 @@
           <eventName n="Theateraufführung">Aufführung von Julius Cäsar, 22.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478990/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f05af4801253dbd135552</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191022&amp;seite=1#burgtheater-julius-caesar</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -14780,6 +14999,7 @@
           <eventName n="Theateraufführung">Aufführung von Candida, 23.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478993/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66c8c628a82b07a55828607d</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191023&amp;seite=1#burgtheater-candida</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -14831,6 +15051,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Konzert, 24.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478996/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f06314801253dbd136018</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191024&amp;seite=1#burgtheater-das-konzert</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -14882,12 +15103,13 @@
           <eventName n="Theateraufführung">Aufführung von Was ihr wollt, 25.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/478999/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f06bb4801253dbd136af8</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191025&amp;seite=1#burgtheater-was-ihr-wollt</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb201719">As you like it</title>
+              <title key="pmb201719">Twelfth Night, or What You Will</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14941,6 +15163,7 @@
           <eventName n="Theateraufführung">Aufführung von Diebe im Haus, 26.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479002/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ed28acd334071f785af0b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191026&amp;seite=1#burgtheater-diebe-im-haus</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -14992,6 +15215,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Verschwender, 27.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479005/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f083a4801253dbd13893c</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191027&amp;seite=1#burgtheater-der-verschwender</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15043,6 +15267,7 @@
           <eventName n="Theateraufführung">Aufführung von Candida, 28.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479008/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ee3884801253dbd10a067</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191028&amp;seite=1#burgtheater-candida</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15094,6 +15319,7 @@
           <eventName n="Theateraufführung">Aufführung von Anna Karenina, 29.10.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f0af44801253dbd13c144</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479011/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191029&amp;seite=1#burgtheater-anna-karenina</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15145,6 +15371,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Konzert, 30.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479014/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ed2dfcd334071f785b5f8</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191030&amp;seite=1#burgtheater-das-konzert</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15196,6 +15423,7 @@
           <eventName n="Theateraufführung">Aufführung von Erde, 31.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479017/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f09c04801253dbd13a915</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191031&amp;seite=1#burgtheater-erde</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15218,6 +15446,7 @@
           <eventName n="Theateraufführung">Aufführung von Karrnerleut, 31.10.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479020/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f0a0c4801253dbd13aee4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191031&amp;seite=1#burgtheater-karrnerleut</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15298,6 +15527,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Räuber, 1.11.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f0ae54801253dbd13c011</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479023/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191101&amp;seite=1#burgtheater-die-raeuber</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15349,6 +15579,7 @@
           <eventName n="Theateraufführung">Aufführung von Ein Geschlecht, 2.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479026/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ed30fcd334071f785bb30</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191102&amp;seite=1#burgtheater-ein-geschlecht</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15400,12 +15631,13 @@
           <eventName n="Theateraufführung">Aufführung von Was ihr wollt, 3.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479029/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f0c104801253dbd13d897</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191103&amp;seite=1#burgtheater-was-ihr-wollt</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb201719">As you like it</title>
+              <title key="pmb201719">Twelfth Night, or What You Will</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15451,6 +15683,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Kaufmann von Venedig, 4.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479032/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f0c7d4801253dbd13e0bc</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191104&amp;seite=1#burgtheater-der-kaufmann-von-venedig</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15531,6 +15764,7 @@
           <eventName n="Theateraufführung">Aufführung von Diebe im Haus, 5.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479035/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ed359cd334071f785c10e</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191105&amp;seite=1#burgtheater-diebe-im-haus</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15609,6 +15843,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Ahnfrau, 6.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479038/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ed37ccd334071f785c3c7</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191106&amp;seite=1#burgtheater-die-ahnfrau</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15690,6 +15925,7 @@
           <eventName n="Theateraufführung">Aufführung von Minna von Barnhelm Das Soldatenglück, 7.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479041/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f0d414801253dbd13f0a8</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191107&amp;seite=1#burgtheater-minna-von-barnhelm-das-soldatenglueck</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15770,6 +16006,7 @@
           <eventName n="Theateraufführung">Aufführung von Candida, 8.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479044/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ee3ea4801253dbd10a8ea</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191108&amp;seite=1#burgtheater-candida</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15821,6 +16058,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Verschwörung des Fiesko zu Genua, 9.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479047/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f0dae4801253dbd13f943</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191109&amp;seite=1#burgtheater-die-verschwoerung-des-fiesko-zu-genua</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15872,6 +16110,7 @@
           <eventName n="Theateraufführung">Aufführung von Die verlorene Tochter, 10.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479050/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f0ebd4801253dbd140ede</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191110&amp;seite=1#burgtheater-die-verlorene-tochter</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15923,6 +16162,7 @@
           <eventName n="Theateraufführung">Aufführung von Fuhrmann Henschel, 11.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479053/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f0f5f4801253dbd141b9b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191111&amp;seite=1#burgtheater-fuhrmann-henschel</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15974,6 +16214,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Räuber, 12.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479056/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f0fec4801253dbd14267a</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191112&amp;seite=1#burgtheater-die-raeuber</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -16059,6 +16300,7 @@
           <eventName n="Theateraufführung">Aufführung von Alt-Heidelberg, 13.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479059/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f10994801253dbd143389</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191113&amp;seite=1#burgtheater-alt-heidelberg</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -16159,6 +16401,7 @@
           <eventName n="Theateraufführung">Aufführung von Anna Karenina, 14.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479062/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f10c84801253dbd1437f5</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191114&amp;seite=1#burgtheater-anna-karenina</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -16210,6 +16453,7 @@
           <eventName n="Theateraufführung">Aufführung von Ein Geschlecht, 15.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479065/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ed3cacd334071f785cb7b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191115&amp;seite=1#burgtheater-ein-geschlecht</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -16261,6 +16505,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Räuber, 16.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479068/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f11214801253dbd143e86</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191116&amp;seite=1#burgtheater-die-raeuber</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -16312,6 +16557,7 @@
           <eventName n="Theateraufführung">Aufführung von Candida, 17.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479071/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ee4494801253dbd10b19b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191117&amp;seite=1#burgtheater-candida</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -16392,6 +16638,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Fahrt ins Blaue, 18.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479074/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f11f84801253dbd144fcc</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191118&amp;seite=1#burgtheater-die-fahrt-ins-blaue</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -16512,6 +16759,7 @@
           <eventName n="Theateraufführung">Aufführung von Fasching, 19.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479077/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f125b4801253dbd1457ff</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191119&amp;seite=1#burgtheater-fasching</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -16563,6 +16811,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Sterne, 20.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479080/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b5ed3ced60fbe1fb796</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191120&amp;seite=1#burgtheater-die-sterne</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -16614,6 +16863,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Sterne, 21.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479083/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f12554801253dbd145739</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191121&amp;seite=1#burgtheater-die-sterne</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -16665,6 +16915,7 @@
           <eventName n="Theateraufführung">Aufführung von Nathan der Weise, 22.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479086/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f12c14801253dbd1460f6</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191122&amp;seite=1#burgtheater-nathan-der-weise</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -16716,6 +16967,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Sterne, 23.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479089/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f132d4801253dbd146949</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191123&amp;seite=1#burgtheater-die-sterne</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -16796,6 +17048,7 @@
           <eventName n="Theateraufführung">Aufführung von Jaákobs Traum, 24.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479092/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f13a44801253dbd1472fb</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191124&amp;seite=1#burgtheater-jaakobs-traum</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -16847,6 +17100,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Konzert, 25.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479095/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ee47d4801253dbd10b66a</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191125&amp;seite=1#burgtheater-das-konzert</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -16929,6 +17183,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Sterne, 26.11.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f13a04801253dbd14729a</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479098/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191126&amp;seite=1#burgtheater-die-sterne</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -17066,12 +17321,13 @@
           <eventName n="Theateraufführung">Aufführung von Was ihr wollt, 27.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479101/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f142f4801253dbd147e73</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191127&amp;seite=1#burgtheater-was-ihr-wollt</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb201719">As you like it</title>
+              <title key="pmb201719">Twelfth Night, or What You Will</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17175,6 +17431,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Verschwender, 28.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479104/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f14564801253dbd1481b4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191128&amp;seite=1#burgtheater-der-verschwender</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -17263,6 +17520,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Sterne, 29.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479107/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f14e94801253dbd148df1</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191129&amp;seite=1#burgtheater-die-sterne</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -17314,6 +17572,7 @@
           <eventName n="Theateraufführung">Aufführung von Der Meineidbauer, 30.11.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479110/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f151a4801253dbd1491d3</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191130&amp;seite=1#burgtheater-der-meineidbauer</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -17365,6 +17624,7 @@
           <eventName n="Theateraufführung">Aufführung von Candida, 1.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479113/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ee4c34801253dbd10bc6d</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191201&amp;seite=1#burgtheater-candida</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -17453,6 +17713,7 @@
           <eventName n="Theateraufführung">Aufführung von Alt-Heidelberg, 2.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479116/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f169b4801253dbd14b041</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191202&amp;seite=1#burgtheater-alt-heidelberg</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -17504,6 +17765,7 @@
           <eventName n="Theateraufführung">Aufführung von Vater und Sohn (Esmann), 3.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479119/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ee4f04801253dbd10c07c</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191203&amp;seite=1#burgtheater-vater-und-sohn-esmann</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -17614,6 +17876,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Sterne, 4.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479122/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668000f44801253dbd26b20a</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191204&amp;seite=1#burgtheater-die-sterne</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -17665,6 +17928,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Journalisten, 5.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479125/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f17cf4801253dbd14c8ca</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191205&amp;seite=1#burgtheater-die-journalisten</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -17756,6 +18020,7 @@
           <eventName n="Theateraufführung">Aufführung von Die verlorene Tochter, 6.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479128/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f1ac14801253dbd15037a</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191206&amp;seite=1#burgtheater-die-verlorene-tochter</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -17807,6 +18072,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Sterne, 7.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479131/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f1bb84801253dbd151671</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191207&amp;seite=1#burgtheater-die-sterne</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -17896,6 +18162,7 @@
           <eventName n="Theateraufführung">Aufführung von Egmont, 8.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479134/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f1c084801253dbd151d38</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191208&amp;seite=1#burgtheater-egmont</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -17947,6 +18214,7 @@
           <eventName n="Theateraufführung">Aufführung von Egmont, 9.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479137/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f1cf94801253dbd1530e3</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191209&amp;seite=1#burgtheater-egmont</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -17998,6 +18266,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Sterne, 10.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479140/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f1eed4801253dbd155afc</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191210&amp;seite=1#burgtheater-die-sterne</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18049,6 +18318,7 @@
           <eventName n="Theateraufführung">Aufführung von Renaissance, 11.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479143/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ee6ce4801253dbd10e5d4</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191211&amp;seite=1#burgtheater-renaissance</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18134,6 +18404,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Journalisten, 12.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479146/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f1f764801253dbd15660c</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191212&amp;seite=1#burgtheater-die-journalisten</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18242,6 +18513,7 @@
           <eventName n="Theateraufführung">Aufführung von Kinder der Freude, 13.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479149/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b60d3ced60fbe1fbe66</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191213&amp;seite=1#burgtheater-kinder-der-freude-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18293,6 +18565,7 @@
           <eventName n="Theateraufführung">Aufführung von Kinder der Freude, 14.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479152/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f20a94801253dbd157e07</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191214&amp;seite=1#burgtheater-kinder-der-freude</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18373,6 +18646,7 @@
           <eventName n="Theateraufführung">Aufführung von Garten der Jugend, 15.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479155/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f21c74801253dbd159527</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191215&amp;seite=1#burgtheater-garten-der-jugend</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18424,6 +18698,7 @@
           <eventName n="Theateraufführung">Aufführung von Kinder der Freude, 16.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479158/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f232f4801253dbd15b1f3</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191216&amp;seite=1#burgtheater-kinder-der-freude</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18512,6 +18787,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Märchen vom Wolf, 17.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479161/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ee79a4801253dbd10f675</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191217&amp;seite=1#burgtheater-das-maerchen-vom-wolf</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18624,6 +18900,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Sterne, 18.12.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f238d4801253dbd15ba6e</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479164/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191218&amp;seite=1#burgtheater-die-sterne</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18675,6 +18952,7 @@
           <eventName n="Theateraufführung">Aufführung von Kinder der Freude, 19.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479167/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f24334801253dbd15cdf6</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191219&amp;seite=1#burgtheater-kinder-der-freude</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18726,6 +19004,7 @@
           <eventName n="Theateraufführung">Aufführung von Judith, 20.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479170/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f257f4801253dbd15e80f</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191220&amp;seite=1#burgtheater-judith</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18777,6 +19056,7 @@
           <eventName n="Theateraufführung">Aufführung von Mirandolina La Locandiera, 21.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479173/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f26ca4801253dbd16037a</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191221&amp;seite=1#burgtheater-mirandolina-la-locandiera</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18799,6 +19079,7 @@
           <eventName n="Theateraufführung">Aufführung von Die Heirat wider Willen, 21.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479176/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f271d4801253dbd1609ee</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191221&amp;seite=1#burgtheater-die-heirat-wider-willen</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18879,6 +19160,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Märchen vom Wolf, 22.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479179/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ee9774801253dbd111b5b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191222&amp;seite=1#burgtheater-das-maerchen-vom-wolf</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18930,6 +19212,7 @@
           <eventName n="Theateraufführung">Aufführung von Anna Karenina, 23.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479182/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f27964801253dbd1613eb</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191223&amp;seite=1#burgtheater-anna-karenina</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -19010,6 +19293,7 @@
           <eventName n="Theateraufführung">Aufführung von Julius Cäsar, 25.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479185/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f29fe4801253dbd1645f5</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191225&amp;seite=1#burgtheater-julius-caesar</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -19061,6 +19345,7 @@
           <eventName n="Theateraufführung">Aufführung von Medea, 26.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479188/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6680018f4801253dbd26be71</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191226&amp;seite=1#burgtheater-medea</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -19200,6 +19485,7 @@
           <eventName n="Theateraufführung">Aufführung von Candida, 27.12.1919</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ee9c24801253dbd1121e0</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479191/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191227&amp;seite=1#burgtheater-candida</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -19251,12 +19537,13 @@
           <eventName n="Theateraufführung">Aufführung von Was ihr wollt, 28.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479194/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f2bb14801253dbd16692c</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191228&amp;seite=1#burgtheater-was-ihr-wollt</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb201719">As you like it</title>
+              <title key="pmb201719">Twelfth Night, or What You Will</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19331,6 +19618,7 @@
           <eventName n="Theateraufführung">Aufführung von Pygmalion, 29.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479197/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f2c6e4801253dbd16782a</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191229&amp;seite=1#burgtheater-pygmalion</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -19382,6 +19670,7 @@
           <eventName n="Theateraufführung">Aufführung von Rosmersholm, 30.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479200/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667ee9fd4801253dbd1126e8</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191230&amp;seite=1#burgtheater-rosmersholm</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -19433,6 +19722,7 @@
           <eventName n="Theateraufführung">Aufführung von Das Märchen vom Wolf, 31.12.1919</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479203/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f2cdb4801253dbd16811d</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19191231&amp;seite=1#burgtheater-das-maerchen-vom-wolf</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>

@@ -1950,15 +1950,30 @@
           <note type="references">Schnitzler, Arthur: „Morgenandacht“, in: Die Gesellschaft. Halbmonatschrift. Litteratur, Kunst und Sozialpolitik 7/2 (1891), S. 189–190.</note>
         </bibl>
         <bibl xml:id="pmb30157">
-          <title type="main">Wie es euch gefällt</title>
+          <title type="main">As You Like It</title>
+          <title type="werk_namensvariante">Wie es euch gefällt</title>
           <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
           <date notBefore-iso="1599-01-01" when-iso="1599-01-01">1599</date>
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30157.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30157/</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30157.html</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q237572</idno>
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_317.html</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30157.html</idno>
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8b3bcc15bf</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30157.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421354/</idno>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Wie_es_euch_gef%C3%A4llt</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164871/</idno>
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164871</idno>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4099346-2</idno>
+          <note type="collections">
+            <bibl type="collections" n="24">manually created entity</bibl>
+          </note>
           <note type="work_kind">Mehraktiges Drama</note>
+          <figure>
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Deverell_Walter_Howard_A_Scene_from_As_You_Like_It.jpg/250px-Deverell_Walter_Howard_A_Scene_from_As_You_Like_It.jpg" />
+          </figure>
         </bibl>
         <bibl xml:id="pmb30159">
           <title type="main">Agonie</title>
@@ -9292,6 +9307,28 @@
             <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Calder%C3%B3n_de_la_Barca_-_Comedias_Sueltas_-_La_dama_duende.jpg/250px-Calder%C3%B3n_de_la_Barca_-_Comedias_Sueltas_-_La_dama_duende.jpg" />
           </figure>
         </bibl>
+        <bibl xml:id="pmb34235">
+          <title type="main">Die Nibelungen</title>
+          <title type="legacy-name-merge">Die Nibelungen</title>
+          <title type="legacy-name-merge">Die Nibelungen (Hebbel)</title>
+          <author key="pmb2404" role="hat-geschaffen">Hebbel, Friedrich</author>
+          <date notBefore-iso="1861-01-01" when-iso="1861-01-01">1861</date>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34235/</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb34235.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/204899/</idno>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4331538-0</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1215157</idno>
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_2442.html</idno>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Die_Nibelungen_(Hebbel)</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420075/</idno>
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_69a2603100</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34235.html</idno>
+          <note type="collections">
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
+          </note>
+          <note type="work_kind">Dramenzyklus</note>
+        </bibl>
         <bibl xml:id="pmb34239">
           <title type="main">A Midsommer nights dreame</title>
           <title type="werk_namensvariante">Ein Sommernachtstraum</title>
@@ -12388,25 +12425,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           </note>
           <note type="work_kind">Mehraktiges Drama</note>
         </bibl>
-        <bibl xml:id="pmb76825">
-          <title type="main">Much Ado About Nothing</title>
-          <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
-          <date notBefore-iso="1599-01-01" when-iso="1599-01-01">1599</date>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76825/</idno>
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb76825.html</idno>
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q130851</idno>
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Viel_L%C3%A4rm_um_nichts</idno>
-          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_83.html</idno>
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76825.html</idno>
-          <note type="collections">
-            <bibl type="collections" n="30">Hanslick Online</bibl>
-            <bibl type="collections" n="24">manually created entity</bibl>
-          </note>
-          <note type="work_kind">Mehraktiges Drama</note>
-          <figure>
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Much_Ado_Quarto.JPG/250px-Much_Ado_Quarto.JPG" />
-          </figure>
-        </bibl>
         <bibl xml:id="pmb76826">
           <title type="main">Aglavaine und Selysette</title>
           <author key="pmb12156" role="hat-geschaffen">Maeterlinck, Maurice</author>
@@ -12670,12 +12688,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Drama</note>
         </bibl>
         <bibl xml:id="pmb76891">
-          <title type="main">Die Feuerglocke</title>
+          <title type="main">Drei Damen im Kongreß oder: Die Feuerglocke</title>
+          <title type="legacy-name-merge">Drei Damen im Kongreß</title>
           <author key="pmb10788" role="hat-geschaffen">Auernheimer, Raoul</author>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76891/</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb76891.html</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76891.html</idno>
-          <note type="work_kind">Drama</note>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420286/</idno>
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c39402c616</idno>
+          <note type="collections">
+            <bibl type="collections" n="24">manually created entity</bibl>
+          </note>
+          <note type="work_kind">Mehraktiges Drama</note>
         </bibl>
         <bibl xml:id="pmb76892">
           <title type="main">Die glücklichste Zeit</title>
@@ -14149,11 +14173,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77329.html</idno>
         </bibl>
         <bibl xml:id="pmb77330">
-          <title type="main">Der Kampf. Vivat academia! (Herr Doktor, haben Sie zu essen?)</title>
+          <title type="main">Herr Doktor, haben Sie zu essen? Komödie in drei Akten</title>
+          <title type="legacy-name-merge">Herr Doktor, haben Sie zu essen?</title>
           <author key="pmb12749" role="hat-geschaffen">Schönherr, Karl</author>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77330/</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77330.html</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77330.html</idno>
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5df79aee59</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420703/</idno>
+          <note type="collections">
+            <bibl type="collections" n="24">manually created entity</bibl>
+          </note>
+          <note type="work_kind">Mehraktiges Drama</note>
         </bibl>
         <bibl xml:id="pmb77331">
           <title type="main">Der Komödiant</title>
@@ -15136,12 +15167,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         </bibl>
         <bibl xml:id="pmb77516">
           <title type="main">Die alten Junggesellen. Pariser Sittengemälde in 5 Aufzügen</title>
+          <title type="legacy-name-merge">Die alten Junggesellen</title>
           <author key="pmb12624" role="hat-geschaffen">Sardou, Victorien</author>
           <date>1877</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77516/</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77516.html</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77516.html</idno>
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_655b52c13d</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77516.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419847/</idno>
           <note type="collections">
             <bibl type="collections" n="24">manually created entity</bibl>
           </note>
@@ -17677,12 +17711,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Drama</note>
         </bibl>
         <bibl xml:id="pmb78247">
-          <title type="main">Das Triptychon</title>
+          <title type="main">Il trittico</title>
+          <title type="werk_namensvariante">Das Triptychon</title>
           <author key="pmb12457" role="hat-geschaffen">Puccini, Giacomo</author>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/78247/</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb78247.html</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78247.html</idno>
-          <note type="work_kind">Oper</note>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Il_trittico</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q899738</idno>
+          <note type="collections">
+            <bibl type="collections" n="24">manually created entity</bibl>
+          </note>
+          <note type="work_kind">Opernzyklus</note>
         </bibl>
         <bibl xml:id="pmb78249">
           <title type="main">Turandot</title>
@@ -18066,6 +18106,24 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <figure>
             <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Maria_Corda_Argentinean_Magazine_AD.jpg/250px-Maria_Corda_Argentinean_Magazine_AD.jpg" />
           </figure>
+        </bibl>
+        <bibl xml:id="pmb78455">
+          <title type="main">Fantasie für Klavier C-Dur, op. 17</title>
+          <title type="legacy-name-merge">Fantasien, Klavier, op. 17 (C-Dur)</title>
+          <author key="pmb12733" role="hat-geschaffen">Schumann, Robert</author>
+          <date notBefore-iso="1839-01-01" when-iso="1839-01-01">1839</date>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/78455/</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb78455.html</idno>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300144709</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1395862</idno>
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_2847.html</idno>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Fantasie_C-Dur_(Schumann)</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/205478/</idno>
+          <note type="collections">
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
+          </note>
+          <note type="work_kind">Klavier solo</note>
         </bibl>
         <bibl xml:id="pmb78456">
           <title type="main">Scenen aus Göthe’s Faust</title>
@@ -26885,11 +26943,23 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           </figure>
         </bibl>
         <bibl xml:id="pmb81037">
-          <title type="main">Boris Godunow</title>
-          <author key="pmb21681" role="hat-geschaffen">Mussorgskij, Modest P.</author>
+          <title type="main">Борис Годунов</title>
+          <title type="legacy-name-merge">Борис Годунов</title>
+          <title type="werk_namensvariante">Boris Godunow</title>
+          <author key="pmb21681" role="hat-geschaffen-textgrundlage-von">Mussorgskij, Modest P.</author>
+          <date notBefore-iso="1874-01-01" when-iso="1874-01-01">1874</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/81037/</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb81037.html</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81037.html</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q386846</idno>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Boris_Godunow_(Oper)</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/511745/</idno>
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/75</idno>
+          <note type="collections">
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+          </note>
+          <note type="work_kind">Oper</note>
+          <note type="references">None</note>
         </bibl>
         <bibl xml:id="pmb81041">
           <title type="main">Volk in Not</title>
@@ -31575,6 +31645,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/132199/</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb123107.html</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb132199.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb123107.html</idno>
           <note type="work_kind">Theaterkritik</note>
         </bibl>
         <bibl xml:id="pmb123157">
@@ -31607,6 +31678,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb123179.html</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb132427.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/132427/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb123179.html</idno>
         </bibl>
         <bibl xml:id="pmb123343">
           <title type="main">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
@@ -31637,6 +31709,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/131767/</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb131767.html</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb134893.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb131767.html</idno>
         </bibl>
         <bibl xml:id="pmb132275">
           <title type="main">Novella d’Andrea. (Schauspiel in vier Aufzügen von Ludwig Fulda. Zum erstenmal aufgeführt im Burgtheater am 21. November 1903)</title>
@@ -31645,6 +31718,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <date when-iso="1903-11-22">22.11.1903</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/132275/</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb132275.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb132275.html</idno>
         </bibl>
         <bibl xml:id="pmb132341">
           <title type="main">Ein Teufelskerl. (The devil’s disciple. Schauspiel in drei Akten von Bernard Shaw, deutsch von Siegfried Trebitsch. Zum ersten Mal aufgeführt im Raimund-Theater am 25. Februar 1903)</title>
@@ -31722,6 +31796,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/133069/</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/133395/</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb133395.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb133395.html</idno>
         </bibl>
         <bibl xml:id="pmb133493">
           <title type="main">Bartel Turaser. (Drama in drei Akten von Philipp Langmann. Zum ersten Male aufgeführt im Deutschen Volkstheater am 11. December 1897)</title>
@@ -31753,6 +31828,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/133639/</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb133639.html</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb133187.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb133639.html</idno>
           <note type="work_kind">Theaterkritik</note>
         </bibl>
         <bibl xml:id="pmb133713">
@@ -31777,6 +31853,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <date when-iso="1895-02-09">9.2.1895</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/133731/</idno>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb133731.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb133731.html</idno>
         </bibl>
         <bibl xml:id="pmb135048">
           <title type="main">Burgtheater. (»Paracelsus«, Schauspiel in einem Act. – »Die Gefährtin«, Schauspiel in einem Act. – »Der grüne Kakadu«, Groteske in einem Act von Arthur Schnitzler. Erste Aufführung am 1. März 1899.)</title>
@@ -31786,6 +31863,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <date>1899-03-06</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/135048/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb135048.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb135048.html</idno>
           <note type="work_kind">Rezension</note>
         </bibl>
         <bibl xml:id="pmb140839">
@@ -31797,6 +31875,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/140839/</idno>
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb140839.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb140839.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb140839.html</idno>
           <note type="work_kind">Rezension</note>
         </bibl>
         <bibl xml:id="pmb140850">
@@ -31843,6 +31922,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <date when-iso="1899-12-21">1899-12-21</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/141413/</idno>
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb141413.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141413.html</idno>
           <note type="work_kind">Rezension</note>
         </bibl>
         <bibl xml:id="pmb142443">
@@ -31905,6 +31985,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <date when-iso="1911-11-17">1911-11-17</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/142702/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142702.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142702.html</idno>
           <note type="work_kind">Rezension</note>
         </bibl>
         <bibl xml:id="pmb142816">
@@ -31964,6 +32045,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <date>1901-11-17</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/144201/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb144201.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb144201.html</idno>
           <note type="work_kind">Theaterkritik</note>
         </bibl>
         <bibl xml:id="pmb144241">
@@ -31974,6 +32056,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <date when-iso="1901-12-01">1901-12-01</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/144241/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb144241.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb144241.html</idno>
           <note type="work_kind">Feuilleton</note>
         </bibl>
         <bibl xml:id="pmb144337">
@@ -32174,6 +32257,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <date>1901-05-01</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/147964/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147964.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb147964.html</idno>
           <note type="work_kind">Notiz</note>
         </bibl>
         <bibl xml:id="pmb148336">
@@ -32206,6 +32290,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb11036" role="hat-geschaffen">Burckhard, Max Eugen</author>
           <date when-iso="1902-05-10">1902-05-10</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/148448/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb148448.html</idno>
           <note type="work_kind">Theaterkritik</note>
         </bibl>
         <bibl xml:id="pmb163105">
@@ -32613,7 +32698,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb3272" role="hat-geschaffen">Molière</author>
           <author key="pmb2344" role="hat-ubersetzt">Grube, Max</author>
           <date notBefore-iso="1912-01-01" when-iso="1912-01-01">1912</date>
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb76776.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164473/</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164464/</idno>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164464</idno>
@@ -32692,8 +32776,8 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164819/</idno>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164820</idno>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164819</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb164820.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/79614/</idno>
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb79614.html</idno>
           <idno type="URL" subtype="tmp-burgtheater">bt_work_ec3e33ca19</idno>
           <note type="collections">
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -33227,7 +33311,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           <date notBefore-iso="2012-01-01" when-iso="2012-01-01">2012</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/190880/</idno>
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb35816.html#2</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb190880.html</idno>
           <note type="collections">
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -33239,7 +33322,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           <date notBefore-iso="2012-01-01" when-iso="2012-01-01">2012</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/190883/</idno>
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb35816.html#3</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb190883.html</idno>
           <note type="collections">
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -35787,6 +35869,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="main">Liebesträume. Comödie in 1 Act</title>
           <author key="pmb11175" role="hat-geschaffen">Dreyer, Max</author>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195827/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195827.html</idno>
         </bibl>
         <bibl xml:id="pmb195828">
           <title type="main">Peter Kron</title>
@@ -35913,27 +35996,37 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195873.html</idno>
         </bibl>
         <bibl xml:id="pmb195874">
-          <title type="main">Der Mantel</title>
+          <title type="main">Il tabarro</title>
+          <title type="werk_namensvariante">Der Mantel</title>
           <author key="pmb12457" role="hat-geschaffen">Puccini, Giacomo</author>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195874/</idno>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Il_tabarro</idno>
           <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/322</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q468235</idno>
           <note type="collections">
             <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
           </note>
+          <note type="work_kind">Oper</note>
         </bibl>
         <bibl xml:id="pmb195875">
-          <title type="main">Schwester Angelica</title>
+          <title type="main">Suor Angelica</title>
+          <title type="werk_namensvariante">Schwester Angelica</title>
           <author key="pmb12457" role="hat-geschaffen">Puccini, Giacomo</author>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195875/</idno>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Suor_Angelica</idno>
           <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/449</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q769394</idno>
           <note type="collections">
             <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
           </note>
+          <note type="work_kind">Oper</note>
         </bibl>
         <bibl xml:id="pmb195876">
           <title type="main">Gianni Schicchi</title>
           <author key="pmb12457" role="hat-geschaffen">Puccini, Giacomo</author>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195876/</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q727868</idno>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Gianni_Schicchi</idno>
           <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/201</idno>
           <note type="collections">
             <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
@@ -36970,6 +37063,23 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
             <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gioachino_Rossini_-_La_Cenerentola_-_titlepage_of_the_libretto_-_Genoa_1817.png/250px-Gioachino_Rossini_-_La_Cenerentola_-_titlepage_of_the_libretto_-_Genoa_1817.png" />
           </figure>
         </bibl>
+        <bibl xml:id="pmb201439">
+          <title type="main">Klaviersonate As-Dur, op. 110</title>
+          <author key="pmb10866" role="hat-geschaffen">Beethoven, Ludwig van</author>
+          <date notBefore-iso="1821-01-01" when-iso="1821-01-01">1821</date>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/201439/</idno>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300016883</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q146767</idno>
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_154.html</idno>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Klaviersonate_Nr._31_(Beethoven)</idno>
+          <note type="collections">
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+          </note>
+          <note type="work_kind">Klavier solo</note>
+          <figure>
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Beethoven_-_Piano_Sonata_No._31_-_Mov_I.svg/250px-Beethoven_-_Piano_Sonata_No._31_-_Mov_I.svg.png" />
+          </figure>
+        </bibl>
         <bibl xml:id="pmb201446">
           <title type="main">Jessonda</title>
           <author key="pmb9968" role="hat-geschaffen">Spohr, Louis</author>
@@ -37198,6 +37308,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_260.html</idno>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Armide_(Gluck)</idno>
           <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/34</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb201611.html</idno>
           <note type="collections">
             <bibl type="collections" n="30">Hanslick Online</bibl>
             <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
@@ -37219,11 +37330,11 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1137065</idno>
           <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_281.html</idno>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Orpheus_in_der_Unterwelt</idno>
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77025.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77025/</idno>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77025.html</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb201672.html</idno>
           <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/372</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb201672.html</idno>
           <note type="collections">
             <bibl type="collections" n="30">Hanslick Online</bibl>
             <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
@@ -37234,21 +37345,20 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           </figure>
         </bibl>
         <bibl xml:id="pmb201719">
-          <title type="main">As you like it</title>
+          <title type="main">Twelfth Night, or What You Will</title>
+          <title type="legacy-name-merge">Twelfth night</title>
           <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
-          <date notBefore-iso="1623-01-01" when-iso="1623-01-01">1623</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/201719/</idno>
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4099346-2</idno>
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q237572</idno>
-          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_317.html</idno>
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Wie_es_euch_gef%C3%A4llt</idno>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4316770-6</idno>
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_395.html</idno>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Was_ihr_wollt</idno>
           <idno type="URL" subtype="tmp-burgtheater">bt_work_2f1eec2401</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/201847/</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q221211</idno>
           <note type="collections">
             <bibl type="collections" n="30">Hanslick Online</bibl>
           </note>
-          <figure>
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Deverell_Walter_Howard_A_Scene_from_As_You_Like_It.jpg/250px-Deverell_Walter_Howard_A_Scene_from_As_You_Like_It.jpg" />
-          </figure>
+          <note type="work_kind">Mehraktiges Drama</note>
         </bibl>
         <bibl xml:id="pmb201765">
           <title type="main">La sonnambula</title>
@@ -37504,12 +37614,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_649.html</idno>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb165087</idno>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Die_Walk%C3%BCre</idno>
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30063.html</idno>
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30063.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306431/</idno>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10871102</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb202199.html</idno>
           <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/143</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb202199.html</idno>
           <note type="collections">
             <bibl type="collections" n="82">Frank Wedekinds Korrespondenz</bibl>
             <bibl type="collections" n="30">Hanslick Online</bibl>
@@ -37724,6 +37834,19 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
             <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wolfgang_Amadeus_Mozart_-_La_clemenza_di_Tito_-_title_page_of_the_libretto_-_Prague_1791.png/250px-Wolfgang_Amadeus_Mozart_-_La_clemenza_di_Tito_-_title_page_of_the_libretto_-_Prague_1791.png" />
           </figure>
         </bibl>
+        <bibl xml:id="pmb202704">
+          <title type="main">Ballade Nr. 3 As-Dur, op. 47</title>
+          <author key="pmb14959" role="hat-geschaffen">Chopin, Frédéric</author>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/202704/</idno>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300036787</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2424993</idno>
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_937.html</idno>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Ballade_Nr._3</idno>
+          <note type="collections">
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+          </note>
+          <note type="work_kind">Klavier solo</note>
+        </bibl>
         <bibl xml:id="pmb202737">
           <title type="main">Lobetanz</title>
           <author key="pmb106466" role="hat-geschaffen">Thuille, Ludwig</author>
@@ -37747,6 +37870,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/30054085X</idno>
           <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_953.html</idno>
           <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/496</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb202739.html</idno>
           <note type="collections">
             <bibl type="collections" n="30">Hanslick Online</bibl>
             <bibl type="collections" n="13">No WikiData-ID found</bibl>
@@ -38000,7 +38124,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb203322.html</idno>
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29987.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29987/</idno>
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29987.html</idno>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb165076</idno>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11186903</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb203322.html</idno>
@@ -39284,6 +39407,19 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
             <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
           </note>
         </bibl>
+        <bibl xml:id="pmb206675">
+          <title type="main">Scherzo Nr. 1 h-Moll, op. 20</title>
+          <author key="pmb14959" role="hat-geschaffen">Chopin, Frédéric</author>
+          <date from-iso="1831-01-01" to-iso="1832-01-01">1831 – 1832</date>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/206675/</idno>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300037805</idno>
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_3773.html</idno>
+          <note type="collections">
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            <bibl type="collections" n="13">No WikiData-ID found</bibl>
+          </note>
+          <note type="work_kind">Klavier solo</note>
+        </bibl>
         <bibl xml:id="pmb206698">
           <title type="main">Der Wirrwarr</title>
           <author key="pmb8316" role="hat-geschaffen">Kotzebue, August von</author>
@@ -39825,7 +39961,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb11798" role="hat-geschaffen">Ibsen, Henrik</author>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164125</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/257475/</idno>
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb31489.html</idno>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164110</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb257475.html</idno>
           <idno type="URL" subtype="tmp-burgtheater">bt_work_f94c471bc9</idno>
@@ -40184,7 +40319,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb14946" role="hat-geschaffen">Chivot, Henri-Charles</author>
           <author key="pmb15552" role="hat-geschaffen">Duru, Alfred</author>
           <author key="pmb55048" role="hat-ubersetzt">Hopp, Julius</author>
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77026.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296020/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb296020.html</idno>
           <note type="collections">
@@ -40236,6 +40370,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb17024" role="hat-geschaffen">Gille, Philippe</author>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298968/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb298968.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298968.html</idno>
           <note type="collections">
             <bibl type="collections" n="24">manually created entity</bibl>
           </note>
@@ -40247,6 +40382,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb21778" role="hat-geschaffen">Najac, Émile de</author>
           <author key="pmb21463" role="hat-geschaffen">Millaud, Albert</author>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298993/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298993.html</idno>
           <note type="collections">
             <bibl type="collections" n="24">manually created entity</bibl>
           </note>
@@ -40260,6 +40396,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <date>1911-10-31</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/300097/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb300097.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb300097.html</idno>
           <note type="collections">
             <bibl type="collections" n="24">manually created entity</bibl>
           </note>
@@ -40272,6 +40409,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <date>1911-10-16</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/300236/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb300236.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb300236.html</idno>
           <note type="collections">
             <bibl type="collections" n="24">manually created entity</bibl>
           </note>
@@ -40368,6 +40506,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <date>1925-05-24</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/307528/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb307528.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb307528.html</idno>
           <note type="collections">
             <bibl type="collections" n="24">manually created entity</bibl>
           </note>
@@ -40424,6 +40563,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb17540" role="hat-geschaffen-vertonung">Gund, Robert</author>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333940/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb333940.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb333940.html</idno>
           <note type="collections">
             <bibl type="collections" n="24">manually created entity</bibl>
           </note>
@@ -40449,6 +40589,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb2425" role="hat-geschaffen">Dörmann, Felix</author>
           <date notBefore-iso="1891-01-01" when-iso="1891-01-01">1891</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/334578/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb334578.html</idno>
           <note type="collections">
             <bibl type="collections" n="24">manually created entity</bibl>
           </note>
@@ -40561,6 +40702,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <date when-iso="1897-03-29">1897-03-29</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/335223/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335223.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb335223.html</idno>
           <note type="collections">
             <bibl type="collections" n="24">manually created entity</bibl>
           </note>
@@ -40684,6 +40826,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb121024" role="hat-ubersetzt">Bolten-Baeckers, Heinrich</author>
           <date notBefore-iso="1893-01-01" when-iso="1893-01-01">1893</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353201/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353201.html</idno>
           <note type="collections">
             <bibl type="collections" n="24">manually created entity</bibl>
           </note>
@@ -40902,6 +41045,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
             <bibl type="collections" n="30">Hanslick Online</bibl>
             <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
           </note>
+        </bibl>
+        <bibl xml:id="pmb363256">
+          <title type="main">Konzertparaphrase über Mendelssohns Hochzeitsmarsch und Elfenreigen aus der Musik zu Shakespeares Sommernachtstraum</title>
+          <author key="pmb8679" role="hat-geschaffen">Liszt, Franz</author>
+          <date notBefore-iso="1849-01-01" when-iso="1849-01-01">1849</date>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/363256/</idno>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300200307</idno>
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_6457.html</idno>
+          <note type="collections">
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+          </note>
+          <note type="work_kind">Klavier solo</note>
         </bibl>
         <bibl xml:id="pmb363319">
           <title type="main">Le chalet</title>
@@ -43137,12 +43292,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419840/</idno>
           <idno type="URL" subtype="tmp-burgtheater">bt_work_24c9cd1213</idno>
         </bibl>
-        <bibl xml:id="pmb419847">
-          <title type="main">Die alten Junggesellen</title>
-          <author key="pmb12624" role="hat-geschaffen">Sardou, Victorien</author>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419847/</idno>
-          <idno type="URL" subtype="tmp-burgtheater">bt_work_655b52c13d</idno>
-        </bibl>
         <bibl xml:id="pmb419849">
           <title type="main">Die Alten und die Jungen</title>
           <author key="pmb418936" role="hat-geschaffen">Lorm, Hieronymus</author>
@@ -43619,12 +43768,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420073/</idno>
           <idno type="URL" subtype="tmp-burgtheater">bt_work_502873ee04</idno>
         </bibl>
-        <bibl xml:id="pmb420075">
-          <title type="main">Die Nibelungen (Hebbel)</title>
-          <author key="pmb2404" role="hat-geschaffen">Hebbel, Friedrich</author>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420075/</idno>
-          <idno type="URL" subtype="tmp-burgtheater">bt_work_69a2603100</idno>
-        </bibl>
         <bibl xml:id="pmb420077">
           <title type="main">Die Nixe</title>
           <author key="pmb12974" role="hat-geschaffen">Triesch, Friedrich Gustav</author>
@@ -43947,6 +44090,10 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420221/</idno>
           <idno type="URL" subtype="tmp-burgtheater">bt_work_9aa521173c</idno>
+          <note type="collections">
+            <bibl type="collections" n="24">manually created entity</bibl>
+          </note>
+          <note type="work_kind">Mehraktiges Drama</note>
         </bibl>
         <bibl xml:id="pmb420223">
           <title type="main">Die wilde Jagd</title>
@@ -44118,12 +44265,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb26798" role="hat-geschaffen">Weilen, Joseph von</author>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420284/</idno>
           <idno type="URL" subtype="tmp-burgtheater">bt_work_d940903689</idno>
-        </bibl>
-        <bibl xml:id="pmb420286">
-          <title type="main">Drei Damen im Kongreß</title>
-          <author key="pmb10788" role="hat-geschaffen">Auernheimer, Raoul</author>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420286/</idno>
-          <idno type="URL" subtype="tmp-burgtheater">bt_work_c39402c616</idno>
         </bibl>
         <bibl xml:id="pmb420288">
           <title type="main">Drei Kandidaten</title>
@@ -45091,12 +45232,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420701/</idno>
           <idno type="URL" subtype="tmp-burgtheater">bt_work_8fe9cb1e8a</idno>
         </bibl>
-        <bibl xml:id="pmb420703">
-          <title type="main">Herr Doktor, haben Sie zu essen?</title>
-          <author key="pmb12749" role="hat-geschaffen">Schönherr, Karl</author>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420703/</idno>
-          <idno type="URL" subtype="tmp-burgtheater">bt_work_5df79aee59</idno>
-        </bibl>
         <bibl xml:id="pmb420705">
           <title type="main">Herr Etin erlebt Paris</title>
           <author key="pmb16918" role="hat-geschaffen">Garai, Norbert</author>
@@ -45591,6 +45726,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420889/</idno>
           <idno type="URL" subtype="tmp-burgtheater">bt_work_071f0b4a8a</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb420889.html</idno>
         </bibl>
         <bibl xml:id="pmb420891">
           <title type="main">Liebesopfer</title>
@@ -46738,12 +46874,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421352/</idno>
           <idno type="URL" subtype="tmp-burgtheater">bt_work_7a40d683f5</idno>
         </bibl>
-        <bibl xml:id="pmb421354">
-          <title type="main">Wie es euch gefällt</title>
-          <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421354/</idno>
-          <idno type="URL" subtype="tmp-burgtheater">bt_work_8b3bcc15bf</idno>
-        </bibl>
         <bibl xml:id="pmb421356">
           <title type="main">Wie man einen Mann gewinnt (The Lottery Man)</title>
           <author key="pmb419058" role="hat-geschaffen">Young, Rida Johnsonz</author>
@@ -47565,9 +47695,11 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Oper</note>
         </bibl>
         <bibl xml:id="pmb511403">
-          <title type="main">Sorotschinskaja jarmarka/Сорочинская ярмарка</title>
-          <author key="pmb511142" role="hat-geschaffen-vertonung">Mussorgski, Modest</author>
-          <author key="pmb511142" role="hat-geschaffen-textgrundlage-von">Mussorgski, Modest</author>
+          <title type="main">Сорочинская ярмарка</title>
+          <title type="werk_namensvariante">Sorotschinskaja jarmarka</title>
+          <title type="werk_namensvariante">Jahrmarkt von Sorótschintzi</title>
+          <author key="pmb21681" role="hat-geschaffen-vertonung">Mussorgskij, Modest P.</author>
+          <author key="pmb21681" role="hat-geschaffen-textgrundlage-von">Mussorgskij, Modest P.</author>
           <date notBefore-iso="1913-01-01" when-iso="1913-01-01">1913</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/511403/</idno>
           <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/251</idno>
@@ -48930,18 +49062,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <date notBefore-iso="1835-01-01" when-iso="1835-01-01">1835</date>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/511741/</idno>
           <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/70</idno>
-          <note type="collections">
-            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
-          </note>
-          <note type="work_kind">Oper</note>
-        </bibl>
-        <bibl xml:id="pmb511745">
-          <title type="main">Boris Godunow/Борис Годунов</title>
-          <author key="pmb511142" role="hat-geschaffen-vertonung">Mussorgski, Modest</author>
-          <author key="pmb511142" role="hat-geschaffen-textgrundlage-von">Mussorgski, Modest</author>
-          <date notBefore-iso="1874-01-01" when-iso="1874-01-01">1874</date>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/511745/</idno>
-          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/75</idno>
           <note type="collections">
             <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
           </note>
