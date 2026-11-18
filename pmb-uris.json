@@ -1,5 +1,5 @@
 {
-  "domain": "wohin-in-wien-damals",
+  "domain": "wien-wo-es-war",
   "uri_template": "https://wohin-in-wien-damals.acdh.oeaw.ac.at/{xml_id}.html",
   "index_glob": "*s/list*.xml",
   "exclude": [],

@@ -28,7 +28,7 @@ def download(url, target):
     tmp = target + ".part"
     for attempt in range(1, RETRIES + 1):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": "wohin-in-wien-damals"})
+            req = urllib.request.Request(url, headers={"User-Agent": "wien-wo-es-war"})
             with urllib.request.urlopen(req, timeout=300) as response, open(tmp, "wb") as f:
                 shutil.copyfileobj(response, f, length=1024 * 1024)
             os.replace(tmp, target)
