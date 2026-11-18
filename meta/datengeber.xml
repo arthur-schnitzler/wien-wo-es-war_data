@@ -18,7 +18,7 @@
             </publicationStmt>
             <sourceDesc>
                 <p>Erstellt auf Grundlage der README.md des Repositoriums <ref
-                        target="https://github.com/arthur-schnitzler/wien-wo-es-war_data"
+                        target="https://github.com/arthur-schnitzler/wien-wo-es-war_data" type="URL"
                         >wien-wo-es-war_data</ref>.</p>
             </sourceDesc>
         </fileDesc>
@@ -38,7 +38,7 @@
                         jene Ereignisse entnommen, die den Zeitraum 1850–1945 erfassen, sowie die
                         gespielten Theaterstücke. Die Beziehungen zwischen Schauspielerinnen und
                         Schauspielern und Ereignissen wurden nicht übernommen.</p>
-                    <p><ref target="https://kulturerbe.burgtheater.at"
+                    <p><ref target="https://kulturerbe.burgtheater.at" type="URL"
                             >https://kulturerbe.burgtheater.at</ref></p>
                 </div>
                 <div type="datengeber" xml:id="spielplan-oper_18691945">
@@ -50,14 +50,14 @@
                     <p>Knapp <num value="35000">35.000</num> Ereignisse, <num value="500">500</num>
                         Werke, <num value="600">600</num> Personen, ergänzt <date when="2026-11"
                             >November 2026</date>.</p>
-                    <p><ref target="https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/"
+                    <p><ref target="https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/" type="URL"
                             >https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/</ref></p>
                 </div>
                 <div type="datengeber" xml:id="anno">
                     <head>Theaterzettel des Burgtheaters und der Oper</head>
                     <p>ANNO – AustriaN Newspapers Online ist ein Projekt der Österreichischen Nationalbibliothek zur Retrodigitalisierung von österreichischen historischen Zeitungen und Zeitschriften. Enthalten
                     sind auch die Theaterzettel des Burgtheaters und der Oper, diese wurden verlinkt.</p>
-                    <p><ref target="https://anno.onb.ac.at/">https://anno.onb.ac.at/</ref></p>
+                    <p><ref target="https://anno.onb.ac.at/" type="URL">https://anno.onb.ac.at/</ref></p>
                 </div>
                 <div type="datengeber" xml:id="schnitzler-kultur">
                     <head>Arthur Schnitzler – Kulturveranstaltungen</head>
@@ -70,7 +70,7 @@
                         umfasst auch die Lesungen aus seinen (zumeist noch unveröffentlichten)
                         Werken im privaten Kreis. Somit sind erstmals auch alle Theaterproben,
                         Besuche im Kaiserpanorama, Bälle und Soiréen schnell auffindbar.</p>
-                    <p><ref target="https://schnitzler-kultur.acdh.oeaw.ac.at"
+                    <p><ref target="https://schnitzler-kultur.acdh.oeaw.ac.at" type="URL"
                             >https://schnitzler-kultur.acdh.oeaw.ac.at</ref></p>
                 </div>
                 <div type="datengeber" xml:id="schnitzler-briefe">
@@ -80,19 +80,19 @@
                         vorkommen (weil Schnitzler teilnahm), legt das Projekt auch Ereignisse an,
                         an denen Schnitzler nicht teilgenommen hat, die aber in seiner Korrespondenz
                         Erwähnung finden.</p>
-                    <p><ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/"
+                    <p><ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/" type="URL"
                             >https://schnitzler-briefe.acdh.oeaw.ac.at/</ref></p>
                 </div>
                 <div type="datengeber" xml:id="kalbeck">
                     <head>Max Kalbeck</head>
                     <p><title>Max Kalbeck: Praktiken des Netzwerkens in Wien um 1900</title></p>
-                    <p><ref target="https://www.mdw.ac.at/imi/max-kalbeck/"
+                    <p><ref target="https://www.mdw.ac.at/imi/max-kalbeck/" type="URL"
                             >https://www.mdw.ac.at/imi/max-kalbeck/</ref></p>
                 </div>
                 <div type="datengeber" xml:id="brahms-online">
                     <head>Johannes Brahms online</head>
                     <p>Ereignisse von Johannes Brahms online.</p>
-                    <p><ref target="https://brahms-online.oeaw.ac.at"
+                    <p><ref target="https://brahms-online.oeaw.ac.at" type="URL"
                             >https://brahms-online.oeaw.ac.at</ref></p>
                 </div>
             </div>
@@ -102,7 +102,7 @@
                     <item xml:id="ansorge">Conrad Ansorge: Ein Pianist des Fin de siècle</item>
                     <item>Karl Kraus als Vorleser</item>
                     <item xml:id="schoenberg-ue">Schönberg-Events, <ref
-                            target="https://www.schoenberg-ue.at/ue/events/index.html"
+                            target="https://www.schoenberg-ue.at/ue/events/index.html" type="URL"
                             >https://www.schoenberg-ue.at/ue/events/index.html</ref></item>
                     
                 </list>
@@ -110,16 +110,16 @@
             <div type="moegliche-datengeber">
                 <head>Mögliche weitere Datengeber</head>
                 <list>
-                    <item>Konzerthaus, <ref target="https://konzerthaus.at/de/archiv-suche"
+                    <item>Konzerthaus, <ref target="https://konzerthaus.at/de/archiv-suche" type="URL"
                             >https://konzerthaus.at/de/archiv-suche</ref></item>
-                    <item>Musikverein, <ref target="https://musikverein.at/archiv/konzertarchiv/"
+                    <item>Musikverein, <ref target="https://musikverein.at/archiv/konzertarchiv/" type="URL"
                             >https://musikverein.at/archiv/konzertarchiv/</ref></item>
                     <item>Singverein der Gesellschaft der Musikfreunde, <ref
-                            target="https://www.singverein.at/archiv"
+                            target="https://www.singverein.at/archiv" type="URL"
                             >https://www.singverein.at/archiv</ref></item>
                     <item>Volksoper?</item>
                     <item>Wiener Philharmoniker, Konzertarchiv, <ref
-                            target="https://www.wienerphilharmoniker.at/de/konzert-archiv"
+                            target="https://www.wienerphilharmoniker.at/de/konzert-archiv" type="URL"
                             >https://www.wienerphilharmoniker.at/de/konzert-archiv</ref></item>
                 </list>
                 <p>Wir freuen uns über weitere Datenbestände und bitten um Kontaktaufnahme!</p>
