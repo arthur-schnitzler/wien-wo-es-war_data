@@ -27,11 +27,14 @@ jobs:
       - name: Ereignisse und Register erzeugen
         run: python3 ./python-scripts/build-data.py
 
+      - name: In der Website verwendete PMB-URIs auflisten (csv/pmb_uris-in-use.csv)
+        run: python3 ./python-scripts/process_list_xml.py pmb-uris.json
+
       - name: Änderungen committen
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add -A editions indices
+          git add -A editions indices csv
           if ! git diff --cached --quiet; then
             git commit -m "Update durch Workflow"
             # Falls main sich während des Laufs bewegt hat: rebasen und erneut versuchen

@@ -1,0 +1,8 @@
+{
+  "domain": "wohin-in-wien-damals",
+  "uri_template": "https://wohin-in-wien-damals.acdh.oeaw.ac.at/{xml_id}.html",
+  "index_glob": "*s/list*.xml",
+  "exclude": [],
+  "id_pattern": "^pmb(\\d+)$",
+  "output": "csv/pmb_uris-in-use.csv"
+}

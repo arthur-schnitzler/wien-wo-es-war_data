@@ -48,6 +48,7 @@ Wir freuen uns über weitere Datenbestände und bitten um Kontaktaufnahme!
 * `indices/listplace.xml` – Orte der Ereignisse
 * `indices/listbibl.xml` – Werke, auf die die Ereignisse verweisen (aufgeführt, gelesen, rezensiert …)
 * `indices/listorg.xml` – Institutionen, die die Ereignisse veranstaltet haben
+* `csv/pmb_uris-in-use.csv` – alle Entitäten aus `editions/` und `indices/` mit ihrer URI auf https://wohin-in-wien-damals.acdh.oeaw.ac.at; die PMB gleicht damit ihre Verweise auf dieses Projekt ab (Konfiguration: `pmb-uris.json`)
 
 Alle Kennungen sind wie in den anderen Projekten zu `pmbXXXX` vereinheitlicht (PMB: `event__XXXX`, `person__XXXX`, `place__XXXX`, `work__XXXX`, `org__XXXX`). Die Verweise in den Ereignissen (`@key`) zeigen auf die `@xml:id` der Register.
 
@@ -69,6 +70,7 @@ Lokal (nur Python 3.9+, keine weiteren Abhängigkeiten):
 ```bash
 python3 python-scripts/fetch-data-from-pmb.py   # lädt die PMB-Exporte nach input-data/ (~200 MB, nicht versioniert)
 python3 python-scripts/build-data.py            # erzeugt editions/ und indices/
+python3 python-scripts/process_list_xml.py      # erzeugt csv/pmb_uris-in-use.csv
 ```
 
-Auf GitHub erledigt das der Workflow `Update Data from PMB` (`.github/workflows/update-data.yml`, manuell über *Actions → Run workflow*). Er committet `editions/` und `indices/`, sofern sich etwas geändert hat.
+Auf GitHub erledigt das der Workflow `Update Data from PMB` (`.github/workflows/update-data.yml`, manuell über *Actions → Run workflow*). Er committet `editions/`, `indices/` und `csv/`, sofern sich etwas geändert hat.
