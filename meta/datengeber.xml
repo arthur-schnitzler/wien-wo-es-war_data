@@ -31,8 +31,14 @@
             </div>
             <div type="datengeber">
                 <head>Aufgenommen sind Einträge aus:</head>
+                <div type="datengeber" xml:id="anno">
+                    <head>Theaterzettel des Burgtheaters und der Oper</head>
+                    <p>ANNO – AustriaN Newspapers Online ist ein Projekt der Österreichischen Nationalbibliothek zur Retrodigitalisierung von österreichischen historischen Zeitungen und Zeitschriften. Enthalten
+                        sind auch die Theaterzettel des Burgtheaters und der Oper, diese wurden verlinkt.</p>
+                    <p><ref target="https://anno.onb.ac.at/" type="URL">https://anno.onb.ac.at/</ref></p>
+                </div>
                 <div type="datengeber" xml:id="burgtheater">
-                    <head>Burgtheater, Kulturerbe digital</head>
+                    <head>Burgtheater: Kulturerbe digital</head>
                     <p>Das Burgtheater hat 2026 ein historisches Verzeichnis aller Veranstaltungen in
                         ihrem Haus und den dazugehörigen Spielstätten veröffentlicht. Daraus wurden
                         jene Ereignisse entnommen, die den Zeitraum 1850–1945 erfassen, sowie die
@@ -41,24 +47,16 @@
                     <p><ref target="https://kulturerbe.burgtheater.at" type="URL"
                             >https://kulturerbe.burgtheater.at</ref></p>
                 </div>
-                <div type="datengeber" xml:id="spielplan-oper_18691945">
+                <div type="datengeber" xml:id="spielplan-oper">
                     <head>Spielplan Oper 1850–1945</head>
                     <p>Die Sammlung umfasst alle Aufführungen bis 1945, die im <title>Spielplan der
                             Wiener Oper 1869 bis 1955</title> aufgenommen sind. Erstellt wurde sie
                         von <persName>Christian Glanz</persName>, <persName>Thomas
                             Hübl</persName>, <persName>Carolin Bahr</persName> u.a.</p>
-                    <p>Knapp <num value="35000">35.000</num> Ereignisse, <num value="500">500</num>
-                        Werke, <num value="600">600</num> Personen, ergänzt <date when="2026-11"
-                            >November 2026</date>.</p>
                     <p><ref target="https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/" type="URL"
                             >https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/</ref></p>
                 </div>
-                <div type="datengeber" xml:id="anno">
-                    <head>Theaterzettel des Burgtheaters und der Oper</head>
-                    <p>ANNO – AustriaN Newspapers Online ist ein Projekt der Österreichischen Nationalbibliothek zur Retrodigitalisierung von österreichischen historischen Zeitungen und Zeitschriften. Enthalten
-                    sind auch die Theaterzettel des Burgtheaters und der Oper, diese wurden verlinkt.</p>
-                    <p><ref target="https://anno.onb.ac.at/" type="URL">https://anno.onb.ac.at/</ref></p>
-                </div>
+                
                 <div type="datengeber" xml:id="schnitzler-kultur">
                     <head>Arthur Schnitzler – Kulturveranstaltungen</head>
                     <p>Theateraufführungen, Konzerte, Premieren, Kinoabende und andere
@@ -72,6 +70,12 @@
                         Besuche im Kaiserpanorama, Bälle und Soiréen schnell auffindbar.</p>
                     <p><ref target="https://schnitzler-kultur.acdh.oeaw.ac.at" type="URL"
                             >https://schnitzler-kultur.acdh.oeaw.ac.at</ref></p>
+                </div>
+                <div type="datengeber" xml:id="brahms-online">
+                    <head>Johannes Brahms online</head>
+                    <p>Ereignisse von Johannes Brahms online.</p>
+                    <p><ref target="https://brahms-online.oeaw.ac.at" type="URL"
+                            >https://brahms-online.oeaw.ac.at</ref></p>
                 </div>
                 <div type="datengeber" xml:id="schnitzler-briefe">
                     <head>Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</head>
@@ -89,12 +93,7 @@
                     <p><ref target="https://www.mdw.ac.at/imi/max-kalbeck/" type="URL"
                             >https://www.mdw.ac.at/imi/max-kalbeck/</ref></p>
                 </div>
-                <div type="datengeber" xml:id="brahms-online">
-                    <head>Johannes Brahms online</head>
-                    <p>Ereignisse von Johannes Brahms online.</p>
-                    <p><ref target="https://brahms-online.oeaw.ac.at" type="URL"
-                            >https://brahms-online.oeaw.ac.at</ref></p>
-                </div>
+                
             </div>
             <div type="in-vorbereitung">
                 <head>In Vorbereitung</head>
