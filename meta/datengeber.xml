@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Wien, wo es war</title>
+                <title level="a">Datengeber</title>
+                <author>Müller, Martin Anton</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities (ACDH),
+                    Österreichische Akademie der Wissenschaften</publisher>
+                <pubPlace>Wien</pubPlace>
+                <availability>
+                    <licence target="https://opensource.org/licenses/MIT">MIT License</licence>
+                </availability>
+                <ptr target="https://wien-wo-es-war.acdh.oeaw.ac.at"/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Erstellt auf Grundlage der README.md des Repositoriums <ref
+                        target="https://github.com/arthur-schnitzler/wien-wo-es-war_data"
+                        >wien-wo-es-war_data</ref>.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="einleitung">
+                <p>Verschiedene Institutionen und Projekte erstellen historische Veranstaltungsdaten, die wir
+                aufnehmen und auf die wir verlinken dürfen.</p>
+            </div>
+            <div type="datengeber">
+                <head>Aufgenommen sind Einträge aus:</head>
+                <div type="datengeber" xml:id="burgtheater">
+                    <head>Burgtheater, Kulturerbe digital</head>
+                    <p>Das Burgtheater hat 2026 ein historisches Verzeichnis aller Veranstaltungen in
+                        ihrem Haus und den dazugehörigen Spielstätten veröffentlicht. Daraus wurden
+                        jene Ereignisse entnommen, die den Zeitraum 1850–1945 erfassen, sowie die
+                        gespielten Theaterstücke. Die Beziehungen zwischen Schauspielerinnen und
+                        Schauspielern und Ereignissen wurden nicht übernommen.</p>
+                    <p><ref target="https://kulturerbe.burgtheater.at"
+                            >https://kulturerbe.burgtheater.at</ref></p>
+                </div>
+                <div type="datengeber" xml:id="spielplan-oper_18691945">
+                    <head>Spielplan Oper 1850–1945</head>
+                    <p>Die Sammlung umfasst alle Aufführungen bis 1945, die im <title>Spielplan der
+                            Wiener Oper 1869 bis 1955</title> aufgenommen sind. Erstellt wurde sie
+                        von <persName>Christian Glanz</persName>, <persName>Thomas
+                            Hübl</persName>, <persName>Carolin Bahr</persName> u.a.</p>
+                    <p>Knapp <num value="35000">35.000</num> Ereignisse, <num value="500">500</num>
+                        Werke, <num value="600">600</num> Personen, ergänzt <date when="2026-11"
+                            >November 2026</date>.</p>
+                    <p><ref target="https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/"
+                            >https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/</ref></p>
+                </div>
+                <div type="datengeber" xml:id="anno">
+                    <head>Theaterzettel des Burgtheaters und der Oper</head>
+                    <p>ANNO – AustriaN Newspapers Online ist ein Projekt der Österreichischen Nationalbibliothek zur Retrodigitalisierung von österreichischen historischen Zeitungen und Zeitschriften. Enthalten
+                    sind auch die Theaterzettel des Burgtheaters und der Oper, diese wurden verlinkt.</p>
+                    <p><ref target="https://anno.onb.ac.at/">https://anno.onb.ac.at/</ref></p>
+                </div>
+                <div type="datengeber" xml:id="schnitzler-kultur">
+                    <head>Arthur Schnitzler – Kulturveranstaltungen</head>
+                    <p>Theateraufführungen, Konzerte, Premieren, Kinoabende und andere
+                        Veranstaltungen – mehr als zweimal jede Woche war <persName>Arthur
+                            Schnitzler</persName> unterwegs und nahm am kulturellen Leben teil. Die
+                        Website versammelt erstmals über 6.200 Ereignisse, die er zwischen 1876 und
+                        1931 besuchte, und macht sie zugänglich. Das umfasst alle Veranstaltungen,
+                        bei denen er selbst tätig wurde, wie seine seltenen öffentlichen Lesungen. Es
+                        umfasst auch die Lesungen aus seinen (zumeist noch unveröffentlichten)
+                        Werken im privaten Kreis. Somit sind erstmals auch alle Theaterproben,
+                        Besuche im Kaiserpanorama, Bälle und Soiréen schnell auffindbar.</p>
+                    <p><ref target="https://schnitzler-kultur.acdh.oeaw.ac.at"
+                            >https://schnitzler-kultur.acdh.oeaw.ac.at</ref></p>
+                </div>
+                <div type="datengeber" xml:id="schnitzler-briefe">
+                    <head>Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</head>
+                    <p>Das aktivste Projekt der PMB, das die Kuratierung der meisten Datensätze
+                        übernommen hat. Während viele der Ereignisse auch in Schnitzler-Kultur
+                        vorkommen (weil Schnitzler teilnahm), legt das Projekt auch Ereignisse an,
+                        an denen Schnitzler nicht teilgenommen hat, die aber in seiner Korrespondenz
+                        Erwähnung finden.</p>
+                    <p><ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/"
+                            >https://schnitzler-briefe.acdh.oeaw.ac.at/</ref></p>
+                </div>
+                <div type="datengeber" xml:id="kalbeck">
+                    <head>Max Kalbeck</head>
+                    <p><title>Max Kalbeck: Praktiken des Netzwerkens in Wien um 1900</title></p>
+                    <p><ref target="https://www.mdw.ac.at/imi/max-kalbeck/"
+                            >https://www.mdw.ac.at/imi/max-kalbeck/</ref></p>
+                </div>
+                <div type="datengeber" xml:id="brahms-online">
+                    <head>Johannes Brahms online</head>
+                    <p>Ereignisse von Johannes Brahms online.</p>
+                    <p><ref target="https://brahms-online.oeaw.ac.at"
+                            >https://brahms-online.oeaw.ac.at</ref></p>
+                </div>
+            </div>
+            <div type="in-vorbereitung">
+                <head>In Vorbereitung</head>
+                <list>
+                    <item xml:id="ansorge">Conrad Ansorge: Ein Pianist des Fin de siècle</item>
+                    <item>Karl Kraus als Vorleser</item>
+                    <item xml:id="schoenberg-ue">Schönberg-Events, <ref
+                            target="https://www.schoenberg-ue.at/ue/events/index.html"
+                            >https://www.schoenberg-ue.at/ue/events/index.html</ref></item>
+                    
+                </list>
+            </div>
+            <div type="moegliche-datengeber">
+                <head>Mögliche weitere Datengeber</head>
+                <list>
+                    <item>Konzerthaus, <ref target="https://konzerthaus.at/de/archiv-suche"
+                            >https://konzerthaus.at/de/archiv-suche</ref></item>
+                    <item>Musikverein, <ref target="https://musikverein.at/archiv/konzertarchiv/"
+                            >https://musikverein.at/archiv/konzertarchiv/</ref></item>
+                    <item>Singverein der Gesellschaft der Musikfreunde, <ref
+                            target="https://www.singverein.at/archiv"
+                            >https://www.singverein.at/archiv</ref></item>
+                    <item>Volksoper?</item>
+                    <item>Wiener Philharmoniker, Konzertarchiv, <ref
+                            target="https://www.wienerphilharmoniker.at/de/konzert-archiv"
+                            >https://www.wienerphilharmoniker.at/de/konzert-archiv</ref></item>
+                </list>
+                <p>Wir freuen uns über weitere Datenbestände und bitten um Kontaktaufnahme!</p>
+            </div>
+        </body>
+    </text>
+</TEI>
