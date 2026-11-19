@@ -11252,19 +11252,6 @@
             <bibl type="collections" n="28">Brahms Online</bibl>
           </listBibl>
         </place>
-        <place xml:id="pmb407114">
-          <placeName>Saal der Wiener Ressource</placeName>
-          <desc type="entity_type">Veranstaltungsgebäude (K.VSB)</desc>
-          <desc type="entity_type_id">5</desc>
-          <location type="located_in_place">
-            <placeName key="pmb50">Wien</placeName>
-            <geo>48,208333 16,373056</geo>
-          </location>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407114/</idno>
-          <listBibl>
-            <bibl type="collections" n="28">Brahms Online</bibl>
-          </listBibl>
-        </place>
         <place xml:id="pmb407118">
           <placeName>Prachtsaal des Hotels »zum goldenen Kreuz«</placeName>
           <desc type="entity_type">Hotel (K.HTL)</desc>

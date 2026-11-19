@@ -3059,25 +3059,6 @@
             </place>
           </listPlace>
         </event>
-        <event xml:id="pmb410385" when-iso="1897-01-27">
-          <eventName n="Konzert">Konzertaufführung im Saal der Wiener Ressource, 27.1.1897</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/410385/</idno>
-          <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/EA-001491.html</idno>
-          <listBibl>
-            <bibl type="collections" n="28">Brahms Online</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb206048">Fünf Lieder, op. 49</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb407114">Saal der Wiener Ressource</placeName>
-            </place>
-          </listPlace>
-        </event>
         <event xml:id="pmb458784" when-iso="1897-01-27">
           <eventName n="Theateraufführung">Aufführung von Die Wildente, 27.1.1897</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/458784/</idno>
