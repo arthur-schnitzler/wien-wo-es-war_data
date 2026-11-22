@@ -688,7 +688,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1422,7 +1422,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2633,7 +2633,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3049,7 +3049,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3867,7 +3867,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5001,7 +5001,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6613,7 +6613,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6636,7 +6636,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9162,7 +9162,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9523,7 +9523,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12227,7 +12227,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12553,33 +12553,6 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/584920/</idno>
           <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/90#op_1919-09-21_90</idno>
-          <listBibl>
-            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb30603">Cavalleria rusticana. Oper in einem Aufzuge</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb15">Oper</placeName>
-              <location>
-                <geo>48,203 16,3691</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb584924" when-iso="1919-09-21">
-          <eventName n="Opernaufführung">Aufführung von Cavalleria rusticana (Sizilianische Bauernehre), 21.9.1919</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36687">Staatsoper</orgName>
-              </org>
-            </listOrg>
-          </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/584924/</idno>
           <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/90#op_1919-09-21_90_2</idno>
           <listBibl>
@@ -13917,7 +13890,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15689,7 +15662,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16306,7 +16279,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17719,7 +17692,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

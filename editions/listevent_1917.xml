@@ -624,7 +624,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -934,7 +934,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1273,7 +1273,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1665,7 +1665,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3117,7 +3117,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3221,7 +3221,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3458,7 +3458,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3744,31 +3744,11 @@
         </event>
         <event xml:id="pmb476893" when-iso="1917-02-24">
           <eventName n="Theateraufführung">Aufführung von Könige, 24.2.1917</eventName>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d9a69cd334071f76c398c</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/476893/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d943ecd334071f76bbd3d</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19170224&amp;seite=1#burgtheater-koenige</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420869">Könige</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb476896" when-iso="1917-02-24">
-          <eventName n="Theateraufführung">Aufführung von Könige, 24.2.1917</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/476896/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d9a69cd334071f76c398c</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19170224&amp;seite=1#burgtheater-koenige</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19170224&amp;seite=1#burgtheater-koenige-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -4077,7 +4057,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5591,7 +5571,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6261,7 +6241,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6417,7 +6397,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6986,7 +6966,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7038,7 +7018,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7574,7 +7554,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8855,7 +8835,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8954,29 +8934,9 @@
           <eventName n="Theateraufführung">Aufführung von Fasching, 10.5.1917</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/477115/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667da780cd334071f76d53a1</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19170510&amp;seite=1#burgtheater-fasching</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb31611">Fasching. Ein Spiel in drei Aufzügen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb477118" when-iso="1917-05-10">
-          <eventName n="Theateraufführung">Aufführung von Fasching, 10.5.1917</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/477118/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667da796cd334071f76d55ed</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19170510&amp;seite=1#burgtheater-fasching</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19170510&amp;seite=1#burgtheater-fasching-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -9160,7 +9120,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419531">Der G'wissenswurm</title>
+              <title key="pmb76759">Der G’wissenswurm. Bauernkomödie mit Gesang in drei Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10250,7 +10210,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10492,7 +10452,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11326,29 +11286,9 @@
           <eventName n="Theateraufführung">Aufführung von König Lear, 22.6.1917</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/477250/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667dcacccd334071f77034cd</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19170622&amp;seite=1#burgtheater-koenig-lear</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb31623">König Lear. Trauerspiel in fünf Aufzügen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb477253" when-iso="1917-06-22">
-          <eventName n="Theateraufführung">Aufführung von König Lear, 22.6.1917</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/477253/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667dcd8bcd334071f770701b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19170622&amp;seite=1#burgtheater-koenig-lear</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19170622&amp;seite=1#burgtheater-koenig-lear-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -11424,7 +11364,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14474,7 +14414,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14823,7 +14763,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15254,7 +15194,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

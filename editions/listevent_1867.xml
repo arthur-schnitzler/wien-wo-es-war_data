@@ -1310,7 +1310,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb31723">Die guten Freunde</title>
+              <title key="pmb31723">Die guten Freunde. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1609,7 +1609,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1639,7 +1639,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb31723">Die guten Freunde</title>
+              <title key="pmb31723">Die guten Freunde. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1662,7 +1662,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419977">Die Gönnerschaften</title>
+              <title key="pmb80362">Gönnerschaften. Lustspiel in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1827,7 +1827,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419977">Die Gönnerschaften</title>
+              <title key="pmb80362">Gönnerschaften. Lustspiel in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2452,7 +2452,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420238">Die öffentliche Meinung</title>
+              <title key="pmb420238">Die öffentliche Meinung. Schauspiel in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3320,7 +3320,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3631,7 +3631,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419307">Das Gefängnis</title>
+              <title key="pmb77940">Das Gefängniß. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4078,9 +4078,12 @@
         </event>
         <event xml:id="pmb438297" when-iso="1867-05-25">
           <eventName n="Theateraufführung">Aufführung von Die Fee, 25.5.1867</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438303/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d304de027ead1c1b3b65d</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438297/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d300be027ead1c1b3b12f</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18670525&amp;seite=1#burgtheater-die-fee</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18670525&amp;seite=1#burgtheater-die-fee-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4110,29 +4113,6 @@
           <listBibl>
             <bibl>
               <title key="pmb420131">Die Schicksalsbrüder</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb438303" when-iso="1867-05-25">
-          <eventName n="Theateraufführung">Aufführung von Die Fee, 25.5.1867</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438303/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d304de027ead1c1b3b65d</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18670525&amp;seite=1#burgtheater-die-fee-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419922">Die Fee</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4193,31 +4173,11 @@
         </event>
         <event xml:id="pmb438312" when-iso="1867-05-28">
           <eventName n="Theateraufführung">Aufführung von Die Fee, 28.5.1867</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438315/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d30cee027ead1c1b3c185</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438312/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d30b9e027ead1c1b3bf9c</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18670528&amp;seite=1#burgtheater-die-fee</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419922">Die Fee</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb438315" when-iso="1867-05-28">
-          <eventName n="Theateraufführung">Aufführung von Die Fee, 28.5.1867</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438315/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d30cee027ead1c1b3c185</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18670528&amp;seite=1#burgtheater-die-fee-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -4308,31 +4268,11 @@
         </event>
         <event xml:id="pmb438327" when-iso="1867-05-31">
           <eventName n="Theateraufführung">Aufführung von Die Fee, 31.5.1867</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438330/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d3197e027ead1c1b3d27f</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438327/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d3169e027ead1c1b3cef3</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18670531&amp;seite=2#burgtheater-die-fee</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419922">Die Fee</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb438330" when-iso="1867-05-31">
-          <eventName n="Theateraufführung">Aufführung von Die Fee, 31.5.1867</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438330/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d3197e027ead1c1b3d27f</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18670531&amp;seite=2#burgtheater-die-fee-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -4438,7 +4378,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb31723">Die guten Freunde</title>
+              <title key="pmb31723">Die guten Freunde. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4499,31 +4439,11 @@
         </event>
         <event xml:id="pmb438348" when-iso="1867-06-04">
           <eventName n="Theateraufführung">Aufführung von Ein unbarmherziger Freund, 4.6.1867</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438351/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d34a5e027ead1c1b41587</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438348/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d348ce027ead1c1b41355</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18670604&amp;seite=1#burgtheater-ein-unbarmherziger-freund</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420402">Ein unbarmherziger Freund</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb438351" when-iso="1867-06-04">
-          <eventName n="Theateraufführung">Aufführung von Ein unbarmherziger Freund, 4.6.1867</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438351/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d34a5e027ead1c1b41587</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18670604&amp;seite=1#burgtheater-ein-unbarmherziger-freund-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -4598,31 +4518,11 @@
         </event>
         <event xml:id="pmb438357" when-iso="1867-06-06">
           <eventName n="Theateraufführung">Aufführung von Ein Attaché, 6.6.1867</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438360/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d37f2e027ead1c1b456f9</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438357/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d37e8e027ead1c1b4563e</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18670606&amp;seite=1#burgtheater-ein-attache</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb33925">Ein Attaché. Lustspiel in 4 Acten</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb438360" when-iso="1867-06-06">
-          <eventName n="Theateraufführung">Aufführung von Ein Attaché, 6.6.1867</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438360/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d37f2e027ead1c1b456f9</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18670606&amp;seite=1#burgtheater-ein-attache-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -4675,7 +4575,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421274">Vater und Sohn (Dumas Sohn)</title>
+              <title key="pmb53251">Vater und Sohn</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4692,29 +4592,9 @@
           <eventName n="Theateraufführung">Aufführung von Dorf und Stadt, 10.6.1867</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438369/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d38cee027ead1c1b46a35</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18670610&amp;seite=2#burgtheater-dorf-und-stadt</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb205097">Dorf und Stadt. Schauspiel in zwei Abtheilungen und fünf Acten</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb438372" when-iso="1867-06-10">
-          <eventName n="Theateraufführung">Aufführung von Dorf und Stadt, 10.6.1867</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438372/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664d3976e027ead1c1b477cd</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18670610&amp;seite=2#burgtheater-dorf-und-stadt</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18670610&amp;seite=2#burgtheater-dorf-und-stadt-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -5213,7 +5093,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421274">Vater und Sohn (Dumas Sohn)</title>
+              <title key="pmb53251">Vater und Sohn</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5335,7 +5215,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419307">Das Gefängnis</title>
+              <title key="pmb77940">Das Gefängniß. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5876,7 +5756,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420238">Die öffentliche Meinung</title>
+              <title key="pmb420238">Die öffentliche Meinung. Schauspiel in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7513,7 +7393,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419656">Der Müller und sein Kind</title>
+              <title key="pmb146020">Der Müller und sein Kind. Volksdrama in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7755,7 +7635,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb362470">Die Karlsschüler</title>
+              <title key="pmb77030">Die Karlsschüler. Schauspiel in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8045,7 +7925,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8950,7 +8830,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421274">Vater und Sohn (Dumas Sohn)</title>
+              <title key="pmb53251">Vater und Sohn</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9069,31 +8949,11 @@
         </event>
         <event xml:id="pmb438759" when-iso="1867-12-15">
           <eventName n="Theateraufführung">Aufführung von Begum Somru, 15.12.1867</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438762/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664e1607e027ead1c1c6f851</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438759/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664e15d7e027ead1c1c6f442</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18671215&amp;seite=1#burgtheater-begum-somru</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419194">Begum Somru</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb438762" when-iso="1867-12-15">
-          <eventName n="Theateraufführung">Aufführung von Begum Somru, 15.12.1867</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/438762/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664e1607e027ead1c1c6f851</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18671215&amp;seite=1#burgtheater-begum-somru-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -9153,7 +9013,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419977">Die Gönnerschaften</title>
+              <title key="pmb80362">Gönnerschaften. Lustspiel in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

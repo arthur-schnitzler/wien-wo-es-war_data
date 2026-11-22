@@ -316,7 +316,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb31723">Die guten Freunde</title>
+              <title key="pmb31723">Die guten Freunde. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -404,7 +404,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420404">Ein verarmter Edelmann</title>
+              <title key="pmb195565">Ein verarmter Edelmann. Schauspiel in fünf Akten und einem Vorspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3153,7 +3153,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3564,7 +3564,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb31723">Die guten Freunde</title>
+              <title key="pmb31723">Die guten Freunde. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4749,7 +4749,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420404">Ein verarmter Edelmann</title>
+              <title key="pmb195565">Ein verarmter Edelmann. Schauspiel in fünf Akten und einem Vorspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5367,9 +5367,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207478/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207478.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/320555/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658c9e14e11902147757e71</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790315&amp;seite=1#burgtheater-don-carlos-infant-von-spanien</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790315&amp;seite=1#burgtheater-don-karlos-infant-von-spanien</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -5382,36 +5386,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb320555" when-iso="1879-03-15">
-          <eventName n="Theateraufführung">Aufführung von Don Karlos, Infant von Spanien, 15.3.1879</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/320555/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658c9e14e11902147757e71</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790315&amp;seite=1#burgtheater-don-karlos-infant-von-spanien</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb33023">Dom Karlos, Infant von Spanien</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -5723,7 +5697,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6032,7 +6006,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419379">Das Lied von der Glocke</title>
+              <title key="pmb203347">Das Lied von der Glocke [Schiller]</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9962,7 +9936,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420537">Faust</title>
+              <title key="pmb30247">Faust. Eine Tragödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10396,7 +10370,7 @@
           </listPlace>
         </event>
         <event xml:id="pmb207497" when-iso="1879-05-23">
-          <eventName n="Theateraufführung">Aufführung von Götz von Berlichingen, 23.5.1879</eventName>
+          <eventName n="Theateraufführung">Aufführung von Götz von Berlichingen mit der eisernen Hand, 23.5.1879</eventName>
           <note type="listorg">
             <listOrg>
               <org role="veranstaltet von">
@@ -10406,9 +10380,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207497/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207497.html</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6662c043cd334071f74767ed</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/325645/</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790523&amp;seite=1#burgtheater-goetz-von-berlichingen</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790523&amp;seite=1#burgtheater-goetz-von-berlichingen-mit-der-eisernen-hand</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -10424,36 +10402,6 @@
               <persName key="pmb12695">Schnitzler, Johann</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb325645" when-iso="1879-05-23">
-          <eventName n="Theateraufführung">Aufführung von Götz von Berlichingen mit der eisernen Hand, 23.5.1879</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/325645/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6662c043cd334071f74767ed</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790523&amp;seite=1#burgtheater-goetz-von-berlichingen-mit-der-eisernen-hand</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb31071">Götz von Berlichingen mit der eisernen Hand</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -11772,7 +11720,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420404">Ein verarmter Edelmann</title>
+              <title key="pmb195565">Ein verarmter Edelmann. Schauspiel in fünf Akten und einem Vorspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11816,7 +11764,7 @@
           </listPlace>
         </event>
         <event xml:id="pmb207499" when-iso="1879-06-15">
-          <eventName n="Theateraufführung">Aufführung von Familie nach der Mode, 15.6.1879</eventName>
+          <eventName n="Theateraufführung">Aufführung von Eine Familie nach der Mode, 15.6.1879</eventName>
           <note type="listorg">
             <listOrg>
               <org role="veranstaltet von">
@@ -11826,9 +11774,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207499/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207499.html</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658dc504e11902147770cab</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/322471/</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790615&amp;seite=1#burgtheater-familie-nach-der-mode</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790615&amp;seite=1#burgtheater-eine-familie-nach-der-mode</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -11841,36 +11793,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb322471" when-iso="1879-06-15">
-          <eventName n="Theateraufführung">Aufführung von Eine Familie nach der Mode, 15.6.1879</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/322471/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658dc504e11902147770cab</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790615&amp;seite=1#burgtheater-eine-familie-nach-der-mode</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb195522">Familie nach der Mode</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -12668,7 +12590,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb31723">Die guten Freunde</title>
+              <title key="pmb31723">Die guten Freunde. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12818,7 +12740,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12903,8 +12825,12 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207501/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207501.html</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790630&amp;seite=1#burgtheater-emilia-galotti-ein-trauerspiel-in-fuenf-aufzuegen</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790630&amp;seite=1#burgtheater-emilia-galotti</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/321295/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658e5794e1190214777d1ce</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -12917,36 +12843,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb321295" when-iso="1879-06-30">
-          <eventName n="Theateraufführung">Aufführung von Emilia Galotti, 30.6.1879</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/321295/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658e5794e1190214777d1ce</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790630&amp;seite=1#burgtheater-emilia-galotti</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb61461">Emilia Galotti. Ein Trauerspiel in  fünf Aufzügen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -14581,7 +14477,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb31723">Die guten Freunde</title>
+              <title key="pmb31723">Die guten Freunde. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14641,7 +14537,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14955,7 +14851,7 @@
           </listPlace>
         </event>
         <event xml:id="pmb207508" when-iso="1879-09-23">
-          <eventName n="Theateraufführung">Aufführung von Götz von Berlichingen, 23.9.1879</eventName>
+          <eventName n="Theateraufführung">Aufführung von Götz von Berlichingen mit der eisernen Hand, 23.9.1879</eventName>
           <note type="listorg">
             <listOrg>
               <org role="veranstaltet von">
@@ -14965,9 +14861,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207508/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207508.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/325657/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6662bd3bcd334071f747287d</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790923&amp;seite=1#burgtheater-goetz-von-berlichingen</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790923&amp;seite=1#burgtheater-goetz-von-berlichingen-mit-der-eisernen-hand</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -14980,36 +14880,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb325657" when-iso="1879-09-23">
-          <eventName n="Theateraufführung">Aufführung von Götz von Berlichingen mit der eisernen Hand, 23.9.1879</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/325657/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6662bd3bcd334071f747287d</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18790923&amp;seite=1#burgtheater-goetz-von-berlichingen-mit-der-eisernen-hand</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb31071">Götz von Berlichingen mit der eisernen Hand</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -15881,9 +15751,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207514/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207514.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/324814/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658d9c94e1190214776d432</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18791005&amp;seite=1#burgtheater-ein-wintermaerchen-schauspiel-in-vier-aufzuegen</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18791005&amp;seite=1#burgtheater-ein-wintermaerchen</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -15896,36 +15770,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb324814" when-iso="1879-10-05">
-          <eventName n="Theateraufführung">Aufführung von Ein Wintermärchen, 5.10.1879</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/324814/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658d9c94e1190214776d432</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18791005&amp;seite=1#burgtheater-ein-wintermaerchen</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb169102">Ein Wintermärchen. Schauspiel in vier Aufzügen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -16378,7 +16222,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419977">Die Gönnerschaften</title>
+              <title key="pmb80362">Gönnerschaften. Lustspiel in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17832,12 +17676,6 @@
               <org role="veranstaltet von">
                 <orgName key="pmb36247">Burgtheater</orgName>
               </org>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
             </listOrg>
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207521/</idno>
@@ -17876,24 +17714,6 @@
             </person>
           </listPerson>
           <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
               <location>
@@ -18006,7 +17826,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419656">Der Müller und sein Kind</title>
+              <title key="pmb146020">Der Müller und sein Kind. Volksdrama in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18063,7 +17883,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419656">Der Müller und sein Kind</title>
+              <title key="pmb146020">Der Müller und sein Kind. Volksdrama in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19069,7 +18889,7 @@
           </listPlace>
         </event>
         <event xml:id="pmb207525" when-iso="1879-11-16">
-          <eventName n="Konzert">Aufführung von Tannhäuser und der Sängerkrieg, 16.11.1879</eventName>
+          <eventName n="Konzert">Aufführung von Tannhäuser und der Sängerkrieg auf der Wartburg, 16.11.1879</eventName>
           <note type="listorg">
             <listOrg>
               <org role="veranstaltet von">
@@ -19079,9 +18899,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207525/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207525.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/524758/</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18791116&amp;seite=1#oper-tannhaeuser-und-der-saengerkrieg</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18791116&amp;seite=1#oper-tannhaeuser-und-der-saengerkrieg-auf-wartburg</idno>
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/138#op_1879-11-16_138</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -19159,36 +18983,6 @@
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
               <location>
                 <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb524758" when-iso="1879-11-16">
-          <eventName n="Opernaufführung">Aufführung von Tannhäuser und der Sängerkrieg auf Wartburg, 16.11.1879</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36689">K.K. Hof-Oper</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/524758/</idno>
-          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/138#op_1879-11-16_138</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18791116&amp;seite=1#oper-tannhaeuser-und-der-saengerkrieg-auf-wartburg</idno>
-          <listBibl>
-            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb31425">Tannhäuser und der Sängerkrieg auf Wartburg</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb15">Oper</placeName>
-              <location>
-                <geo>48,203 16,3691</geo>
               </location>
             </place>
           </listPlace>
@@ -19526,7 +19320,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419977">Die Gönnerschaften</title>
+              <title key="pmb80362">Gönnerschaften. Lustspiel in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19915,7 +19709,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb31723">Die guten Freunde</title>
+              <title key="pmb31723">Die guten Freunde. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20263,7 +20057,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420404">Ein verarmter Edelmann</title>
+              <title key="pmb195565">Ein verarmter Edelmann. Schauspiel in fünf Akten und einem Vorspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20413,7 +20207,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21232,7 +21026,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420924">Maria Magdalene</title>
+              <title key="pmb29953">Maria Magdalena. Ein bürgerliches Trauerspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

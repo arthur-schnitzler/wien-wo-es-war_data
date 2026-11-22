@@ -940,7 +940,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1773,7 +1773,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2200,7 +2200,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2483,7 +2483,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2710,7 +2710,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419937">Die Frau vom Meere</title>
+              <title key="pmb40061">Die Frau vom Meer. Schauspiel in fünf Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3033,7 +3033,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4404,7 +4404,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5018,7 +5018,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420149">Die Schwestern</title>
+              <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5105,7 +5105,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419937">Die Frau vom Meere</title>
+              <title key="pmb40061">Die Frau vom Meer. Schauspiel in fünf Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5829,7 +5829,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6007,29 +6007,9 @@
           <eventName n="Theateraufführung">Aufführung von Das Schiff Tenacity, 17.3.1922</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/481324/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d601acd334071f7672b19</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19220317&amp;seite=1#burgtheater-das-schiff-tenacity</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419405">Das Schiff Tenacity</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb481327" when-iso="1922-03-17">
-          <eventName n="Theateraufführung">Aufführung von Das Schiff Tenacity, 17.3.1922</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/481327/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d8634cd334071f76a8f57</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19220317&amp;seite=1#burgtheater-das-schiff-tenacity</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19220317&amp;seite=1#burgtheater-das-schiff-tenacity-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -8912,7 +8892,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8993,7 +8973,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419937">Die Frau vom Meere</title>
+              <title key="pmb40061">Die Frau vom Meer. Schauspiel in fünf Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10597,7 +10577,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10678,7 +10658,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10759,7 +10739,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10892,7 +10872,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11315,9 +11295,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210166/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210166.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/481552/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668457604801253dbd7dcf4f</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19220525&amp;seite=1#burgtheater-der-junge-medardus</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19220525&amp;seite=1#burgtheater-der-junge-medardus-2</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -11330,29 +11314,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb481552" when-iso="1922-05-25">
-          <eventName n="Theateraufführung">Aufführung von Der junge Medardus, 25.5.1922</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/481552/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668457604801253dbd7dcf4f</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19220525&amp;seite=1#burgtheater-der-junge-medardus-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
@@ -11725,7 +11686,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12036,7 +11997,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12576,7 +12537,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12847,7 +12808,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13003,7 +12964,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13338,7 +13299,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13545,7 +13506,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16053,7 +16014,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16104,7 +16065,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16279,7 +16240,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16841,7 +16802,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16968,7 +16929,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17948,7 +17909,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18206,7 +18167,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18282,26 +18243,6 @@
           <eventName n="Theateraufführung">Aufführung von Der Weibsteufel, 18.10.1922</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/481858/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66704cbecd334071f7580df4</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb30887">Der Weibsteufel. Drama in fünf Akten</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb481861" when-iso="1922-10-18">
-          <eventName n="Theateraufführung">Aufführung von Der Weibsteufel, 18.10.1922</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/481861/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66758dd9cd334071f7c48526</idno>
           <listBibl>
@@ -18546,7 +18487,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18734,7 +18675,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18808,7 +18749,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19053,7 +18994,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19127,7 +19068,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19178,7 +19119,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19333,7 +19274,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19407,7 +19348,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19458,7 +19399,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19609,7 +19550,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19660,7 +19601,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19683,7 +19624,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19940,7 +19881,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19963,7 +19904,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20317,7 +20258,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20395,7 +20336,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20519,7 +20460,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20988,7 +20929,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21360,7 +21301,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21383,7 +21324,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21537,7 +21478,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21640,7 +21581,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21752,7 +21693,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21869,7 +21810,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21974,12 +21915,20 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238833/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238833.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/482098/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66867c7a4801253dbda95a5f</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19221124&amp;seite=1#burgtheater-der-graf-von-charolais</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19221124&amp;seite=1#burgtheater-der-graf-von-charolais-2</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
           <listBibl>
+            <bibl>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
             <bibl>
               <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
@@ -21991,6 +21940,12 @@
             </person>
           </listPerson>
           <listPlace>
+            <place>
+              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
+              <location>
+                <geo>48,210333 16,361139</geo>
+              </location>
+            </place>
             <place>
               <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
               <location>
@@ -22024,29 +21979,6 @@
               <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
               <location>
                 <geo>48,208333 16,373056</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb482098" when-iso="1922-11-24">
-          <eventName n="Theateraufführung">Aufführung von Der Graf von Charolais, 24.11.1922</eventName>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66867c7a4801253dbda95a5f</idno>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/482098/</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19221124&amp;seite=1#burgtheater-der-graf-von-charolais-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
               </location>
             </place>
           </listPlace>
@@ -22221,7 +22153,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22778,7 +22710,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22932,7 +22864,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23131,7 +23063,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23634,7 +23566,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23657,7 +23589,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24177,7 +24109,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24989,7 +24921,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25118,7 +25050,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25614,7 +25546,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25694,7 +25626,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25929,7 +25861,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

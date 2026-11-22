@@ -897,30 +897,10 @@
         </event>
         <event xml:id="pmb505064" when-iso="1935-01-08">
           <eventName n="Theateraufführung">Aufführung von Hochzeit, 8.1.1935</eventName>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669fce456af2b0e29f5227cc</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/505067/</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/505064/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669fcd3e6af2b0e29f521252</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420728">Hochzeit</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb505067" when-iso="1935-01-08">
-          <eventName n="Theateraufführung">Aufführung von Hochzeit, 8.1.1935</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/505067/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669fce456af2b0e29f5227cc</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3046,9 +3026,12 @@
         </event>
         <event xml:id="pmb505199" when-iso="1935-01-30">
           <eventName n="Theateraufführung">Aufführung von Abraham Lincoln, 30.1.1935</eventName>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66a0f55d6af2b0e29f69fbaa</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/505205/</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/505199/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66a0f19d6af2b0e29f699b6c</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19350130&amp;seite=1#burgtheater-abraham-lincoln</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19350130&amp;seite=1#burgtheater-abraham-lincoln-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3069,54 +3052,11 @@
         </event>
         <event xml:id="pmb505202" when-iso="1935-01-30">
           <eventName n="Theateraufführung">Aufführung von Familienaffären, 30.1.1935</eventName>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66a0f6936af2b0e29f6a1ab5</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/505208/</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/505202/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66a0f1ea6af2b0e29f69a481</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19350130&amp;seite=1#burgtheater-familienaffaeren</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420531">Familienaffären</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb505205" when-iso="1935-01-30">
-          <eventName n="Theateraufführung">Aufführung von Abraham Lincoln, 30.1.1935</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/505205/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66a0f55d6af2b0e29f69fbaa</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19350130&amp;seite=1#burgtheater-abraham-lincoln-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419118">Abraham Lincoln</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb505208" when-iso="1935-01-30">
-          <eventName n="Theateraufführung">Aufführung von Familienaffären, 30.1.1935</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/505208/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66a0f6936af2b0e29f6a1ab5</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19350130&amp;seite=1#burgtheater-familienaffaeren-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -19679,7 +19619,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19863,7 +19803,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20184,7 +20124,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20346,7 +20286,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20849,7 +20789,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21609,7 +21549,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21926,7 +21866,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24151,7 +24091,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

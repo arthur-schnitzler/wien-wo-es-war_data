@@ -19,6 +19,8 @@
       <listEvent>
         <event xml:id="pmb482350" when-iso="1923-01-01">
           <eventName n="Theateraufführung">Aufführung von Klein Dorrit, 1.1.1923</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/482356/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6731f56c23a753560d2285cf</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/482350/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b77d3ced60fbe201483</idno>
           <listBibl>
@@ -61,28 +63,6 @@
             </place>
           </listPlace>
         </event>
-        <event xml:id="pmb482356" when-iso="1923-01-01">
-          <eventName n="Theateraufführung">Aufführung von Klein Dorrit, 1.1.1923</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/482356/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6731f56c23a753560d2285cf</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb77486">Klein Dorrit</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
         <event xml:id="pmb482359" when-iso="1923-01-01">
           <eventName n="Theateraufführung">Aufführung von Die rote Robe, 1.1.1923</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/482359/</idno>
@@ -93,7 +73,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -591,7 +571,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -614,7 +594,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -795,7 +775,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -968,7 +948,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1884,7 +1864,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2165,7 +2145,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2238,8 +2218,10 @@
         </event>
         <event xml:id="pmb482503" when-iso="1923-01-21">
           <eventName n="Theateraufführung">Aufführung von Der Herr Verteidiger, 21.1.1923</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/482509/</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/482503/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66707694cd334071f75b68c3</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66756e0acd334071f7c1a7de</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -2268,28 +2250,6 @@
           <listBibl>
             <bibl>
               <title key="pmb419939">Die Frau von vierzig Jahren</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb482509" when-iso="1923-01-21">
-          <eventName n="Theateraufführung">Aufführung von Der Herr Verteidiger, 21.1.1923</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/482509/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66756e0acd334071f7c1a7de</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419571">Der Herr Verteidiger</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2482,7 +2442,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2973,7 +2933,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3076,7 +3036,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3887,7 +3847,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4065,7 +4025,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4704,7 +4664,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5020,7 +4980,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5043,7 +5003,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5336,7 +5296,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5396,7 +5356,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6165,7 +6125,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6687,7 +6647,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6887,7 +6847,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8006,7 +7966,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8242,7 +8202,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8917,7 +8877,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9018,7 +8978,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420149">Die Schwestern</title>
+              <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9150,7 +9110,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9195,7 +9155,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9298,7 +9258,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420149">Die Schwestern</title>
+              <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9321,7 +9281,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9438,7 +9398,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9512,7 +9472,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9859,7 +9819,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9881,7 +9841,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420149">Die Schwestern</title>
+              <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10167,7 +10127,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10418,7 +10378,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10669,7 +10629,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10852,7 +10812,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11284,7 +11244,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11467,7 +11427,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11774,7 +11734,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12012,7 +11972,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13131,7 +13091,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13337,7 +13297,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13601,7 +13561,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13669,7 +13629,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14051,7 +14011,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419531">Der G'wissenswurm</title>
+              <title key="pmb76759">Der G’wissenswurm. Bauernkomödie mit Gesang in drei Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14264,7 +14224,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14402,7 +14362,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14646,30 +14606,10 @@
         </event>
         <event xml:id="pmb483196" when-iso="1923-05-15">
           <eventName n="Theateraufführung">Aufführung von Der gute König, 15.5.1923</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/483196/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66795d06cd334071f71160b7</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb76887">Der gute König. Lustspiel</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb483199" when-iso="1923-05-15">
-          <eventName n="Theateraufführung">Aufführung von Der gute König, 15.5.1923</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/483199/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667968dfcd334071f712720f</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/483196/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66795d06cd334071f71160b7</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15347,7 +15287,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15698,7 +15638,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15916,7 +15856,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17958,7 +17898,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18738,7 +18678,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18842,7 +18782,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb623924">Der junge Medardus [Film]</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18891,7 +18831,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb623924">Der junge Medardus [Film]</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19044,7 +18984,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19067,7 +19007,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19444,7 +19384,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19615,7 +19555,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20435,7 +20375,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20966,6 +20906,8 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/169523/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb169523.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210624/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210624.html</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -20973,7 +20915,7 @@
           <listBibl>
             <bibl>
               <title key="pmb169521">Fiat Lux! (…und es ward Licht!)</title>
-              <note type="relation-type">ist Premiere von</note>
+              <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
           <listPerson>
@@ -21030,36 +20972,6 @@
             </place>
           </listPlace>
         </event>
-        <event xml:id="pmb210624" when-iso="1923-09-27">
-          <eventName n="Filmvorführung">Filmvorführung von Fiat Lux! (…und es ward Licht!), 27.9.1923</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210624/</idno>
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210624.html</idno>
-          <listBibl>
-            <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb169521">Fiat Lux! (…und es ward Licht!)</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPerson>
-            <person role="hat teilnehmend">
-              <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-            <person role="hat teilnehmend">
-              <persName key="pmb20400">Lichtenstern, Vilma</persName>
-            </person>
-          </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb169515">Eos-Kino</placeName>
-              <location>
-                <geo>48,196938 16,387056</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
         <event xml:id="pmb483616" when-iso="1923-09-27">
           <eventName n="Theateraufführung">Aufführung von Die Lokalbahn, 27.9.1923</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/483616/</idno>
@@ -21092,7 +21004,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21248,7 +21160,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21426,7 +21338,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21500,7 +21412,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21522,7 +21434,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21545,7 +21457,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21619,7 +21531,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21774,7 +21686,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb623924">Der junge Medardus [Film]</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21948,7 +21860,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22201,7 +22113,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22333,7 +22245,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22840,7 +22752,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23150,7 +23062,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23379,7 +23291,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23453,7 +23365,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23688,7 +23600,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24114,7 +24026,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24180,8 +24092,10 @@
         </event>
         <event xml:id="pmb483814" when-iso="1923-10-27">
           <eventName n="Theateraufführung">Aufführung von Erster Klasse, 27.10.1923</eventName>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/67320ff88d8fc0856bbf8a2e</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/483814/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/67320fbd8d8fc0856bbf8865</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/483820/</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -24210,28 +24124,6 @@
           <listBibl>
             <bibl>
               <title key="pmb77316">Die Medaille. Komödie in einem Akt</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb483820" when-iso="1923-10-27">
-          <eventName n="Theateraufführung">Aufführung von Erster Klasse, 27.10.1923</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/483820/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/67320ff88d8fc0856bbf8a2e</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420514">Erster Klasse</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24642,7 +24534,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25476,7 +25368,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25815,7 +25707,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -26693,7 +26585,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -26774,7 +26666,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -27569,7 +27461,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -27592,7 +27484,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -28527,7 +28419,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -29011,7 +28903,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -29467,7 +29359,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420924">Maria Magdalene</title>
+              <title key="pmb29953">Maria Magdalena. Ein bürgerliches Trauerspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -29769,7 +29661,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -30098,7 +29990,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -30506,7 +30398,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -31015,7 +30907,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -31085,7 +30977,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -31313,7 +31205,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

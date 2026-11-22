@@ -190,7 +190,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -425,7 +425,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb76615">Der Probepfeil</title>
+              <title key="pmb76615">Der Probepfeil. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -576,7 +576,7 @@
           <note type="listorg">
             <listOrg>
               <org role="veranstaltet von">
-                <orgName key="pmb195426">Böhmisches Quartett</orgName>
+                <orgName key="pmb195426">Böhmisches Streichquartett</orgName>
               </org>
             </listOrg>
           </note>
@@ -1824,7 +1824,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2399,7 +2399,7 @@
           <note type="listorg">
             <listOrg>
               <org role="veranstaltet von">
-                <orgName key="pmb195426">Böhmisches Quartett</orgName>
+                <orgName key="pmb195426">Böhmisches Streichquartett</orgName>
               </org>
             </listOrg>
           </note>
@@ -5117,7 +5117,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
               <persName key="pmb13055">Wassermann, Jakob</persName>
             </person>
             <person role="hat teilnehmend">
-              <persName key="pmb43762">Van Dyck, Ernest</persName>
+              <persName key="pmb43762">Dyck, Ernest Marie Hubert van</persName>
             </person>
             <person role="hat teilnehmend">
               <persName key="pmb19489">Koenen, Tilly</persName>
@@ -6033,7 +6033,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419937">Die Frau vom Meere</title>
+              <title key="pmb40061">Die Frau vom Meer. Schauspiel in fünf Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6137,7 +6137,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7323,7 +7323,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420537">Faust</title>
+              <title key="pmb30247">Faust. Eine Tragödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10605,7 +10605,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419937">Die Frau vom Meere</title>
+              <title key="pmb40061">Die Frau vom Meer. Schauspiel in fünf Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11225,9 +11225,13 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209331/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209331.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/465243/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66741f96cd334071f7a66d6f</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19040604&amp;seite=1#burgtheater-koenig-richard-ii</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19040604&amp;seite=1#burgtheater-richard-der-zweite</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -11266,29 +11270,6 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
               <placeName role="veranstaltet in" key="pmb233517">Kaiserpanorama [Wien, Schubertring 4]</placeName>
               <location>
                 <geo>48,203191 16,375811</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb465243" when-iso="1904-06-04">
-          <eventName n="Theateraufführung">Aufführung von König Richard II., 4.6.1904</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/465243/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66741f96cd334071f7a66d6f</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19040604&amp;seite=1#burgtheater-koenig-richard-ii</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420865">König Richard II.</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
               </location>
             </place>
           </listPlace>
@@ -11541,9 +11522,13 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53252/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb53252.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/465258/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6674212ccd334071f7a692ad</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19040609&amp;seite=1#burgtheater-vater-und-sohn</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19040609&amp;seite=1#burgtheater-vater-und-sohn-dumas-sohn</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -11562,29 +11547,6 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
               <persName key="pmb12809">Sonnenthal, Adolf von</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb465258" when-iso="1904-06-09">
-          <eventName n="Theateraufführung">Aufführung von Vater und Sohn (Dumas Sohn), 9.6.1904</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/465258/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6674212ccd334071f7a692ad</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19040609&amp;seite=1#burgtheater-vater-und-sohn-dumas-sohn</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb421274">Vater und Sohn (Dumas Sohn)</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
@@ -11727,7 +11689,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14518,7 +14480,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16018,7 +15980,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb76615">Der Probepfeil</title>
+              <title key="pmb76615">Der Probepfeil. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16141,7 +16103,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16500,7 +16462,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19233,7 +19195,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20676,7 +20638,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22283,7 +22245,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

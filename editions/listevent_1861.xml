@@ -332,31 +332,11 @@
         </event>
         <event xml:id="pmb432840" when-iso="1861-01-11">
           <eventName n="Theateraufführung">Aufführung von Die Grafen von der Esche, 11.1.1861</eventName>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664789bce027ead1c13e9924</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/432840/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61a22d3ced60fbe1b30d1</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18610111&amp;seite=1#burgtheater-die-grafen-von-der-esche</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419959">Die Grafen von der Esche</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb432843" when-iso="1861-01-11">
-          <eventName n="Theateraufführung">Aufführung von Die Grafen von der Esche, 11.1.1861</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/432843/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664789bce027ead1c13e9924</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18610111&amp;seite=1#burgtheater-die-grafen-von-der-esche</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18610111&amp;seite=1#burgtheater-die-grafen-von-der-esche-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -738,7 +718,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419379">Das Lied von der Glocke</title>
+              <title key="pmb203347">Das Lied von der Glocke [Schiller]</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -781,40 +761,16 @@
               <org role="veranstaltet von">
                 <orgName key="pmb36247">Burgtheater</orgName>
               </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/328120/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61a23d3ced60fbe1b3407</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18610120&amp;seite=1#burgtheater-der-winkelschreiber</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419820">Der Winkelschreiber</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb328123" when-iso="1861-01-20">
-          <eventName n="Theateraufführung">Aufführung von Der Winkelschreiber, 20.1.1861</eventName>
-          <note type="listorg">
-            <listOrg>
               <org role="veranstaltet von">
                 <orgName key="pmb36247">Burgtheater</orgName>
               </org>
             </listOrg>
           </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/328123/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/328120/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61a23d3ced60fbe1b3407</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66478bdfe027ead1c13eca17</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/328123/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18610120&amp;seite=1#burgtheater-der-winkelschreiber</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18610120&amp;seite=1#burgtheater-der-winkelschreiber-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -958,31 +914,11 @@
         </event>
         <event xml:id="pmb432906" when-iso="1861-01-24">
           <eventName n="Theateraufführung">Aufführung von Gute Nacht, Rosa!, 24.1.1861</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/432909/</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/432906/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61a23d3ced60fbe1b34fe</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18610124&amp;seite=1#burgtheater-gute-nacht-rosa</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420652">Gute Nacht, Rosa!</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb432909" when-iso="1861-01-24">
-          <eventName n="Theateraufführung">Aufführung von Gute Nacht, Rosa!, 24.1.1861</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/432909/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66478d80e027ead1c13ef145</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18610124&amp;seite=1#burgtheater-gute-nacht-rosa</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18610124&amp;seite=1#burgtheater-gute-nacht-rosa-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -1991,8 +1927,11 @@
         </event>
         <event xml:id="pmb432990" when-iso="1861-02-16">
           <eventName n="Theateraufführung">Aufführung von Eine Frau die in Paris war, 16.2.1861</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/432999/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6647913ce027ead1c13f494f</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/432990/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61a21d3ced60fbe1b2eec</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18610216&amp;seite=1#burgtheater-eine-frau-die-in-paris-war-2</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18610216&amp;seite=1#burgtheater-eine-frau-die-in-paris-war</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -2014,31 +1953,11 @@
         </event>
         <event xml:id="pmb432993" when-iso="1861-02-16">
           <eventName n="Theateraufführung">Aufführung von Fanny oder Ebbe und Flut, 16.2.1861</eventName>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66479102e027ead1c13f438b</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/432993/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61a22d3ced60fbe1b32f2</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18610216&amp;seite=1#burgtheater-fanny-oder-ebbe-und-flut</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420533">Fanny</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb432996" when-iso="1861-02-16">
-          <eventName n="Theateraufführung">Aufführung von Fanny oder Ebbe und Flut, 16.2.1861</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/432996/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66479102e027ead1c13f438b</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18610216&amp;seite=1#burgtheater-fanny-oder-ebbe-und-flut</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18610216&amp;seite=1#burgtheater-fanny-oder-ebbe-und-flut-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -2046,29 +1965,6 @@
           <listBibl>
             <bibl>
               <title key="pmb420533">Fanny</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb432999" when-iso="1861-02-16">
-          <eventName n="Theateraufführung">Aufführung von Eine Frau die in Paris war, 16.2.1861</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/432999/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6647913ce027ead1c13f494f</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18610216&amp;seite=1#burgtheater-eine-frau-die-in-paris-war-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420432">Eine Frau die in Paris war</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2349,7 +2245,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4839,7 +4735,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419540">Der geheime Agent</title>
+              <title key="pmb195637">Der geheime Agent. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6558,7 +6454,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6756,7 +6652,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6954,7 +6850,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421274">Vater und Sohn (Dumas Sohn)</title>
+              <title key="pmb53251">Vater und Sohn</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7143,7 +7039,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420404">Ein verarmter Edelmann</title>
+              <title key="pmb195565">Ein verarmter Edelmann. Schauspiel in fünf Akten und einem Vorspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7545,7 +7441,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419379">Das Lied von der Glocke</title>
+              <title key="pmb203347">Das Lied von der Glocke [Schiller]</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7826,7 +7722,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419540">Der geheime Agent</title>
+              <title key="pmb195637">Der geheime Agent. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8329,31 +8225,11 @@
         </event>
         <event xml:id="pmb433533" when-iso="1861-10-12">
           <eventName n="Theateraufführung">Aufführung von Buch III, Kapitel 1, 12.10.1861</eventName>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6648751ae027ead1c151572f</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/433533/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664874fde027ead1c151551d</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18611012&amp;seite=2#burgtheater-buch-iii-kapitel-1</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419218">Buch III, Kapitel 1</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb433536" when-iso="1861-10-12">
-          <eventName n="Theateraufführung">Aufführung von Buch III, Kapitel 1, 12.10.1861</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/433536/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6648751ae027ead1c151572f</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18611012&amp;seite=2#burgtheater-buch-iii-kapitel-1</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18611012&amp;seite=2#burgtheater-buch-iii-kapitel-1-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -8504,31 +8380,11 @@
         </event>
         <event xml:id="pmb433548" when-iso="1861-10-16">
           <eventName n="Theateraufführung">Aufführung von Ein Lustspiel, 16.10.1861</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/433551/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6648761fe027ead1c1516fd7</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/433548/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66487608e027ead1c1516d3e</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18611016&amp;seite=1#burgtheater-ein-lustspiel</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb32017">Ein Lustspiel. Lustspiel in fünf Akten</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb433551" when-iso="1861-10-16">
-          <eventName n="Theateraufführung">Aufführung von Ein Lustspiel, 16.10.1861</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/433551/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6648761fe027ead1c1516fd7</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18611016&amp;seite=1#burgtheater-ein-lustspiel-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -8926,7 +8782,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421274">Vater und Sohn (Dumas Sohn)</title>
+              <title key="pmb53251">Vater und Sohn</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8979,7 +8835,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419656">Der Müller und sein Kind</title>
+              <title key="pmb146020">Der Müller und sein Kind. Volksdrama in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9308,7 +9164,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb362470">Die Karlsschüler</title>
+              <title key="pmb77030">Die Karlsschüler. Schauspiel in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9789,31 +9645,11 @@
         </event>
         <event xml:id="pmb433659" when-iso="1861-11-21">
           <eventName n="Theateraufführung">Aufführung von Ein Freundschaftsdienst, 21.11.1861</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/433662/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664883e2e027ead1c1529e8e</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/433659/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66487e41e027ead1c1522976</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18611121&amp;seite=1#burgtheater-ein-freundschaftsdienst</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420334">Ein Freundschaftsdienst</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb433662" when-iso="1861-11-21">
-          <eventName n="Theateraufführung">Aufführung von Ein Freundschaftsdienst, 21.11.1861</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/433662/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664883e2e027ead1c1529e8e</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18611121&amp;seite=1#burgtheater-ein-freundschaftsdienst-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -10159,7 +9995,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10174,31 +10010,11 @@
         </event>
         <event xml:id="pmb433692" when-iso="1861-12-02">
           <eventName n="Theateraufführung">Aufführung von Eine kleine Erzählung ohne Namen, 2.12.1861</eventName>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6648850be027ead1c152b891</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/433692/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/664884f3e027ead1c152b69d</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18611202&amp;seite=1#burgtheater-eine-kleine-erzaehlung-ohne-namen</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420445">Eine kleine Erzählung ohne Namen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb433695" when-iso="1861-12-02">
-          <eventName n="Theateraufführung">Aufführung von Eine kleine Erzählung ohne Namen, 2.12.1861</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/433695/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6648850be027ead1c152b891</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18611202&amp;seite=1#burgtheater-eine-kleine-erzaehlung-ohne-namen</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18611202&amp;seite=1#burgtheater-eine-kleine-erzaehlung-ohne-namen-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -10630,7 +10446,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421274">Vater und Sohn (Dumas Sohn)</title>
+              <title key="pmb53251">Vater und Sohn</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10781,7 +10597,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

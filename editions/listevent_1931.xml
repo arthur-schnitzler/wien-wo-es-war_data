@@ -78,7 +78,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -269,7 +269,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -506,30 +506,10 @@
         </event>
         <event xml:id="pmb498131" when-iso="1931-01-05">
           <eventName n="Theateraufführung">Aufführung von Die kleine Katharina, 5.1.1931</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/498131/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66964a3a6af2b0e29f8f14de</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb81251">Die kleine Katharina</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb498134" when-iso="1931-01-05">
-          <eventName n="Theateraufführung">Aufführung von Die kleine Katharina, 5.1.1931</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/498134/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66964a406af2b0e29f8f155b</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/498131/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66964a3a6af2b0e29f8f14de</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -1002,7 +982,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1179,7 +1159,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1400,7 +1380,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1481,7 +1461,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1629,7 +1609,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2134,7 +2114,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2188,9 +2168,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238915/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238915.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244756/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/498254/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66967e8e6af2b0e29f93bfa3</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19310122&amp;seite=1#burgtheater-haus-rothschild</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19310122&amp;seite=1#burgtheater-haus-rothschild-2</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
           <note type="references"> </note>
@@ -2209,6 +2193,12 @@
             </person>
           </listPerson>
           <listPlace>
+            <place>
+              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
+              <location>
+                <geo>48,210333 16,361139</geo>
+              </location>
+            </place>
             <place>
               <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
               <location>
@@ -2235,29 +2225,6 @@
               <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
               <location>
                 <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb498254" when-iso="1931-01-22">
-          <eventName n="Theateraufführung">Aufführung von Haus Rothschild, 22.1.1931</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/498254/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66967e8e6af2b0e29f93bfa3</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19310122&amp;seite=1#burgtheater-haus-rothschild-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
               </location>
             </place>
           </listPlace>
@@ -2601,7 +2568,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3044,7 +3011,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3248,7 +3215,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3640,7 +3607,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3766,7 +3733,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4415,7 +4382,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4690,10 +4657,14 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35418/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35418.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/498404/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61bddd3ced60fbe219723</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35418.html</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19310214&amp;seite=1#burgtheater-der-gang-zum-weiher</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19310214&amp;seite=1#burgtheater-der-gang-zum-weiher-2</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -4772,29 +4743,6 @@
               <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
               <location>
                 <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb498404" when-iso="1931-02-14">
-          <eventName n="Theateraufführung">Aufführung von Der Gang zum Weiher, 14.2.1931</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/498404/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61bddd3ced60fbe219723</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19310214&amp;seite=1#burgtheater-der-gang-zum-weiher-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419536">Der Gang zum Weiher</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
               </location>
             </place>
           </listPlace>
@@ -4935,7 +4883,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419536">Der Gang zum Weiher</title>
+              <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5185,7 +5133,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419536">Der Gang zum Weiher</title>
+              <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5289,7 +5237,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5527,9 +5475,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238983/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238983.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/498461/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6697863f6af2b0e29fa89543</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19310222&amp;seite=2#burgtheater-der-gang-zum-weiher</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19310222&amp;seite=2#burgtheater-der-gang-zum-weiher-2</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
           <listBibl>
@@ -5607,29 +5559,6 @@
           <listBibl>
             <bibl>
               <title key="pmb80434">Metternich</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb498461" when-iso="1931-02-22">
-          <eventName n="Theateraufführung">Aufführung von Der Gang zum Weiher, 22.2.1931</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/498461/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6697863f6af2b0e29fa89543</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19310222&amp;seite=2#burgtheater-der-gang-zum-weiher-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419536">Der Gang zum Weiher</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6037,7 +5966,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6188,7 +6117,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419536">Der Gang zum Weiher</title>
+              <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6617,7 +6546,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6793,7 +6722,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419536">Der Gang zum Weiher</title>
+              <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7000,7 +6929,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7068,7 +6997,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419536">Der Gang zum Weiher</title>
+              <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7320,7 +7249,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419536">Der Gang zum Weiher</title>
+              <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7598,7 +7527,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419536">Der Gang zum Weiher</title>
+              <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7960,7 +7889,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419536">Der Gang zum Weiher</title>
+              <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8865,7 +8794,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419536">Der Gang zum Weiher</title>
+              <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9020,30 +8949,10 @@
         </event>
         <event xml:id="pmb498656" when-iso="1931-03-28">
           <eventName n="Theateraufführung">Aufführung von Das grobe Hemd, 28.3.1931</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/498656/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66966df76af2b0e29f9246be</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb76982">Das grobe Hemd. Volksstück in vier Acten</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb498659" when-iso="1931-03-28">
-          <eventName n="Theateraufführung">Aufführung von Das grobe Hemd, 28.3.1931</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/498659/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66966e896af2b0e29f92536e</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/498656/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66966df76af2b0e29f9246be</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -9280,7 +9189,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10268,7 +10177,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419536">Der Gang zum Weiher</title>
+              <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10372,7 +10281,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10610,7 +10519,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419536">Der Gang zum Weiher</title>
+              <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10684,7 +10593,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419536">Der Gang zum Weiher</title>
+              <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11567,7 +11476,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11842,7 +11751,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11887,7 +11796,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12915,7 +12824,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13772,7 +13681,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14610,7 +14519,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15572,7 +15481,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16112,7 +16021,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16192,7 +16101,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16738,7 +16647,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16981,7 +16890,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17837,30 +17746,10 @@
         </event>
         <event xml:id="pmb499181" when-iso="1931-07-09">
           <eventName n="Theateraufführung">Aufführung von Die kleine Katharina, 9.7.1931</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499181/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669681796af2b0e29f93fe4f</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb81251">Die kleine Katharina</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb499184" when-iso="1931-07-09">
-          <eventName n="Theateraufführung">Aufführung von Die kleine Katharina, 9.7.1931</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499184/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669683c56af2b0e29f942e4c</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499181/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669681796af2b0e29f93fe4f</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18575,7 +18464,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19313,7 +19202,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19895,7 +19784,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20116,7 +20005,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20294,7 +20183,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20807,7 +20696,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21126,7 +21015,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21200,7 +21089,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21929,7 +21818,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22061,7 +21950,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22583,7 +22472,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22672,7 +22561,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22746,7 +22635,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23031,7 +22920,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23145,13 +23034,20 @@
           <eventName n="Theateraufführung">Aufführung von Leutnant Komma, 18.10.1931</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/245708/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb245708.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499487/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66968e1b6af2b0e29f951ad2</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb80942">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+            <bibl>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23161,6 +23057,12 @@
             </person>
           </listPerson>
           <listPlace>
+            <place>
+              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
+              <location>
+                <geo>48,200254933632 16,377117625773</geo>
+              </location>
+            </place>
             <place>
               <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
               <location>
@@ -23179,28 +23081,6 @@
           <listBibl>
             <bibl>
               <title key="pmb419939">Die Frau von vierzig Jahren</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb499487" when-iso="1931-10-18">
-          <eventName n="Theateraufführung">Aufführung von Leutnant Komma, 18.10.1931</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499487/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66968e1b6af2b0e29f951ad2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23350,7 +23230,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23424,7 +23304,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23504,7 +23384,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23726,7 +23606,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23800,7 +23680,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23822,7 +23702,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23845,7 +23725,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24215,7 +24095,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24451,7 +24331,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24747,7 +24627,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24895,7 +24775,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24991,7 +24871,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25134,7 +25014,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25259,7 +25139,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25334,7 +25214,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25454,6 +25334,8 @@
           <eventName n="Theateraufführung">Aufführung von Geschäft mit Amerika, 15.11.1931</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499667/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669696806af2b0e29f95ce3b</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499673/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669696c26af2b0e29f95d401</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -25482,28 +25364,6 @@
           <listBibl>
             <bibl>
               <title key="pmb80515">Arm wie eine Kirchenmaus</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb499673" when-iso="1931-11-15">
-          <eventName n="Theateraufführung">Aufführung von Geschäft mit Amerika, 15.11.1931</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499673/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669696c26af2b0e29f95d401</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420615">Geschäft mit Amerika</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25549,7 +25409,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25755,7 +25615,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25829,7 +25689,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -26006,7 +25866,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -26213,7 +26073,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -26619,7 +26479,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -26693,7 +26553,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -26908,7 +26768,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -27056,7 +26916,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -27153,7 +27013,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -27420,7 +27280,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -27745,7 +27605,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -27978,7 +27838,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -28216,30 +28076,10 @@
         </event>
         <event xml:id="pmb499886" when-iso="1931-12-17">
           <eventName n="Theateraufführung">Aufführung von Candida, 17.12.1931</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499886/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6696a0fe6af2b0e29f96aea6</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419228">Candida</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb499889" when-iso="1931-12-17">
-          <eventName n="Theateraufführung">Aufführung von Candida, 17.12.1931</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499889/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6697f4e86af2b0e29fb25335</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499886/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6696a0fe6af2b0e29f96aea6</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19311217&amp;seite=1#burgtheater-candida</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -28297,7 +28137,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -28793,7 +28633,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -28947,7 +28787,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -29015,6 +28855,8 @@
               </org>
             </listOrg>
           </note>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/604965/</idno>
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/23#op_1931-12-26_23_2</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/604961/</idno>
           <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/23#op_1931-12-26_23</idno>
           <listBibl>
@@ -29031,35 +28873,6 @@
               <placeName role="veranstaltet in" key="pmb405823">Großer Redoutensaal [Hofburg]</placeName>
               <location>
                 <geo>48,206783 16,366551</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb604965" when-iso="1931-12-26">
-          <eventName n="Theateraufführung">Aufführung von An der schönen blauen Donau, 26.12.1931</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36687">Staatsoper</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/604965/</idno>
-          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/23#op_1931-12-26_23_2</idno>
-          <listBibl>
-            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb164948">An der schönen blauen Donau. Walzer, op. 314</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb15">Oper</placeName>
-              <location>
-                <geo>48,203 16,3691</geo>
               </location>
             </place>
           </listPlace>
@@ -29252,7 +29065,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -29289,9 +29102,12 @@
         </event>
         <event xml:id="pmb499955" when-iso="1931-12-27">
           <eventName n="Theateraufführung">Aufführung von Das dumme Englein, 27.12.1931</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499961/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669e60146af2b0e29f34620f</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499955/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669e5f016af2b0e29f344a32</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19311227&amp;seite=1#burgtheater-das-dumme-englein</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19311227&amp;seite=1#burgtheater-das-dumme-englein-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -29312,53 +29128,10 @@
         </event>
         <event xml:id="pmb499958" when-iso="1931-12-27">
           <eventName n="Theateraufführung">Aufführung von Das Salzburger große Welttheater, 27.12.1931</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499964/</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499958/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669e5f346af2b0e29f344dfb</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19311227&amp;seite=2#burgtheater-das-salzburger-grosse-welttheater</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb30839">Das Salzburger große Welttheater</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb499961" when-iso="1931-12-27">
-          <eventName n="Theateraufführung">Aufführung von Das dumme Englein, 27.12.1931</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499961/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669e60146af2b0e29f34620f</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19311227&amp;seite=1#burgtheater-das-dumme-englein-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419289">Das dumme Englein</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb499964" when-iso="1931-12-27">
-          <eventName n="Theateraufführung">Aufführung von Das Salzburger große Welttheater, 27.12.1931</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/499964/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669e606b6af2b0e29f3469ee</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19311227&amp;seite=2#burgtheater-das-salzburger-grosse-welttheater-2</idno>
           <listBibl>
@@ -29417,7 +29190,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420881">Leutnant Komma</title>
+              <title key="pmb80942">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -29559,7 +29332,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420683">Haus Rothschild</title>
+              <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

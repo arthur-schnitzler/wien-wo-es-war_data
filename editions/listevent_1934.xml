@@ -7609,30 +7609,10 @@
         </event>
         <event xml:id="pmb503924" when-iso="1934-04-01">
           <eventName n="Theateraufführung">Aufführung von Die Insel, 1.4.1934</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/503924/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669cd03a6af2b0e29f150858</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419991">Die Insel</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb503927" when-iso="1934-04-01">
-          <eventName n="Theateraufführung">Aufführung von Die Insel, 1.4.1934</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/503927/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669cd0636af2b0e29f150be6</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/503924/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669cd03a6af2b0e29f150858</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -10730,29 +10710,9 @@
         </event>
         <event xml:id="pmb504089" when-iso="1934-05-06">
           <eventName n="Theateraufführung">Aufführung von Die Insel, 6.5.1934</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/504092/</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/504089/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669ce2456af2b0e29f168bbe</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419991">Die Insel</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb504092" when-iso="1934-05-06">
-          <eventName n="Theateraufführung">Aufführung von Die Insel, 6.5.1934</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/504092/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669ce51e6af2b0e29f16c5a6</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -10915,7 +10875,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421146">Schach dem König</title>
+              <title key="pmb195710">Schach dem König. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11151,7 +11111,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421146">Schach dem König</title>
+              <title key="pmb195710">Schach dem König. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11174,7 +11134,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11283,7 +11243,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421146">Schach dem König</title>
+              <title key="pmb195710">Schach dem König. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11306,7 +11266,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11409,7 +11369,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421146">Schach dem König</title>
+              <title key="pmb195710">Schach dem König. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11432,7 +11392,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11645,7 +11605,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421146">Schach dem König</title>
+              <title key="pmb195710">Schach dem König. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11865,7 +11825,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421146">Schach dem König</title>
+              <title key="pmb195710">Schach dem König. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11998,7 +11958,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12146,7 +12106,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421146">Schach dem König</title>
+              <title key="pmb195710">Schach dem König. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12220,7 +12180,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12537,30 +12497,10 @@
         </event>
         <event xml:id="pmb504185" when-iso="1934-05-29">
           <eventName n="Theateraufführung">Aufführung von Iphigenie auf Tauris, 29.5.1934</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/504185/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669deef76af2b0e29f2af1f0</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb32951">Iphigenie auf Tauris</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb504188" when-iso="1934-05-29">
-          <eventName n="Theateraufführung">Aufführung von Iphigenie auf Tauris, 29.5.1934</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/504188/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669f8cdb6af2b0e29f4c67ca</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/504185/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669deef76af2b0e29f2af1f0</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19340529&amp;seite=1#burgtheater-iphigenie-auf-tauris</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -12659,7 +12599,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12733,7 +12673,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421146">Schach dem König</title>
+              <title key="pmb195710">Schach dem König. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12785,7 +12725,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12866,7 +12806,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12940,7 +12880,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13094,7 +13034,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13301,7 +13241,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13427,7 +13367,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13501,7 +13441,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13648,7 +13588,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13773,7 +13713,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13995,7 +13935,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14120,7 +14060,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15841,7 +15781,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16438,7 +16378,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18016,7 +17956,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

@@ -28,9 +28,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207538/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207538.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/446283/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659a44b4e11902147868f7d</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800101&amp;seite=1#burgtheater-koenig-richard-der-zweite-in-fuenf-aufzuegen</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800101&amp;seite=1#burgtheater-koenig-richard-ii</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -43,29 +47,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb446283" when-iso="1880-01-01">
-          <eventName n="Theateraufführung">Aufführung von König Richard II., 1.1.1880</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/446283/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659a44b4e11902147868f7d</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800101&amp;seite=1#burgtheater-koenig-richard-ii</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420865">König Richard II.</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -116,9 +97,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207539/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207539.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/323806/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659a5474e1190214786a37a</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800102&amp;seite=1#burgtheater-heinrich-der-vierte-erster-teil</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800102&amp;seite=1#burgtheater-koenig-heinrich-iv-1-teil</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -131,36 +116,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb323806" when-iso="1880-01-02">
-          <eventName n="Theateraufführung">Aufführung von König Heinrich IV.  1. Teil, 2.1.1880</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/323806/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659a5474e1190214786a37a</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800102&amp;seite=1#burgtheater-koenig-heinrich-iv-1-teil</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb294463">König Heinrich der Vierte (Erster Teil). Trauerspiel in fünf Aufzügen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -211,9 +166,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207540/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207540.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/324052/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659a6004e1190214786b24d</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800103&amp;seite=1#burgtheater-koenig-heinrich-der-vierte-zweiter-teil</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800103&amp;seite=1#burgtheater-koenig-heinrich-iv-2-teil</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -226,36 +185,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb324052" when-iso="1880-01-03">
-          <eventName n="Theateraufführung">Aufführung von König Heinrich IV.  2. Teil, 3.1.1880</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/324052/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659a6004e1190214786b24d</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800103&amp;seite=1#burgtheater-koenig-heinrich-iv-2-teil</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb195345">König Heinrich der Vierte (Zweiter Theil). Historisches Drama in fünf Akten</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -339,9 +268,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207541/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207541.html</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659a6fb4e1190214786c6a8</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800104&amp;seite=1#burgtheater-koenig-heinrich-der-fuenfte</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800104&amp;seite=1#burgtheater-koenig-heinrich-v</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/324655/</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -354,36 +287,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb324655" when-iso="1880-01-04">
-          <eventName n="Theateraufführung">Aufführung von König Heinrich V., 4.1.1880</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/324655/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659a6fb4e1190214786c6a8</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800104&amp;seite=1#burgtheater-koenig-heinrich-v</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb234480">König Heinrich der Fünfte. Historisches Drama in fünf Aufzügen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -485,9 +388,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207542/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207542.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/446286/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659a7574e1190214786ce2d</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800105&amp;seite=1#burgtheater-koenig-heinrich-der-sechste-erster-teil</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800105&amp;seite=1#burgtheater-koenig-heinrich-der-sechste-1-teil</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -500,29 +407,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb446286" when-iso="1880-01-05">
-          <eventName n="Theateraufführung">Aufführung von König Heinrich der Sechste (1. Teil), 5.1.1880</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/446286/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659a7574e1190214786ce2d</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800105&amp;seite=1#burgtheater-koenig-heinrich-der-sechste-1-teil</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420847">König Heinrich der Sechste (1. Teil)</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -573,9 +457,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207543/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207543.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/446289/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659a7d74e1190214786d911</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800106&amp;seite=1#burgtheater-koenig-heinrich-der-sechste-zweiter-teil</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800106&amp;seite=1#burgtheater-koenig-heinrich-der-sechste-2-teil</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -588,29 +476,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb446289" when-iso="1880-01-06">
-          <eventName n="Theateraufführung">Aufführung von König Heinrich der Sechste (2. Teil), 6.1.1880</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/446289/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659a7d74e1190214786d911</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800106&amp;seite=1#burgtheater-koenig-heinrich-der-sechste-2-teil</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420849">König Heinrich der Sechste (2. Teil)</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -661,9 +526,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207544/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207544.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/446292/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659a8594e1190214786e3c8</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800107&amp;seite=1#burgtheater-koenig-richard-iii</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800107&amp;seite=1#burgtheater-koenig-richard-der-dritte</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -676,29 +545,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb446292" when-iso="1880-01-07">
-          <eventName n="Theateraufführung">Aufführung von König Richard III., 7.1.1880</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/446292/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659a8594e1190214786e3c8</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800107&amp;seite=1#burgtheater-koenig-richard-iii</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420867">König Richard III.</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -1673,7 +1519,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb362470">Die Karlsschüler</title>
+              <title key="pmb77030">Die Karlsschüler. Schauspiel in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2100,7 +1946,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb362470">Die Karlsschüler</title>
+              <title key="pmb77030">Die Karlsschüler. Schauspiel in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2195,7 +2041,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3051,7 +2897,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb31723">Die guten Freunde</title>
+              <title key="pmb31723">Die guten Freunde. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3148,7 +2994,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3201,7 +3047,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3458,7 +3304,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3886,7 +3732,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4280,7 +4126,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4433,7 +4279,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5156,7 +5002,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5387,7 +5233,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419379">Das Lied von der Glocke</title>
+              <title key="pmb203347">Das Lied von der Glocke [Schiller]</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5633,7 +5479,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6047,7 +5893,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6717,7 +6563,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420404">Ein verarmter Edelmann</title>
+              <title key="pmb195565">Ein verarmter Edelmann. Schauspiel in fünf Akten und einem Vorspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6800,7 +6646,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7560,7 +7406,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7643,7 +7489,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421075">Prinz Eugen (Greif)</title>
+              <title key="pmb195636">Prinz Eugen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7784,7 +7630,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421075">Prinz Eugen (Greif)</title>
+              <title key="pmb195636">Prinz Eugen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7964,7 +7810,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8126,7 +7972,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421075">Prinz Eugen (Greif)</title>
+              <title key="pmb195636">Prinz Eugen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8356,7 +8202,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421075">Prinz Eugen (Greif)</title>
+              <title key="pmb195636">Prinz Eugen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8796,7 +8642,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421075">Prinz Eugen (Greif)</title>
+              <title key="pmb195636">Prinz Eugen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9250,7 +9096,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10069,41 +9915,6 @@
             </place>
           </listPlace>
         </event>
-        <event xml:id="pmb207584" when-iso="1880-05-15">
-          <eventName n="Theateraufführung">Aufführung von Moderne Jugend, 15.5.1880</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207584/</idno>
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207584.html</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800515&amp;seite=1#burgtheater-moderne-jugend</idno>
-          <listBibl>
-            <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb77998">Moderne Jugend</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPerson>
-            <person role="hat teilnehmend">
-              <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-          </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
         <event xml:id="pmb446499" when-iso="1880-05-15">
           <eventName n="Theateraufführung">Aufführung von Die Tochter des Herrn Fabricius, 15.5.1880</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/446499/</idno>
@@ -10300,7 +10111,7 @@
             </place>
           </listPlace>
         </event>
-        <event xml:id="pmb326584" when-iso="1880-05-18">
+        <event xml:id="pmb207584" when-iso="1880-05-18">
           <eventName n="Theateraufführung">Aufführung von Moderne Jugend, 18.5.1880</eventName>
           <note type="listorg">
             <listOrg>
@@ -10309,10 +10120,13 @@
               </org>
             </listOrg>
           </note>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207584/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207584.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/326584/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a033e4e119021478e0d9d</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800518&amp;seite=1#burgtheater-moderne-jugend</idno>
           <listBibl>
+            <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
@@ -10321,6 +10135,11 @@
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
+          <listPerson>
+            <person role="hat teilnehmend">
+              <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+          </listPerson>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -10514,7 +10333,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11038,7 +10857,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11407,7 +11226,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420404">Ein verarmter Edelmann</title>
+              <title key="pmb195565">Ein verarmter Edelmann. Schauspiel in fünf Akten und einem Vorspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11822,9 +11641,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207590/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207590.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/324820/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a0a774e119021478ea485</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800610&amp;seite=1#burgtheater-ein-wintermaerchen-schauspiel-in-vier-aufzuegen</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800610&amp;seite=1#burgtheater-ein-wintermaerchen</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -11837,36 +11660,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb324820" when-iso="1880-06-10">
-          <eventName n="Theateraufführung">Aufführung von Ein Wintermärchen, 10.6.1880</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/324820/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a0a774e119021478ea485</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800610&amp;seite=1#burgtheater-ein-wintermaerchen</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb169102">Ein Wintermärchen. Schauspiel in vier Aufzügen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -11946,7 +11739,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12376,9 +12169,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207593/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207593.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/326008/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a147c4e119021478f73c2</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800618&amp;seite=1#burgtheater-faust-eine-tragoedie</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800618&amp;seite=1#burgtheater-faust-i-teil</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -12391,36 +12188,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb326008" when-iso="1880-06-18">
-          <eventName n="Theateraufführung">Aufführung von Faust I. Teil, 18.6.1880</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/326008/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a147c4e119021478f73c2</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800618&amp;seite=1#burgtheater-faust-i-teil</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb30247">Faust. Eine Tragödie</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -12560,7 +12327,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12635,7 +12402,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12655,17 +12422,28 @@
               <org role="veranstaltet von">
                 <orgName key="pmb36247">Burgtheater</orgName>
               </org>
+              <org role="veranstaltet von">
+                <orgName key="pmb36247">Burgtheater</orgName>
+              </org>
             </listOrg>
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207594/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207594.html</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a0d224e119021478eddaa</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/315806/</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800622&amp;seite=1#burgtheater-gute-freunde</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800622&amp;seite=1#burgtheater-die-guten-freunde</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb195563">Gute Freunde</title>
+              <title key="pmb31723">Die guten Freunde. Lustspiel in vier Akten</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+            <bibl>
+              <title key="pmb31723">Die guten Freunde. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12681,30 +12459,6 @@
                 <geo>48,20778 16,36645</geo>
               </location>
             </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb315806" when-iso="1880-06-22">
-          <eventName n="Theateraufführung">Aufführung von Die guten Freunde, 22.6.1880</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/315806/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a0d224e119021478eddaa</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18800622&amp;seite=1#burgtheater-die-guten-freunde</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb31723">Die guten Freunde</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
               <location>
@@ -13276,7 +13030,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14055,7 +13809,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb195565">Der verarmte Edelmann</title>
+              <title key="pmb195565">Ein verarmter Edelmann. Schauspiel in fünf Akten und einem Vorspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14657,7 +14411,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14993,7 +14747,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16183,7 +15937,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16595,7 +16349,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17476,7 +17230,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421075">Prinz Eugen (Greif)</title>
+              <title key="pmb195636">Prinz Eugen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17759,7 +17513,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18167,7 +17921,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419989">Die Hochzeitsreise (Traversi)</title>
+              <title key="pmb623927">Die Hochzeitsreise. Lustspiel in zwei Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18491,7 +18245,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419656">Der Müller und sein Kind</title>
+              <title key="pmb146020">Der Müller und sein Kind. Volksdrama in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18779,7 +18533,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb31723">Die guten Freunde</title>
+              <title key="pmb31723">Die guten Freunde. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18952,7 +18706,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20460,7 +20214,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20596,7 +20350,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21716,7 +21470,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

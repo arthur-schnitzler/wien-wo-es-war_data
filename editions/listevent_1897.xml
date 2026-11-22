@@ -81,7 +81,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -744,6 +744,9 @@
             <person role="hat mitwirkend">
               <persName key="pmb194119">Gura, Hermann</persName>
             </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb11857">Kalbeck, Max</persName>
+            </person>
           </listPerson>
           <listPlace>
             <place>
@@ -764,7 +767,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419566">Der Herr Ministerialdirektor</title>
+              <title key="pmb80176">Der Herr Ministerialdirector. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -852,6 +855,9 @@
             </person>
             <person role="hat mitwirkend">
               <persName key="pmb623671">Kittel, Carl</persName>
+            </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb11857">Kalbeck, Max</persName>
             </person>
           </listPerson>
           <listPlace>
@@ -1026,7 +1032,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419750">Der Sohn des Kalifen</title>
+              <title key="pmb32314">Der Sohn des Kalifen. Dramatisches Märchen in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1293,6 +1299,9 @@
             <person role="hat mitwirkend">
               <persName key="pmb194077">Gabrilowitsch, Ossip</persName>
             </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb11857">Kalbeck, Max</persName>
+            </person>
           </listPerson>
           <listPlace>
             <place>
@@ -1304,7 +1313,7 @@
           </listPlace>
         </event>
         <event xml:id="pmb410850" when-iso="1897-01-12">
-          <eventName n="Konzert">Konzertaufführung in Wien, 12.1.1897</eventName>
+          <eventName n="Konzert">Konzertaufführung im Bösendorfer-Saal, 12.1.1897</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/410850/</idno>
           <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/EA-001478.html</idno>
           <listBibl>
@@ -1320,12 +1329,21 @@
             <person role="hat mitwirkend">
               <persName key="pmb20066">Landi, Camilla</persName>
             </person>
+            <person role="hat mitwirkend">
+              <persName key="pmb24348">Schnabel, Artur</persName>
+            </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb11857">Kalbeck, Max</persName>
+            </person>
+            <person role="hat mitwirkend">
+              <persName key="pmb623914">Klein, Carl</persName>
+            </person>
           </listPerson>
           <listPlace>
             <place>
-              <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+              <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
               <location>
-                <geo>48,208333 16,373056</geo>
+                <geo>48,209167 16,366111</geo>
               </location>
             </place>
           </listPlace>
@@ -1401,6 +1419,12 @@
             </person>
             <person role="hat mitwirkend">
               <persName key="pmb148886">Bricht-Pyllemann, Agnes</persName>
+            </person>
+            <person role="hat mitwirkend">
+              <persName key="pmb7159">Fitzner, Rudolph</persName>
+            </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb11857">Kalbeck, Max</persName>
             </person>
           </listPerson>
           <listPlace>
@@ -1577,6 +1601,28 @@
           <listBibl>
             <bibl type="collections" n="120">Max Kalbeck: Tagebücher</bibl>
           </listBibl>
+          <listBibl>
+            <bibl>
+              <title key="pmb204214">Doppelquartett e-Moll, op. 87</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+            <bibl>
+              <title key="pmb77174">Streichquartett Nr. 13 B-Dur, op. 130</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+            <bibl>
+              <title key="pmb77168">Schottische Volkslieder, op. 108</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+          </listBibl>
+          <listPerson>
+            <person role="hat teilnehmend">
+              <persName key="pmb11857">Kalbeck, Max</persName>
+            </person>
+            <person role="hat mitwirkend">
+              <persName key="pmb116460">Walker, Edyth</persName>
+            </person>
+          </listPerson>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
@@ -1617,11 +1663,19 @@
         </event>
         <event xml:id="pmb407552" when-iso="1897-01-15">
           <eventName n="Konzert">Konzertaufführung im Bösendorfer-Saal, 15.1.1897</eventName>
+          <note type="listorg">
+            <listOrg>
+              <org role="veranstaltet von">
+                <orgName key="pmb195426">Böhmisches Streichquartett</orgName>
+              </org>
+            </listOrg>
+          </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407552/</idno>
           <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/EA-001481.html</idno>
           <listBibl>
             <bibl type="collections" n="28">Brahms Online</bibl>
           </listBibl>
+          <note type="references">4. Abonnement-Soirée des Böhmischen Streichquartetts</note>
           <listBibl>
             <bibl>
               <title key="pmb78208">Klaviertrio Nr. 1 H-Dur, op. 8</title>
@@ -1634,7 +1688,7 @@
           </listBibl>
           <listPerson>
             <person role="hat mitwirkend">
-              <persName key="pmb97068">Hoffmann, Karl</persName>
+              <persName key="pmb97068">Hoffmann, Karel</persName>
             </person>
             <person role="hat mitwirkend">
               <persName key="pmb194758">Wihan, Hanuš</persName>
@@ -1662,7 +1716,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420053">Die Maler (Wilbrandt)</title>
+              <title key="pmb77530">Die Maler</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1971,10 +2025,24 @@
               <title key="pmb205447">Variationen und Fuge über ein Thema von Händel B-Dur, op. 24</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
+            <bibl>
+              <title key="pmb201921">Klaviersonate f-Moll, op. 57 »Appassionata«</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+            <bibl>
+              <title key="pmb204984">Polonaise As-Dur, op. 53</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
           </listBibl>
           <listPerson>
             <person role="hat mitwirkend">
               <persName key="pmb9652">Sauer, Emil Georg Konrad von</persName>
+            </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb11857">Kalbeck, Max</persName>
+            </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb19070">Kantor, Rosa</persName>
             </person>
           </listPerson>
           <listPlace>
@@ -1996,7 +2064,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419750">Der Sohn des Kalifen</title>
+              <title key="pmb32314">Der Sohn des Kalifen. Dramatisches Märchen in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2856,7 +2924,7 @@
             <bibl type="collections" n="28">Brahms Online</bibl>
             <bibl type="collections" n="120">Max Kalbeck: Tagebücher</bibl>
           </listBibl>
-          <note type="references">None </note>
+          <note type="references">None</note>
           <listBibl>
             <bibl>
               <title key="pmb78207">Klaviersonate Nr. 3 f-Moll, op. 5</title>
@@ -2879,6 +2947,15 @@
             <person role="hat mitwirkend">
               <persName key="pmb9652">Sauer, Emil Georg Konrad von</persName>
             </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb11857">Kalbeck, Max</persName>
+            </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb360480">Door, Ernestine</persName>
+            </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb364645">Door, Jenny</persName>
+            </person>
           </listPerson>
           <listPlace>
             <place>
@@ -2899,7 +2976,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421146">Schach dem König</title>
+              <title key="pmb195710">Schach dem König. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3059,6 +3136,25 @@
             </place>
           </listPlace>
         </event>
+        <event xml:id="pmb410385" when-iso="1897-01-27">
+          <eventName n="Konzert">Konzertaufführung im Saal der Wiener Ressource, 27.1.1897</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/410385/</idno>
+          <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/EA-001491.html</idno>
+          <listBibl>
+            <bibl type="collections" n="28">Brahms Online</bibl>
+          </listBibl>
+          <listBibl>
+            <bibl>
+              <title key="pmb206048">Fünf Lieder, op. 49</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+          </listBibl>
+          <listPlace>
+            <place>
+              <placeName role="veranstaltet in" key="pmb407031">Saal der Wiener Ressource</placeName>
+            </place>
+          </listPlace>
+        </event>
         <event xml:id="pmb458784" when-iso="1897-01-27">
           <eventName n="Theateraufführung">Aufführung von Die Wildente, 27.1.1897</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/458784/</idno>
@@ -3168,7 +3264,7 @@
           <note type="listorg">
             <listOrg>
               <org role="veranstaltet von">
-                <orgName key="pmb195426">Böhmisches Quartett</orgName>
+                <orgName key="pmb195426">Böhmisches Streichquartett</orgName>
               </org>
             </listOrg>
           </note>
@@ -3209,7 +3305,7 @@
           </listBibl>
           <listPerson>
             <person role="hat mitwirkend">
-              <persName key="pmb97068">Hoffmann, Karl</persName>
+              <persName key="pmb97068">Hoffmann, Karel</persName>
             </person>
             <person role="hat mitwirkend">
               <persName key="pmb10138">Suk, Josef</persName>
@@ -4307,7 +4403,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420404">Ein verarmter Edelmann</title>
+              <title key="pmb195565">Ein verarmter Edelmann. Schauspiel in fünf Akten und einem Vorspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4482,7 +4578,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5476,7 +5572,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5743,24 +5839,6 @@
         </event>
         <event xml:id="pmb35071" when-iso="1897-02-27">
           <eventName n="Theateruraufführung">Uraufführung von Das Tschaperl 27.2.1897</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35071/</idno>
-          <listBibl>
-            <bibl>
-              <title key="pmb29829">Das Tschaperl. Ein Wiener Stück in vier Aufzügen</title>
-              <note type="relation-type">ist Uraufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
-              <location>
-                <geo>48,215 16,384444</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb208907" when-iso="1897-02-27">
-          <eventName n="Theaterpremiere">Premiere von Das Tschaperl, 27.2.1897</eventName>
           <note type="listorg">
             <listOrg>
               <org role="veranstaltet von">
@@ -5768,6 +5846,7 @@
               </org>
             </listOrg>
           </note>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35071/</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208907/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208907.html</idno>
           <listBibl>
@@ -5782,6 +5861,15 @@
           <listPerson>
             <person role="hat teilnehmend">
               <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+            </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb10860">Beer-Hofmann, Paula</persName>
+            </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
             </person>
           </listPerson>
           <listPlace>
@@ -6164,7 +6252,7 @@
           </listBibl>
           <listPerson>
             <person role="hat mitwirkend">
-              <persName key="pmb7159">Fitzner, Rudolf</persName>
+              <persName key="pmb7159">Fitzner, Rudolph</persName>
             </person>
             <person role="hat mitwirkend">
               <persName key="pmb406067">Czerny, Jaroslav</persName>
@@ -6498,9 +6586,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200042/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb200042.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/458907/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666de79ecd334071f7277bf9</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18970307&amp;seite=1#burgtheater-liebelei</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18970307&amp;seite=1#burgtheater-liebelei-2</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
           <listBibl>
@@ -6646,29 +6738,6 @@
               <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
               <location>
                 <geo>48,208333 16,373056</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb458907" when-iso="1897-03-07">
-          <eventName n="Theateraufführung">Aufführung von Liebelei, 7.3.1897</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/458907/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666de79ecd334071f7277bf9</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18970307&amp;seite=1#burgtheater-liebelei-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420889">Liebelei</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
               </location>
             </place>
           </listPlace>
@@ -7769,9 +7838,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208911/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208911.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/458940/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ed588cd334071f7399319</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18970319&amp;seite=1#burgtheater-romeo-und-julia</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18970319&amp;seite=1#burgtheater-romeo-und-julia-2</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -7850,29 +7923,6 @@
               <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
               <location>
                 <geo>48,208333 16,373056</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb458940" when-iso="1897-03-19">
-          <eventName n="Theateraufführung">Aufführung von Romeo und Julia, 19.3.1897</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/458940/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ed588cd334071f7399319</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18970319&amp;seite=1#burgtheater-romeo-und-julia-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb31213">Romeo and Juliet</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
               </location>
             </place>
           </listPlace>
@@ -12709,7 +12759,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419566">Der Herr Ministerialdirektor</title>
+              <title key="pmb80176">Der Herr Ministerialdirector. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12812,7 +12862,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12872,7 +12922,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420404">Ein verarmter Edelmann</title>
+              <title key="pmb195565">Ein verarmter Edelmann. Schauspiel in fünf Akten und einem Vorspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12924,7 +12974,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421146">Schach dem König</title>
+              <title key="pmb195710">Schach dem König. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13151,7 +13201,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420053">Die Maler (Wilbrandt)</title>
+              <title key="pmb77530">Die Maler</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13226,7 +13276,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419566">Der Herr Ministerialdirektor</title>
+              <title key="pmb80176">Der Herr Ministerialdirector. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13295,7 +13345,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15069,6 +15119,12 @@
             <person role="hat teilnehmend">
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+            </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb16560">Freudenthal, Rosa</persName>
+            </person>
           </listPerson>
           <listPlace>
             <place>
@@ -15780,7 +15836,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16131,6 +16187,9 @@
             <person role="hat teilnehmend">
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat teilnehmend">
+              <persName key="pmb2378">Reinhard, Marie</persName>
+            </person>
           </listPerson>
           <listPlace>
             <place>
@@ -16377,7 +16436,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16804,7 +16863,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419531">Der G'wissenswurm</title>
+              <title key="pmb76759">Der G’wissenswurm. Bauernkomödie mit Gesang in drei Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17167,7 +17226,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419566">Der Herr Ministerialdirektor</title>
+              <title key="pmb80176">Der Herr Ministerialdirector. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17569,7 +17628,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17775,31 +17834,11 @@
         </event>
         <event xml:id="pmb459177" when-iso="1897-10-20">
           <eventName n="Theateraufführung">Aufführung von Nathan der Weise, 20.10.1897</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/459180/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ee00ccd334071f73a949d</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/459177/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ee005cd334071f73a93fb</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18971020&amp;seite=1#burgtheater-nathan-der-weise</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb202346">Nathan der Weise</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb459180" when-iso="1897-10-20">
-          <eventName n="Theateraufführung">Aufführung von Nathan der Weise, 20.10.1897</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/459180/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ee00ccd334071f73a949d</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18971020&amp;seite=1#burgtheater-nathan-der-weise-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -17910,7 +17949,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421146">Schach dem König</title>
+              <title key="pmb195710">Schach dem König. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18701,7 +18740,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419656">Der Müller und sein Kind</title>
+              <title key="pmb146020">Der Müller und sein Kind. Volksdrama in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18795,6 +18834,9 @@
           <listPerson>
             <person role="hat teilnehmend">
               <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat mitwirkend">
+              <persName key="pmb14953">Glümer, Marie</persName>
             </person>
           </listPerson>
           <listPlace>
@@ -19356,31 +19398,11 @@
         </event>
         <event xml:id="pmb459237" when-iso="1897-11-10">
           <eventName n="Theateraufführung">Aufführung von Adrienne Lecouvreur, 10.11.1897</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/459240/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ee459cd334071f73afb50</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/459237/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ee3a9cd334071f73aeb07</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18971110&amp;seite=1#burgtheater-adrienne-lecouvreur</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb77437">Adrienne Lecouvreur</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb459240" when-iso="1897-11-10">
-          <eventName n="Theateraufführung">Aufführung von Adrienne Lecouvreur, 10.11.1897</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/459240/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ee459cd334071f73afb50</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18971110&amp;seite=1#burgtheater-adrienne-lecouvreur-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -19506,6 +19528,48 @@
               <placeName role="veranstaltet in" key="pmb15">Oper</placeName>
               <location>
                 <geo>48,203 16,3691</geo>
+              </location>
+            </place>
+          </listPlace>
+        </event>
+        <event xml:id="pmb623936" when-iso="1897-11-11">
+          <eventName n="Kammermusikkonzert">Konzertaufführung im Bösendorfer-Saal, 11.11.1897</eventName>
+          <note type="listorg">
+            <listOrg>
+              <org role="veranstaltet von">
+                <orgName key="pmb195419">Hellmesberger-Quartett</orgName>
+              </org>
+            </listOrg>
+          </note>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/623936/</idno>
+          <listBibl>
+            <bibl type="collections" n="120">Max Kalbeck: Tagebücher</bibl>
+          </listBibl>
+          <note type="references">erster Abend</note>
+          <listBibl>
+            <bibl>
+              <title key="pmb77541">Streichquartett Nr. 3 es-Moll, op. 30</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+            <bibl>
+              <title key="pmb623949">Sieben Fantasiestücke für Violine, Viola und Klavier, op. 57</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+            <bibl>
+              <title key="pmb77171">Streichquartett Nr. 10 Es-Dur, op. 74 »Harfenquartett«</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+          </listBibl>
+          <listPerson>
+            <person role="hat mitwirkend">
+              <persName key="pmb193988">Dittrich, Rudolf</persName>
+            </person>
+          </listPerson>
+          <listPlace>
+            <place>
+              <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+              <location>
+                <geo>48,209167 16,366111</geo>
               </location>
             </place>
           </listPlace>
@@ -20052,31 +20116,11 @@
         </event>
         <event xml:id="pmb459252" when-iso="1897-11-17">
           <eventName n="Theateraufführung">Aufführung von Des Meeres und der Liebe Wellen, 17.11.1897</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/459255/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ee521cd334071f73b0d19</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/459252/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ee4b5cd334071f73b0372</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18971117&amp;seite=1#burgtheater-des-meeres-und-der-liebe-wellen</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb32987">Des Meeres und der Liebe Wellen. Trauerspiel in fünf Aufzügen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb459255" when-iso="1897-11-17">
-          <eventName n="Theateraufführung">Aufführung von Des Meeres und der Liebe Wellen, 17.11.1897</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/459255/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ee521cd334071f73b0d19</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18971117&amp;seite=1#burgtheater-des-meeres-und-der-liebe-wellen-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -20921,7 +20965,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21228,9 +21272,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208982/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208982.html</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ee8d2cd334071f73b60b2</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/459303/</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18971202&amp;seite=1#burgtheater-einsame-menschen-drama</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18971202&amp;seite=1#burgtheater-einsame-menschen</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -21302,29 +21350,6 @@
               <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
               <location>
                 <geo>48,208333 16,373056</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb459303" when-iso="1897-12-02">
-          <eventName n="Theateraufführung">Aufführung von Einsame Menschen, 2.12.1897</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/459303/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ee8d2cd334071f73b60b2</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18971202&amp;seite=1#burgtheater-einsame-menschen</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb163965">Einsame Menschen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
               </location>
             </place>
           </listPlace>
@@ -21402,7 +21427,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420053">Die Maler (Wilbrandt)</title>
+              <title key="pmb77530">Die Maler</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21460,13 +21485,16 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb80360">Deux gosses (Zwei kleine Vagabunden)</title>
+              <title key="pmb80360">Zwei kleine Vagabunden</title>
               <note type="relation-type">ist Premiere von</note>
             </bibl>
           </listBibl>
           <listPerson>
             <person role="hat teilnehmend">
               <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat mitwirkend">
+              <persName key="pmb14953">Glümer, Marie</persName>
             </person>
           </listPerson>
           <listPlace>
@@ -21574,7 +21602,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420849">König Heinrich der Sechste (2. Teil)</title>
+              <title key="pmb294458">König Heinrich der Sechste (Zweiter Teil)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22001,7 +22029,7 @@
           <note type="listorg">
             <listOrg>
               <org role="veranstaltet von">
-                <orgName key="pmb195426">Böhmisches Quartett</orgName>
+                <orgName key="pmb195426">Böhmisches Streichquartett</orgName>
               </org>
             </listOrg>
           </note>
@@ -22241,7 +22269,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22264,7 +22292,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22642,7 +22670,7 @@
           </listBibl>
           <listPerson>
             <person role="hat mitwirkend">
-              <persName key="pmb97068">Hoffmann, Karl</persName>
+              <persName key="pmb97068">Hoffmann, Karel</persName>
             </person>
             <person role="hat mitwirkend">
               <persName key="pmb10138">Suk, Josef</persName>
@@ -23610,7 +23638,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419566">Der Herr Ministerialdirektor</title>
+              <title key="pmb80176">Der Herr Ministerialdirector. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

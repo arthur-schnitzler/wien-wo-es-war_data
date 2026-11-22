@@ -154,7 +154,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -206,7 +206,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420073">Die Neuvermählten (Björnson)</title>
+              <title key="pmb78085">Die Neuvermählten. Schauspiel in zwei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -252,7 +252,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -624,7 +624,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -878,7 +878,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419531">Der G'wissenswurm</title>
+              <title key="pmb76759">Der G’wissenswurm. Bauernkomödie mit Gesang in drei Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1562,7 +1562,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1971,7 +1971,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2329,31 +2329,11 @@
         </event>
         <event xml:id="pmb475921" when-iso="1916-02-06">
           <eventName n="Theateraufführung">Aufführung von Die Mitschuldigen, 6.2.1916</eventName>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4d5bcd334071f765401c</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/475921/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4d46cd334071f7653e10</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19160206&amp;seite=1#burgtheater-die-mitschuldigen</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb30193">Die Mitschuldigen.  Ein Lustspiel in drei Aufzügen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb475924" when-iso="1916-02-06">
-          <eventName n="Theateraufführung">Aufführung von Die Mitschuldigen, 6.2.1916</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/475924/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d4d5bcd334071f765401c</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19160206&amp;seite=1#burgtheater-die-mitschuldigen</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19160206&amp;seite=1#burgtheater-die-mitschuldigen-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -2435,7 +2415,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3491,7 +3471,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420073">Die Neuvermählten (Björnson)</title>
+              <title key="pmb78085">Die Neuvermählten. Schauspiel in zwei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3768,7 +3748,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4461,7 +4441,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4576,7 +4556,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4680,7 +4660,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5181,7 +5161,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6255,7 +6235,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419531">Der G'wissenswurm</title>
+              <title key="pmb76759">Der G’wissenswurm. Bauernkomödie mit Gesang in drei Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6362,7 +6342,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7743,7 +7723,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7872,7 +7852,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7924,7 +7904,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8438,36 +8418,16 @@
           <eventName n="Theateraufführung">Aufführung von Das weite Land, 4.5.1916</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/476206/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d5651cd334071f7662d30</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19160504&amp;seite=1#burgtheater-das-weite-land</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419441">Das weite Land</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb476209" when-iso="1916-05-04">
-          <eventName n="Theateraufführung">Aufführung von Das weite Land, 4.5.1916</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/476209/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d566ccd334071f766302f</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/476209/</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19160504&amp;seite=1#burgtheater-das-weite-land</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19160504&amp;seite=1#burgtheater-das-weite-land-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419441">Das weite Land</title>
+              <title key="pmb30207">Das weite Land. Tragikomödie in fünf Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8617,7 +8577,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420073">Die Neuvermählten (Björnson)</title>
+              <title key="pmb78085">Die Neuvermählten. Schauspiel in zwei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9295,7 +9255,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10558,7 +10518,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13488,7 +13448,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419531">Der G'wissenswurm</title>
+              <title key="pmb76759">Der G’wissenswurm. Bauernkomödie mit Gesang in drei Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13846,7 +13806,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420073">Die Neuvermählten (Björnson)</title>
+              <title key="pmb78085">Die Neuvermählten. Schauspiel in zwei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14019,7 +13979,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14481,7 +14441,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14825,7 +14785,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14886,7 +14846,7 @@
               <persName key="pmb12570">Rosé, Arnold</persName>
             </person>
             <person role="hat mitwirkend">
-              <persName key="pmb7159">Fitzner, Rudolf</persName>
+              <persName key="pmb7159">Fitzner, Rudolph</persName>
             </person>
             <person role="hat mitwirkend">
               <persName key="pmb9874">Serkin, Rudolf</persName>
@@ -15192,7 +15152,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15464,7 +15424,10 @@
           <eventName n="Theateraufführung">Aufführung von Das Bild des Ramses, 15.10.1916</eventName>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d66edcd334071f767ce55</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/476563/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d6732cd334071f767d53f</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/476569/</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19161015&amp;seite=1#burgtheater-das-bild-des-ramses</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19161015&amp;seite=1#burgtheater-das-bild-des-ramses-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -15494,29 +15457,6 @@
           <listBibl>
             <bibl>
               <title key="pmb419190">Basem der Grobschmied</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb476569" when-iso="1916-10-15">
-          <eventName n="Theateraufführung">Aufführung von Das Bild des Ramses, 15.10.1916</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/476569/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667d6732cd334071f767d53f</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19161015&amp;seite=1#burgtheater-das-bild-des-ramses-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419281">Das Bild des Ramses</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15568,7 +15508,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419441">Das weite Land</title>
+              <title key="pmb30207">Das weite Land. Tragikomödie in fünf Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16074,7 +16014,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16934,7 +16874,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17218,7 +17158,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17546,7 +17486,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420831">Komödie der Worte</title>
+              <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18023,7 +17963,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18318,7 +18258,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18341,7 +18281,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420073">Die Neuvermählten (Björnson)</title>
+              <title key="pmb78085">Die Neuvermählten. Schauspiel in zwei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18429,7 +18369,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18730,7 +18670,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18975,7 +18915,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

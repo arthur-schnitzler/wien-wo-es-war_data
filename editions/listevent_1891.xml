@@ -94,7 +94,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb31723">Die guten Freunde</title>
+              <title key="pmb31723">Die guten Freunde. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5005,7 +5005,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6849,7 +6849,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8299,7 +8299,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420404">Ein verarmter Edelmann</title>
+              <title key="pmb195565">Ein verarmter Edelmann. Schauspiel in fünf Akten und einem Vorspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9892,7 +9892,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10035,7 +10035,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421146">Schach dem König</title>
+              <title key="pmb195710">Schach dem König. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10185,7 +10185,7 @@
           </listPlace>
         </event>
         <event xml:id="pmb208480" when-iso="1891-05-03">
-          <eventName n="Theaterpremiere">Premiere von Meister Manole, 3.5.1891</eventName>
+          <eventName n="Opernpremiere">Premiere von Meister Manole, 3.5.1891</eventName>
           <note type="listorg">
             <listOrg>
               <org role="veranstaltet von">
@@ -10195,13 +10195,12 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208480/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208480.html</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18910503&amp;seite=2#burgtheater-meister-manole</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb81397">Meister Manole</title>
+              <title key="pmb81397">Meister Manole. Trauerspiel in vier Aufzügen</title>
               <note type="relation-type">ist Premiere von</note>
             </bibl>
           </listBibl>
@@ -10212,9 +10211,9 @@
           </listPerson>
           <listPlace>
             <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
+              <placeName role="veranstaltet in" key="pmb15">Oper</placeName>
               <location>
-                <geo>48,210333 16,361139</geo>
+                <geo>48,203 16,3691</geo>
               </location>
             </place>
           </listPlace>
@@ -11317,7 +11316,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb81397">Meister Manole</title>
+              <title key="pmb81397">Meister Manole. Trauerspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11370,7 +11369,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb81397">Meister Manole</title>
+              <title key="pmb81397">Meister Manole. Trauerspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12382,7 +12381,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421274">Vater und Sohn (Dumas Sohn)</title>
+              <title key="pmb53251">Vater und Sohn</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12435,7 +12434,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb81397">Meister Manole</title>
+              <title key="pmb81397">Meister Manole. Trauerspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12785,7 +12784,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421006">Narziß (Brachvogel)</title>
+              <title key="pmb80221">Narziss</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12877,7 +12876,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13370,7 +13369,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420053">Die Maler (Wilbrandt)</title>
+              <title key="pmb77530">Die Maler</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13385,31 +13384,11 @@
         </event>
         <event xml:id="pmb454179" when-iso="1891-07-05">
           <eventName n="Theateraufführung">Aufführung von Die alten Junggesellen, 5.7.1891</eventName>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f23654801253dbd15b67f</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/454179/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ac1d3ced60fbe1d7217</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18910705&amp;seite=1#burgtheater-die-alten-junggesellen</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb77516">Die alten Junggesellen. Pariser Sittengemälde in 5 Aufzügen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb454182" when-iso="1891-07-05">
-          <eventName n="Theateraufführung">Aufführung von Die alten Junggesellen, 5.7.1891</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/454182/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667f23654801253dbd15b67f</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18910705&amp;seite=1#burgtheater-die-alten-junggesellen</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18910705&amp;seite=1#burgtheater-die-alten-junggesellen-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -13655,7 +13634,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17766,7 +17745,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18248,7 +18227,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19230,7 +19209,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420053">Die Maler (Wilbrandt)</title>
+              <title key="pmb77530">Die Maler</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19849,7 +19828,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420404">Ein verarmter Edelmann</title>
+              <title key="pmb195565">Ein verarmter Edelmann. Schauspiel in fünf Akten und einem Vorspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23255,7 +23234,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb81397">Meister Manole</title>
+              <title key="pmb81397">Meister Manole. Trauerspiel in vier Aufzügen</title>
               <note type="relation-type">ist Premiere von</note>
             </bibl>
           </listBibl>
@@ -23880,8 +23859,14 @@
             </listOrg>
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56557/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/454431/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ac5d3ced60fbe1d82a9</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb56557.html</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18911206&amp;seite=3#burgtheater-einsame-menschen</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18911206&amp;seite=3#burgtheater-einsame-menschen-2</idno>
+          <listBibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
+          </listBibl>
           <listBibl>
             <bibl>
               <title key="pmb29879">Einsame Menschen. Drama</title>
@@ -23893,29 +23878,6 @@
               <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb454431" when-iso="1891-12-06">
-          <eventName n="Theateraufführung">Aufführung von Einsame Menschen, 6.12.1891</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/454431/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ac5d3ced60fbe1d82a9</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18911206&amp;seite=3#burgtheater-einsame-menschen-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb163965">Einsame Menschen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
@@ -23995,7 +23957,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb163965">Einsame Menschen</title>
+              <title key="pmb29879">Einsame Menschen. Drama</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24471,7 +24433,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb163965">Einsame Menschen</title>
+              <title key="pmb29879">Einsame Menschen. Drama</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24553,9 +24515,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208513/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208513.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/454446/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ac5d3ced60fbe1d8543</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18911213&amp;seite=1#burgtheater-die-nibelungen-iii-teil-kriemhilds-rache</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18911213&amp;seite=1#burgtheater-die-nibelungen-hebbel</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -24568,29 +24534,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb454446" when-iso="1891-12-13">
-          <eventName n="Theateraufführung">Aufführung von Die Nibelungen (Hebbel), 13.12.1891</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/454446/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ac5d3ced60fbe1d8543</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18911213&amp;seite=1#burgtheater-die-nibelungen-hebbel</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb34235">Die Nibelungen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
@@ -25011,7 +24954,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb163965">Einsame Menschen</title>
+              <title key="pmb29879">Einsame Menschen. Drama</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25893,7 +25836,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

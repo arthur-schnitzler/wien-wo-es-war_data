@@ -147,7 +147,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420404">Ein verarmter Edelmann</title>
+              <title key="pmb195565">Ein verarmter Edelmann. Schauspiel in fünf Akten und einem Vorspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1264,7 +1264,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421146">Schach dem König</title>
+              <title key="pmb195710">Schach dem König. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4023,7 +4023,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb31723">Die guten Freunde</title>
+              <title key="pmb31723">Die guten Freunde. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5056,7 +5056,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419540">Der geheime Agent</title>
+              <title key="pmb195637">Der geheime Agent. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5659,7 +5659,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419977">Die Gönnerschaften</title>
+              <title key="pmb80362">Gönnerschaften. Lustspiel in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6301,7 +6301,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421006">Narziß (Brachvogel)</title>
+              <title key="pmb80221">Narziss</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6803,7 +6803,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7123,7 +7123,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420053">Die Maler (Wilbrandt)</title>
+              <title key="pmb77530">Die Maler</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7492,7 +7492,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420847">König Heinrich der Sechste (1. Teil)</title>
+              <title key="pmb164857">König Heinrich der Sechste (Erster Teil). In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7515,7 +7515,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420849">König Heinrich der Sechste (2. Teil)</title>
+              <title key="pmb294458">König Heinrich der Sechste (Zweiter Teil)</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7568,7 +7568,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8212,7 +8212,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421006">Narziß (Brachvogel)</title>
+              <title key="pmb80221">Narziss</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9101,31 +9101,11 @@
         </event>
         <event xml:id="pmb444915" when-iso="1876-05-31">
           <eventName n="Theateraufführung">Aufführung von Die Wege des Glücks, 31.5.1876</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/444918/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6656330f4e1190214740dfd8</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/444915/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665632624e1190214740d0de</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18760531&amp;seite=1#burgtheater-die-wege-des-gluecks</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420217">Die Wege des Glücks</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb444918" when-iso="1876-05-31">
-          <eventName n="Theateraufführung">Aufführung von Die Wege des Glücks, 31.5.1876</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/444918/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6656330f4e1190214740dfd8</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18760531&amp;seite=1#burgtheater-die-wege-des-gluecks-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -10121,7 +10101,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419989">Die Hochzeitsreise (Traversi)</title>
+              <title key="pmb623927">Die Hochzeitsreise. Lustspiel in zwei Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10234,7 +10214,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420924">Maria Magdalene</title>
+              <title key="pmb29953">Maria Magdalena. Ein bürgerliches Trauerspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10257,7 +10237,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419307">Das Gefängnis</title>
+              <title key="pmb77940">Das Gefängniß. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10393,7 +10373,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419989">Die Hochzeitsreise (Traversi)</title>
+              <title key="pmb623927">Die Hochzeitsreise. Lustspiel in zwei Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10552,7 +10532,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419307">Das Gefängnis</title>
+              <title key="pmb77940">Das Gefängniß. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10605,7 +10585,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11968,9 +11948,6 @@
               <org role="veranstaltet von">
                 <orgName key="pmb36247">Burgtheater</orgName>
               </org>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
             </listOrg>
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207364/</idno>
@@ -12060,9 +12037,6 @@
           <eventName n="Theateraufführung">Aufführung von König Heinrich der Vierte (Zweiter Teil), 7.9.1876</eventName>
           <note type="listorg">
             <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
               <org role="veranstaltet von">
                 <orgName key="pmb36247">Burgtheater</orgName>
               </org>
@@ -12229,9 +12203,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207366/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207366.html</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18760909&amp;seite=1#burgtheater-das-gefaengnis</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18760909&amp;seite=1#burgtheater-das-gefaengnis-lustspiel-in-vier-aufzuegen</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/444984/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6656cbbe4e119021474c781b</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -12244,29 +12222,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb444984" when-iso="1876-09-09">
-          <eventName n="Theateraufführung">Aufführung von Das Gefängnis, 9.9.1876</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/444984/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6656cbbe4e119021474c781b</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18760909&amp;seite=1#burgtheater-das-gefaengnis</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419307">Das Gefängnis</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
@@ -12390,7 +12345,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420404">Ein verarmter Edelmann</title>
+              <title key="pmb195565">Ein verarmter Edelmann. Schauspiel in fünf Akten und einem Vorspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13884,7 +13839,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421006">Narziß (Brachvogel)</title>
+              <title key="pmb80221">Narziss</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14352,7 +14307,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb31723">Die guten Freunde</title>
+              <title key="pmb31723">Die guten Freunde. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15537,7 +15492,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419656">Der Müller und sein Kind</title>
+              <title key="pmb146020">Der Müller und sein Kind. Volksdrama in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15590,7 +15545,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419656">Der Müller und sein Kind</title>
+              <title key="pmb146020">Der Müller und sein Kind. Volksdrama in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16127,7 +16082,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419379">Das Lied von der Glocke</title>
+              <title key="pmb203347">Das Lied von der Glocke [Schiller]</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16142,31 +16097,11 @@
         </event>
         <event xml:id="pmb445122" when-iso="1876-11-11">
           <eventName n="Theateraufführung">Aufführung von Demetrius, 11.11.1876</eventName>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66574b5f4e1190214756b457</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/445122/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66574ac94e1190214756a6e5</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18761111&amp;seite=1#burgtheater-demetrius</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb31865">Demetrius</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
-              <location>
-                <geo>48,20778 16,36645</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb445125" when-iso="1876-11-11">
-          <eventName n="Theateraufführung">Aufführung von Demetrius, 11.11.1876</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/445125/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66574b5f4e1190214756b457</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18761111&amp;seite=1#burgtheater-demetrius</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=18761111&amp;seite=1#burgtheater-demetrius-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -16585,7 +16520,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419379">Das Lied von der Glocke</title>
+              <title key="pmb203347">Das Lied von der Glocke [Schiller]</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16924,7 +16859,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419379">Das Lied von der Glocke</title>
+              <title key="pmb203347">Das Lied von der Glocke [Schiller]</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17357,7 +17292,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419307">Das Gefängnis</title>
+              <title key="pmb77940">Das Gefängniß. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17856,7 +17791,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419540">Der geheime Agent</title>
+              <title key="pmb195637">Der geheime Agent. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18252,7 +18187,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419989">Die Hochzeitsreise (Traversi)</title>
+              <title key="pmb623927">Die Hochzeitsreise. Lustspiel in zwei Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18305,7 +18240,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420924">Maria Magdalene</title>
+              <title key="pmb29953">Maria Magdalena. Ein bürgerliches Trauerspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18787,7 +18722,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421146">Schach dem König</title>
+              <title key="pmb195710">Schach dem König. Lustspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19063,7 +18998,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

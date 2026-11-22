@@ -1168,7 +1168,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2298,7 +2298,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2544,7 +2544,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2728,7 +2728,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3026,7 +3026,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5656,10 +5656,14 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35424/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35424.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479443/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b62d3ced60fbe1fc307</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35424.html</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19200326&amp;seite=1#burgtheater-die-schwestern-oder-casanova-in-spa</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19200326&amp;seite=1#burgtheater-die-schwestern-oder-casanova-in-spa-2</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -5705,29 +5709,6 @@
               <persName key="pmb16941">Gehrs, Hermann</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb479443" when-iso="1920-03-26">
-          <eventName n="Theateraufführung">Aufführung von Die Schwestern oder Casanova in Spa, 26.3.1920</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479443/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b62d3ced60fbe1fc307</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19200326&amp;seite=1#burgtheater-die-schwestern-oder-casanova-in-spa-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420149">Die Schwestern</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
@@ -5828,7 +5809,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420149">Die Schwestern</title>
+              <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5880,7 +5861,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420149">Die Schwestern</title>
+              <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6021,7 +6002,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420149">Die Schwestern</title>
+              <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6318,7 +6299,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420149">Die Schwestern</title>
+              <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6445,7 +6426,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420149">Die Schwestern</title>
+              <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6931,7 +6912,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6983,7 +6964,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420149">Die Schwestern</title>
+              <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7191,7 +7172,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7391,7 +7372,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420149">Die Schwestern</title>
+              <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7691,7 +7672,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420149">Die Schwestern</title>
+              <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7824,7 +7805,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8784,7 +8765,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8836,7 +8817,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9368,7 +9349,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9975,7 +9956,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9998,7 +9979,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10322,7 +10303,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419531">Der G'wissenswurm</title>
+              <title key="pmb76759">Der G’wissenswurm. Bauernkomödie mit Gesang in drei Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10375,9 +10356,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186417/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186417.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479650/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667fcbc84801253dbd229141</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19200610&amp;seite=1#burgtheater-liebelei</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19200610&amp;seite=1#burgtheater-liebelei-2</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
           <listBibl>
@@ -10400,29 +10385,6 @@
               <persName key="pmb12692">Schnitzler, Heinrich</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb479650" when-iso="1920-06-10">
-          <eventName n="Theateraufführung">Aufführung von Liebelei, 10.6.1920</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479650/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667fcbc84801253dbd229141</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19200610&amp;seite=1#burgtheater-liebelei-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420889">Liebelei</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
@@ -10601,12 +10563,20 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238802/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238802.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479659/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668009f04801253dbd27678d</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19200612&amp;seite=1#burgtheater-der-bauer-als-millionaer</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19200612&amp;seite=1#burgtheater-der-bauer-als-millionaer-das-maedchen-aus-der-feenwelt</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
           <listBibl>
+            <bibl>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
             <bibl>
               <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
@@ -10627,23 +10597,6 @@
                 <geo>48,210333 16,361139</geo>
               </location>
             </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb479659" when-iso="1920-06-12">
-          <eventName n="Theateraufführung">Aufführung von Der Bauer als Millionär Das Mädchen aus der Feenwelt, 12.6.1920</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/479659/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668009f04801253dbd27678d</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19200612&amp;seite=1#burgtheater-der-bauer-als-millionaer-das-maedchen-aus-der-feenwelt</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
               <location>
@@ -10737,7 +10690,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10915,7 +10868,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11591,7 +11544,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419531">Der G'wissenswurm</title>
+              <title key="pmb76759">Der G’wissenswurm. Bauernkomödie mit Gesang in drei Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12153,7 +12106,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12777,7 +12730,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420149">Die Schwestern</title>
+              <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12962,7 +12915,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13248,7 +13201,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420149">Die Schwestern</title>
+              <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14485,7 +14438,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15252,7 +15205,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420924">Maria Magdalene</title>
+              <title key="pmb29953">Maria Magdalena. Ein bürgerliches Trauerspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17882,7 +17835,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18200,7 +18153,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420924">Maria Magdalene</title>
+              <title key="pmb29953">Maria Magdalena. Ein bürgerliches Trauerspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18845,7 +18798,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420149">Die Schwestern</title>
+              <title key="pmb30819">Die Schwestern oder Casanova in Spa. Lustspiel in Versen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19140,7 +19093,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19785,7 +19738,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20247,7 +20200,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

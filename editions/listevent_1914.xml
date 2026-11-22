@@ -27,7 +27,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1968,44 +1968,6 @@
             </place>
           </listPlace>
         </event>
-        <event xml:id="pmb335023" when-iso="1914-01-30">
-          <eventName n="Theaterpremiere">Premiere von Der Kammersänger, Boubouroche, Literatur, 30.1.1914</eventName>
-          <note type="listorg">
-            <listOrg>
-              <org role="veranstaltet von">
-                <orgName key="pmb36247">Burgtheater</orgName>
-              </org>
-            </listOrg>
-          </note>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/335023/</idno>
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335023.html</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19140130&amp;seite=1#burgtheater-der-kammersaenger-boubouroche-literatur</idno>
-          <listBibl>
-            <bibl type="collections" n="24">manually created entity</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb76460">Der Kammersänger. Drei Scenen</title>
-              <note type="relation-type">ist Premiere von</note>
-            </bibl>
-            <bibl>
-              <title key="pmb145754">Boubouroche. Lebensbild in 2 Acten</title>
-              <note type="relation-type">ist Premiere von</note>
-            </bibl>
-            <bibl>
-              <title key="pmb29869">Literatur</title>
-              <note type="relation-type">ist Premiere von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
         <event xml:id="pmb474556" when-iso="1914-01-30">
           <eventName n="Theateraufführung">Aufführung von Die fremde Frau (La femme X), 30.1.1914</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/474556/</idno>
@@ -2016,7 +1978,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419943">Die fremde Frau (La femme X)</title>
+              <title key="pmb419943">Die fremde Frau (La femme X). Drama in einem Vorspiel und drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2058,61 +2020,40 @@
             </place>
           </listPlace>
         </event>
-        <event xml:id="pmb474559" when-iso="1914-01-31">
-          <eventName n="Theateraufführung">Aufführung von Der Kammersänger, 31.1.1914</eventName>
+        <event xml:id="pmb335023" when-iso="1914-01-31">
+          <eventName n="Theaterpremiere">Premiere von Der Kammersänger, Boubouroche, Literatur, 31.1.1914</eventName>
+          <note type="listorg">
+            <listOrg>
+              <org role="veranstaltet von">
+                <orgName key="pmb36247">Burgtheater</orgName>
+              </org>
+            </listOrg>
+          </note>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/335023/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/474562/</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/474559/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b3ed3ced60fbe1f4008</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19140131&amp;seite=1#burgtheater-der-kammersaenger</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419586">Der Kammersänger</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb474562" when-iso="1914-01-31">
-          <eventName n="Theateraufführung">Aufführung von Boubouroche, 31.1.1914</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/474562/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b3fd3ced60fbe1f4379</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19140131&amp;seite=1#burgtheater-boubouroche</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419208">Boubouroche</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb474565" when-iso="1914-01-31">
-          <eventName n="Theateraufführung">Aufführung von Literatur, 31.1.1914</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/474565/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b41d3ced60fbe1f4b80</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/474565/</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335023.html</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19140131&amp;seite=1#burgtheater-der-kammersaenger-boubouroche-literatur</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19140131&amp;seite=1#burgtheater-der-kammersaenger</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19140131&amp;seite=1#burgtheater-boubouroche</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19140131&amp;seite=1#burgtheater-literatur</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b3fd3ced60fbe1f4379</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
           <listBibl>
+            <bibl>
+              <title key="pmb76460">Der Kammersänger. Drei Scenen</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+            <bibl>
+              <title key="pmb145754">Boubouroche. Lebensbild in 2 Acten</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
             <bibl>
               <title key="pmb29869">Literatur</title>
               <note type="relation-type">ist Aufführung von</note>
@@ -2166,7 +2107,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419586">Der Kammersänger</title>
+              <title key="pmb76460">Der Kammersänger. Drei Scenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2189,7 +2130,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419208">Boubouroche</title>
+              <title key="pmb145754">Boubouroche. Lebensbild in 2 Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2368,7 +2309,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419586">Der Kammersänger</title>
+              <title key="pmb76460">Der Kammersänger. Drei Scenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2391,7 +2332,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419208">Boubouroche</title>
+              <title key="pmb145754">Boubouroche. Lebensbild in 2 Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2597,7 +2538,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419586">Der Kammersänger</title>
+              <title key="pmb76460">Der Kammersänger. Drei Scenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2620,7 +2561,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419208">Boubouroche</title>
+              <title key="pmb145754">Boubouroche. Lebensbild in 2 Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2950,7 +2891,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3037,7 +2978,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419586">Der Kammersänger</title>
+              <title key="pmb76460">Der Kammersänger. Drei Scenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3060,7 +3001,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419208">Boubouroche</title>
+              <title key="pmb145754">Boubouroche. Lebensbild in 2 Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3316,7 +3257,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419586">Der Kammersänger</title>
+              <title key="pmb76460">Der Kammersänger. Drei Scenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3339,7 +3280,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419208">Boubouroche</title>
+              <title key="pmb145754">Boubouroche. Lebensbild in 2 Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3941,7 +3882,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419586">Der Kammersänger</title>
+              <title key="pmb76460">Der Kammersänger. Drei Scenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3964,7 +3905,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419208">Boubouroche</title>
+              <title key="pmb145754">Boubouroche. Lebensbild in 2 Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4851,7 +4792,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419586">Der Kammersänger</title>
+              <title key="pmb76460">Der Kammersänger. Drei Scenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4874,7 +4815,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419208">Boubouroche</title>
+              <title key="pmb145754">Boubouroche. Lebensbild in 2 Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5696,7 +5637,7 @@
           </listPlace>
         </event>
         <event xml:id="pmb209727" when-iso="1914-03-13">
-          <eventName n="Theateraufführung">Aufführung von Auferstehung, Vagabunden, 13.3.1914</eventName>
+          <eventName n="Generalprobe">Generalprobe von Auferstehung, Vagabunden, 13.3.1914</eventName>
           <note type="listorg">
             <listOrg>
               <org role="veranstaltet von">
@@ -5713,11 +5654,11 @@
           <listBibl>
             <bibl>
               <title key="pmb76503">Auferstehung. Komödie in einem Akt</title>
-              <note type="relation-type">ist Aufführung von</note>
+              <note type="relation-type">ist Generalprobe von</note>
             </bibl>
             <bibl>
               <title key="pmb80081">Vagabunden. Lustspiel in drei Akten</title>
-              <note type="relation-type">ist Aufführung von</note>
+              <note type="relation-type">ist Generalprobe von</note>
             </bibl>
           </listBibl>
           <listPerson>
@@ -5971,7 +5912,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419586">Der Kammersänger</title>
+              <title key="pmb76460">Der Kammersänger. Drei Scenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5994,7 +5935,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419208">Boubouroche</title>
+              <title key="pmb145754">Boubouroche. Lebensbild in 2 Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6766,7 +6707,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7856,7 +7797,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7966,7 +7907,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419586">Der Kammersänger</title>
+              <title key="pmb76460">Der Kammersänger. Drei Scenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7989,7 +7930,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419208">Boubouroche</title>
+              <title key="pmb145754">Boubouroche. Lebensbild in 2 Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8646,7 +8587,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9930,7 +9871,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10138,7 +10079,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10427,7 +10368,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419586">Der Kammersänger</title>
+              <title key="pmb76460">Der Kammersänger. Drei Scenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10450,7 +10391,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419208">Boubouroche</title>
+              <title key="pmb145754">Boubouroche. Lebensbild in 2 Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10739,7 +10680,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11754,7 +11695,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12231,7 +12172,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13151,7 +13092,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13395,7 +13336,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14353,7 +14294,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419586">Der Kammersänger</title>
+              <title key="pmb76460">Der Kammersänger. Drei Scenen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

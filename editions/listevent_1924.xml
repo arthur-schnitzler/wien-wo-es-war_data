@@ -719,7 +719,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2294,7 +2294,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2692,7 +2692,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3954,7 +3954,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3977,7 +3977,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4219,9 +4219,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186075/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186075.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/484549/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6673e015cd334071f7a0c7bd</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19240206&amp;seite=1#burgtheater-der-junge-medardus</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19240206&amp;seite=1#burgtheater-der-junge-medardus-2</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
           <listBibl>
@@ -4277,29 +4281,6 @@
               <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
               <location>
                 <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb484549" when-iso="1924-02-06">
-          <eventName n="Theateraufführung">Aufführung von Der junge Medardus, 6.2.1924</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/484549/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6673e015cd334071f7a0c7bd</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19240206&amp;seite=1#burgtheater-der-junge-medardus-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
               </location>
             </place>
           </listPlace>
@@ -4592,7 +4573,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5534,7 +5515,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5849,7 +5830,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7649,7 +7630,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8286,7 +8267,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9477,7 +9458,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10081,7 +10062,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11458,13 +11439,16 @@
           <eventName n="Theateraufführung">Aufführung von Mittagswende, 11.4.1924</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/256539/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb256539.html</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668c26fc4801253dbd1a4182</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/484939/</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb79272">Mittagswende</title>
+              <title key="pmb420966">Mittagswende</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11473,28 +11457,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb484939" when-iso="1924-04-11">
-          <eventName n="Theateraufführung">Aufführung von Mittagswende, 11.4.1924</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/484939/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668c26fc4801253dbd1a4182</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420966">Mittagswende</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
@@ -11683,7 +11645,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13310,9 +13272,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210286/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210286.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/485059/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6676c96fcd334071f7dce1ec</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19240427&amp;seite=1#burgtheater-alt-heidelberg</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19240427&amp;seite=1#burgtheater-alt-heidelberg-2</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -13377,29 +13343,6 @@
               <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
               <location>
                 <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb485059" when-iso="1924-04-27">
-          <eventName n="Theateraufführung">Aufführung von Alt-Heidelberg, 27.4.1924</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/485059/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6676c96fcd334071f7dce1ec</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19240427&amp;seite=1#burgtheater-alt-heidelberg-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
               </location>
             </place>
           </listPlace>
@@ -13716,7 +13659,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14001,7 +13944,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14317,7 +14260,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14369,7 +14312,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16320,7 +16263,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16885,7 +16828,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17069,7 +17012,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17256,7 +17199,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17485,30 +17428,10 @@
         </event>
         <event xml:id="pmb485293" when-iso="1924-06-07">
           <eventName n="Theateraufführung">Aufführung von Das Abenteuer in China, 7.6.1924</eventName>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66770397cd334071f7e1e020</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/485296/</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/485293/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668d76196af2b0e29fdab42a</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419267">Das Abenteuer in China</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb485296" when-iso="1924-06-07">
-          <eventName n="Theateraufführung">Aufführung von Das Abenteuer in China, 7.6.1924</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/485296/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66770397cd334071f7e1e020</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19240607&amp;seite=1#burgtheater-das-abenteuer-in-china</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -17956,7 +17879,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18685,7 +18608,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18781,7 +18704,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18981,7 +18904,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19200,7 +19123,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19304,7 +19227,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19481,7 +19404,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19618,7 +19541,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19692,7 +19615,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419531">Der G'wissenswurm</title>
+              <title key="pmb76759">Der G’wissenswurm. Bauernkomödie mit Gesang in drei Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19811,7 +19734,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19862,7 +19785,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19884,7 +19807,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19906,7 +19829,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19928,7 +19851,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19972,7 +19895,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21123,7 +21046,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21315,7 +21238,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21690,10 +21613,17 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210301/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210301.html</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668e9c896af2b0e29ff20761</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/485611/</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
+            <bibl>
+              <title key="pmb30269">Die Kinder. Komödie</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
             <bibl>
               <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
@@ -21745,7 +21675,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21754,28 +21684,6 @@
               <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
               <location>
                 <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb485611" when-iso="1924-09-08">
-          <eventName n="Theateraufführung">Aufführung von Die Kinder, 8.9.1924</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/485611/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668e9c896af2b0e29ff20761</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420007">Die Kinder</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb44649">Schlosstheater Schönbrunn</placeName>
-              <location>
-                <geo>48,186667 16,3125</geo>
               </location>
             </place>
           </listPlace>
@@ -22136,7 +22044,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22722,7 +22630,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23366,7 +23274,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23388,7 +23296,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23490,7 +23398,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25189,7 +25097,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -26341,7 +26249,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -26363,7 +26271,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -26731,7 +26639,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -26990,7 +26898,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -27153,7 +27061,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -27204,7 +27112,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -27410,7 +27318,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -27537,7 +27445,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -27803,7 +27711,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -28124,7 +28032,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -28146,7 +28054,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -28225,7 +28133,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -28871,7 +28779,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -29402,7 +29310,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -29602,7 +29510,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -29788,7 +29696,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -30470,7 +30378,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -31445,7 +31353,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -31662,7 +31570,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -34097,7 +34005,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -35537,7 +35445,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -36347,7 +36255,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

@@ -1223,6 +1223,7 @@
           <placeName type="alternative-name">2. Wiener Gemeindebezirk</placeName>
           <placeName type="legacy-name">36. Internationale Musik- und Theaterausstellung, Wien 1892</placeName>
           <placeName type="legacy-name-merge">Leopoldstadt</placeName>
+          <placeName type="legacy-name-merge">Leopoldstadt (heute Wien)</placeName>
           <desc type="entity_type">A.ADM3</desc>
           <desc type="entity_type_id">1124</desc>
           <location type="coords">
@@ -1250,6 +1251,7 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb52.html</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb52.html</idno>
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.14</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/406492/</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb52.html</idno>
           <listBibl>
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
@@ -11209,6 +11211,21 @@
             <geo>48,208333 16,373056</geo>
           </location>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407019/</idno>
+          <listBibl>
+            <bibl type="collections" n="28">Brahms Online</bibl>
+          </listBibl>
+        </place>
+        <place xml:id="pmb407031">
+          <placeName>Saal der Wiener Ressource</placeName>
+          <placeName type="legacy-name-merge">Saal der Wiener Ressource</placeName>
+          <desc type="entity_type">Veranstaltungsgebäude (K.VSB)</desc>
+          <desc type="entity_type_id">5</desc>
+          <location type="located_in_place">
+            <placeName key="pmb50">Wien</placeName>
+            <geo>48,208333 16,373056</geo>
+          </location>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407114/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407031/</idno>
           <listBibl>
             <bibl type="collections" n="28">Brahms Online</bibl>
           </listBibl>

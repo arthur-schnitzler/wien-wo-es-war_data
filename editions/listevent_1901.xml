@@ -197,7 +197,7 @@
           </listBibl>
           <listPerson>
             <person role="hat mitwirkend">
-              <persName key="pmb7159">Fitzner, Rudolf</persName>
+              <persName key="pmb7159">Fitzner, Rudolph</persName>
             </person>
             <person role="hat mitwirkend">
               <persName key="pmb406987">Zert, Otto</persName>
@@ -847,7 +847,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1452,7 +1452,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420537">Faust</title>
+              <title key="pmb30247">Faust. Eine Tragödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2575,31 +2575,11 @@
         </event>
         <event xml:id="pmb462123" when-iso="1901-01-30">
           <eventName n="Theateraufführung">Aufführung von Ein Glas Wasser oder Ursachen und Wirkungen, 30.1.1901</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462126/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672c928cd334071f78a2b43</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462123/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672c90bcd334071f78a2812</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19010130&amp;seite=1#burgtheater-ein-glas-wasser-oder-ursachen-und-wirkungen</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb164848">Das Glas Wasser</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb462126" when-iso="1901-01-30">
-          <eventName n="Theateraufführung">Aufführung von Ein Glas Wasser oder Ursachen und Wirkungen, 30.1.1901</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462126/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672c928cd334071f78a2b43</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19010130&amp;seite=1#burgtheater-ein-glas-wasser-oder-ursachen-und-wirkungen-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -4596,24 +4576,6 @@
           </listPlace>
         </event>
         <event xml:id="pmb35445" when-iso="1901-02-22">
-          <eventName n="Theaterpremiere">Premiere von Episode, 22.2.1901</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35445/</idno>
-          <listBibl>
-            <bibl>
-              <title key="pmb31357">Episode</title>
-              <note type="relation-type">ist Premiere von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb40">Theater in der Josefstadt</placeName>
-              <location>
-                <geo>48,209583 16,351111</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb209187" when-iso="1901-02-22">
           <eventName n="Theateraufführung">Aufführung von Episode, Zuhause. Drama in einem Akt, Das Streichholzmädchen, Der Herr Kommissär, 22.2.1901</eventName>
           <note type="listorg">
             <listOrg>
@@ -4622,10 +4584,12 @@
               </org>
             </listOrg>
           </note>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35445/</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209187/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209187.html</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -5031,7 +4995,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5138,7 +5102,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5349,7 +5313,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5476,7 +5440,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5607,7 +5571,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5721,7 +5685,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5958,7 +5922,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6085,7 +6049,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6293,7 +6257,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6637,7 +6601,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6890,7 +6854,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7408,7 +7372,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7711,7 +7675,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420537">Faust</title>
+              <title key="pmb30247">Faust. Eine Tragödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7763,7 +7727,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb76615">Der Probepfeil</title>
+              <title key="pmb76615">Der Probepfeil. Lustspiel in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8282,7 +8246,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8386,7 +8350,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8631,7 +8595,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9317,7 +9281,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9829,7 +9793,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9904,7 +9868,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9956,7 +9920,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10213,7 +10177,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10472,9 +10436,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209197/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209197.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462447/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672c154cd334071f7897743</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19010512&amp;seite=1#burgtheater-richard-der-zweite</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19010512&amp;seite=1#burgtheater-koenig-richard-ii</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -10487,29 +10455,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb462447" when-iso="1901-05-12">
-          <eventName n="Theateraufführung">Aufführung von König Richard II., 12.5.1901</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462447/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672c154cd334071f7897743</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19010512&amp;seite=1#burgtheater-koenig-richard-ii</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420865">König Richard II.</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
@@ -10610,7 +10555,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10714,7 +10659,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11411,7 +11356,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11463,7 +11408,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11908,7 +11853,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12227,7 +12172,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420924">Maria Magdalene</title>
+              <title key="pmb29953">Maria Magdalena. Ein bürgerliches Trauerspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12458,7 +12403,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12527,7 +12472,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12596,7 +12541,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420924">Maria Magdalene</title>
+              <title key="pmb29953">Maria Magdalena. Ein bürgerliches Trauerspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13881,7 +13826,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420924">Maria Magdalene</title>
+              <title key="pmb29953">Maria Magdalena. Ein bürgerliches Trauerspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14328,7 +14273,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14663,7 +14608,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14767,7 +14712,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15466,7 +15411,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16503,13 +16448,17 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209204/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209204.html</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672dfc8cd334071f78c4476</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462714/</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19011015&amp;seite=1#burgtheater-die-rothe-robe</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19011015&amp;seite=1#burgtheater-die-rote-robe</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb79256">Die rothe Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16518,29 +16467,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb462714" when-iso="1901-10-15">
-          <eventName n="Theateraufführung">Aufführung von Die rote Robe, 15.10.1901</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462714/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672dfc8cd334071f78c4476</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19011015&amp;seite=1#burgtheater-die-rote-robe</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420123">Die rote Robe</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
@@ -17355,7 +17281,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17407,7 +17333,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17534,7 +17460,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17853,7 +17779,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17934,7 +17860,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420924">Maria Magdalene</title>
+              <title key="pmb29953">Maria Magdalena. Ein bürgerliches Trauerspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18549,7 +18475,10 @@
           <eventName n="Theateraufführung">Aufführung von Ein Glas Wasser oder Ursachen und Wirkungen, 10.11.1901</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462798/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672ec6ecd334071f78d6561</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462804/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672ee25cd334071f78d8959</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19011110&amp;seite=1#burgtheater-ein-glas-wasser-oder-ursachen-und-wirkungen</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19011110&amp;seite=1#burgtheater-ein-glas-wasser-oder-ursachen-und-wirkungen-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18570,54 +18499,11 @@
         </event>
         <event xml:id="pmb462801" when-iso="1901-11-10">
           <eventName n="Theateraufführung">Aufführung von Wilhelm Tell, 10.11.1901</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462807/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672ee47cd334071f78d8c26</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462801/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672ed0ccd334071f78d71df</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19011110&amp;seite=1#burgtheater-wilhelm-tell</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb77042">Wilhelm Tell</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb462804" when-iso="1901-11-10">
-          <eventName n="Theateraufführung">Aufführung von Ein Glas Wasser oder Ursachen und Wirkungen, 10.11.1901</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462804/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672ee25cd334071f78d8959</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19011110&amp;seite=1#burgtheater-ein-glas-wasser-oder-ursachen-und-wirkungen-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb164848">Das Glas Wasser</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb462807" when-iso="1901-11-10">
-          <eventName n="Theateraufführung">Aufführung von Wilhelm Tell, 10.11.1901</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462807/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672ee47cd334071f78d8c26</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19011110&amp;seite=1#burgtheater-wilhelm-tell-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -19542,7 +19428,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419566">Der Herr Ministerialdirektor</title>
+              <title key="pmb80176">Der Herr Ministerialdirector. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21328,7 +21214,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22371,31 +22257,11 @@
         </event>
         <event xml:id="pmb462939" when-iso="1901-12-20">
           <eventName n="Theateraufführung">Aufführung von Nacht und Morgen, 20.12.1901</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462942/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672f501cd334071f78e2159</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462939/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672f4cdcd334071f78e1c0b</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19011220&amp;seite=1#burgtheater-nacht-und-morgen</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb421000">Nacht und Morgen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb462942" when-iso="1901-12-20">
-          <eventName n="Theateraufführung">Aufführung von Nacht und Morgen, 20.12.1901</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462942/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672f501cd334071f78e2159</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19011220&amp;seite=1#burgtheater-nacht-und-morgen-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>

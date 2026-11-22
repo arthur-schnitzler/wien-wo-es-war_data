@@ -552,7 +552,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -916,7 +916,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -1063,7 +1063,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2902,7 +2902,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb89749">Paracelsus</title>
+              <title key="pmb30403">Paracelsus. Versspiel in einem Akt</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3260,7 +3260,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb89749">Paracelsus</title>
+              <title key="pmb30403">Paracelsus. Versspiel in einem Akt</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3602,7 +3602,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3625,7 +3625,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb89749">Paracelsus</title>
+              <title key="pmb30403">Paracelsus. Versspiel in einem Akt</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3921,7 +3921,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb89749">Paracelsus</title>
+              <title key="pmb30403">Paracelsus. Versspiel in einem Akt</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4041,7 +4041,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb89749">Paracelsus</title>
+              <title key="pmb30403">Paracelsus. Versspiel in einem Akt</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4760,7 +4760,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5925,7 +5925,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb89749">Paracelsus</title>
+              <title key="pmb30403">Paracelsus. Versspiel in einem Akt</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8561,9 +8561,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238015/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238015.html</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/496763/</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19300406&amp;seite=1#burgtheater-der-kampf-vivat-academia-herr-doktor-haben-sie-zu-essen</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669540576af2b0e29f79bdaf</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19300406&amp;seite=1#burgtheater-herr-doktor-haben-sie-zu-essen</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19300406&amp;seite=1#burgtheater-der-kampf-vivat-academia-herr-doktor-haben-sie-zu-essen</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -9107,7 +9107,7 @@
           </listPlace>
         </event>
         <event xml:id="pmb335263" when-iso="1930-04-12">
-          <eventName n="Theaterpremiere">Premiere von Das Lamm des Armen. Tragikomödie in drei Akten</eventName>
+          <eventName n="Theaterpremiere">Premiere von Das Lamm des Armen, 12.4.1930</eventName>
           <note type="listorg">
             <listOrg>
               <org role="veranstaltet von">
@@ -9116,15 +9116,19 @@
             </listOrg>
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/335263/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/496793/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61bd5d3ced60fbe2177c8</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335263.html</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19300412&amp;seite=1#burgtheater-das-lamm-des-armen-tragikomoedie-in-drei-akten</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19300412&amp;seite=1#burgtheater-das-lamm-des-armen</idno>
           <listBibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
           <listBibl>
             <bibl>
               <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
-              <note type="relation-type">ist Premiere von</note>
+              <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
           <listPlace>
@@ -9154,29 +9158,6 @@
               <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
               <location>
                 <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb496793" when-iso="1930-04-12">
-          <eventName n="Theateraufführung">Aufführung von Das Lamm des Armen, 12.4.1930</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/496793/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61bd5d3ced60fbe2177c8</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19300412&amp;seite=1#burgtheater-das-lamm-des-armen</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
               </location>
             </place>
           </listPlace>
@@ -9574,7 +9555,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9597,7 +9578,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
+              <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9810,7 +9791,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
+              <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10017,7 +9998,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
+              <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10267,10 +10248,14 @@
           <eventName n="Theateraufführung">Aufführung von Das Lamm des Armen, 23.4.1930</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238063/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238063.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/496871/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669593e86af2b0e29f80889d</idno>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb238063.html</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19300423&amp;seite=1#burgtheater-das-lamm-des-armen</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19300423&amp;seite=1#burgtheater-das-lamm-des-armen-2</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
           <listBibl>
@@ -10311,29 +10296,6 @@
               <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
               <location>
                 <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb496871" when-iso="1930-04-23">
-          <eventName n="Theateraufführung">Aufführung von Das Lamm des Armen, 23.4.1930</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/496871/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669593e86af2b0e29f80889d</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19300423&amp;seite=1#burgtheater-das-lamm-des-armen-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
               </location>
             </place>
           </listPlace>
@@ -10586,7 +10548,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
+              <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10935,7 +10897,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
+              <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11239,7 +11201,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
+              <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11343,7 +11305,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb89749">Paracelsus</title>
+              <title key="pmb30403">Paracelsus. Versspiel in einem Akt</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11680,7 +11642,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
+              <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11925,7 +11887,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
+              <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12035,7 +11997,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb89749">Paracelsus</title>
+              <title key="pmb30403">Paracelsus. Versspiel in einem Akt</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12155,7 +12117,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb89749">Paracelsus</title>
+              <title key="pmb30403">Paracelsus. Versspiel in einem Akt</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12472,7 +12434,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
+              <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12867,7 +12829,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb89749">Paracelsus</title>
+              <title key="pmb30403">Paracelsus. Versspiel in einem Akt</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12935,7 +12897,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
+              <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13172,9 +13134,13 @@
           <eventName n="Theateraufführung">Aufführung von König Ödipus und Oedipus und die Sphinx, 22.5.1930</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/239655/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb239655.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/497057/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66951b356af2b0e29f7672d4</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19300522&amp;seite=1#burgtheater-koenig-oedipus-und-oedipus-und-die-sphinx</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19300522&amp;seite=1#burgtheater-oedipus</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
             <bibl type="collections" n="24">manually created entity</bibl>
           </listBibl>
           <listBibl>
@@ -13223,29 +13189,6 @@
             </place>
           </listPlace>
         </event>
-        <event xml:id="pmb497057" when-iso="1930-05-22">
-          <eventName n="Theateraufführung">Aufführung von Oedipus, 22.5.1930</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/497057/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66951b356af2b0e29f7672d4</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19300522&amp;seite=1#burgtheater-oedipus</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb276754">Oedipus</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
         <event xml:id="pmb602534" when-iso="1930-05-22">
           <eventName n="Opernaufführung">Aufführung von Eine Nacht in Venedig, 22.5.1930</eventName>
           <note type="listorg">
@@ -13285,7 +13228,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
+              <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13551,7 +13494,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
+              <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13742,7 +13685,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
+              <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13994,7 +13937,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
+              <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14216,7 +14159,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419359">Das Lamm des Armen</title>
+              <title key="pmb76766">Das Lamm des Armen. Tragikomödie in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16340,7 +16283,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16503,7 +16446,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16614,7 +16557,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18383,30 +18326,10 @@
         </event>
         <event xml:id="pmb497288" when-iso="1930-08-29">
           <eventName n="Theateraufführung">Aufführung von Wann kommst Du wieder?, 29.8.1930</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/497288/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66952f066af2b0e29f7836ce</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb421322">Wann kommst Du wieder?</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb497291" when-iso="1930-08-29">
-          <eventName n="Theateraufführung">Aufführung von Wann kommst Du wieder?, 29.8.1930</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/497291/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66952fa36af2b0e29f7845ac</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/497288/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66952f066af2b0e29f7836ce</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -18649,7 +18572,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18871,7 +18794,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18997,7 +18920,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19501,7 +19424,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20369,7 +20292,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21201,7 +21124,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21616,7 +21539,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21721,7 +21644,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22283,7 +22206,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22334,7 +22257,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22892,7 +22815,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23607,7 +23530,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23681,7 +23604,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24372,7 +24295,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24451,7 +24374,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25133,7 +25056,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25525,7 +25448,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -26887,6 +26810,8 @@
           <eventName n="Theateraufführung">Aufführung von Diplomaten spielen Theater, 30.11.1930</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/497882/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66954fce6af2b0e29f7b13f9</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/497888/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669550196af2b0e29f7b1b41</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -26915,28 +26840,6 @@
           <listBibl>
             <bibl>
               <title key="pmb420899">Luftwechsel</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb497888" when-iso="1930-11-30">
-          <eventName n="Theateraufführung">Aufführung von Diplomaten spielen Theater, 30.11.1930</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/497888/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669550196af2b0e29f7b1b41</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420245">Diplomaten spielen Theater</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -27361,7 +27264,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -28433,32 +28336,12 @@
         </event>
         <event xml:id="pmb497987" when-iso="1930-12-16">
           <eventName n="Theateraufführung">Aufführung von Maß für Maß, 16.12.1930</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/497990/</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/497987/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669646bc6af2b0e29f8ebae5</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19301216&amp;seite=1#burgtheater-mass-fuer-mass</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb30595">Maß für Maß. Schauspiel in fünf Akten</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb497990" when-iso="1930-12-16">
-          <eventName n="Theateraufführung">Aufführung von Maß für Maß, 16.12.1930</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/497990/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669646e76af2b0e29f8ebef3</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19301216&amp;seite=1#burgtheater-mass-fuer-mass-2</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19301216&amp;seite=1#burgtheater-mass-fuer-mass</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669646e76af2b0e29f8ebef3</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -28850,30 +28733,10 @@
         </event>
         <event xml:id="pmb498011" when-iso="1930-12-20">
           <eventName n="Theateraufführung">Aufführung von Die kleine Katharina, 20.12.1930</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/498011/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6695519a6af2b0e29f7b44a9</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb81251">Die kleine Katharina</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb498014" when-iso="1930-12-20">
-          <eventName n="Theateraufführung">Aufführung von Die kleine Katharina, 20.12.1930</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/498014/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669551f46af2b0e29f7b4d96</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/498011/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6695519a6af2b0e29f7b44a9</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -29324,7 +29187,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

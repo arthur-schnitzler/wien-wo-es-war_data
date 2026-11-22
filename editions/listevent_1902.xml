@@ -872,7 +872,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2536,7 +2536,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2862,7 +2862,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -3227,32 +3227,12 @@
         </event>
         <event xml:id="pmb463083" when-iso="1902-02-06">
           <eventName n="Theateraufführung">Aufführung von Troilus und Cressida, 6.2.1902</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463083/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672fdaecd334071f78ee037</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020206&amp;seite=1#burgtheater-troilus-und-cressida</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb185814">Troilus und Cressida. Drama in fünf Akten</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb463086" when-iso="1902-02-06">
-          <eventName n="Theateraufführung">Aufführung von Troilus und Cressida, 6.2.1902</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463086/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672fe53cd334071f78eedcf</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463083/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672fdaecd334071f78ee037</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020206&amp;seite=1#burgtheater-troilus-und-cressida-2</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020206&amp;seite=1#burgtheater-troilus-und-cressida</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3550,9 +3530,12 @@
         </event>
         <event xml:id="pmb463095" when-iso="1902-02-09">
           <eventName n="Theateraufführung">Aufführung von Die Widerspänstige (= Der Widerspenstigen Zähmung), 9.2.1902</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463101/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672ff95cd334071f78f085d</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463095/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672fe9fcd334071f78ef44b</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020209&amp;seite=1#burgtheater-die-widerspaenstige-der-widerspenstigen-zaehmung</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020209&amp;seite=1#burgtheater-die-widerspaenstige-der-widerspenstigen-zaehmung-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -3582,29 +3565,6 @@
           <listBibl>
             <bibl>
               <title key="pmb421000">Nacht und Morgen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb463101" when-iso="1902-02-09">
-          <eventName n="Theateraufführung">Aufführung von Die Widerspänstige (= Der Widerspenstigen Zähmung), 9.2.1902</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463101/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672ff95cd334071f78f085d</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020209&amp;seite=1#burgtheater-die-widerspaenstige-der-widerspenstigen-zaehmung-2</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420221">Die Widerspänstige</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4921,7 +4881,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -6391,7 +6351,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -7585,32 +7545,12 @@
         </event>
         <event xml:id="pmb463221" when-iso="1902-03-31">
           <eventName n="Theateraufführung">Aufführung von Ein Wintermärchen, 31.3.1902</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463224/</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463221/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66730906cd334071f78fd6be</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020331&amp;seite=1#burgtheater-ein-wintermaerchen</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb169102">Ein Wintermärchen. Schauspiel in vier Aufzügen</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb463224" when-iso="1902-03-31">
-          <eventName n="Theateraufführung">Aufführung von Ein Wintermärchen, 31.3.1902</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463224/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66730a52cd334071f78ff2a8</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020331&amp;seite=1#burgtheater-ein-wintermaerchen-2</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020331&amp;seite=1#burgtheater-ein-wintermaerchen</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8076,7 +8016,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420537">Faust</title>
+              <title key="pmb30247">Faust. Eine Tragödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -8423,37 +8363,13 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209252/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209252.html</idno>
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209252.html</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020410&amp;seite=1#burgtheater-der-erbfoerster</idno>
-          <listBibl>
-            <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb80939">Der Erbförster</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPerson>
-            <person role="hat teilnehmend">
-              <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-          </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb463254" when-iso="1902-04-10">
-          <eventName n="Theateraufführung">Aufführung von Der Erbförster, 10.4.1902</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463254/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672f616cd334071f78e3a8a</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209252.html</idno>
+          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020410&amp;seite=1#burgtheater-der-erbfoerster</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020410&amp;seite=1#burgtheater-der-erbfoerster-2</idno>
           <listBibl>
+            <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
@@ -8462,6 +8378,11 @@
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
+          <listPerson>
+            <person role="hat teilnehmend">
+              <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+          </listPerson>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
@@ -8622,7 +8543,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -9514,7 +9435,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419566">Der Herr Ministerialdirektor</title>
+              <title key="pmb80176">Der Herr Ministerialdirector. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10813,7 +10734,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420865">König Richard II.</title>
+              <title key="pmb30951">König Richard der Zweite. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11128,31 +11049,11 @@
         </event>
         <event xml:id="pmb463353" when-iso="1902-05-13">
           <eventName n="Theateraufführung">Aufführung von Der Richter von Zalamea, 13.5.1902</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463356/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66730c25cd334071f7901bd9</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463353/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66730bc2cd334071f790136a</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020513&amp;seite=1#burgtheater-der-richter-von-zalamea</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb419695">Der Richter von Zalamea</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb463356" when-iso="1902-05-13">
-          <eventName n="Theateraufführung">Aufführung von Der Richter von Zalamea, 13.5.1902</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463356/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66730c25cd334071f7901bd9</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020513&amp;seite=1#burgtheater-der-richter-von-zalamea-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -11387,7 +11288,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -11548,31 +11449,11 @@
         </event>
         <event xml:id="pmb463365" when-iso="1902-05-19">
           <eventName n="Theateraufführung">Aufführung von Sonnwendtag, 19.5.1902</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463368/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66730e95cd334071f7905250</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463365/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66730db5cd334071f7903ed5</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020519&amp;seite=1#burgtheater-sonnwendtag</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb61285">Der Sonnwendtag. Drama in fünf Akten</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb463368" when-iso="1902-05-19">
-          <eventName n="Theateraufführung">Aufführung von Sonnwendtag, 19.5.1902</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463368/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66730e95cd334071f7905250</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020519&amp;seite=1#burgtheater-sonnwendtag-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -12468,31 +12349,11 @@
         </event>
         <event xml:id="pmb463407" when-iso="1902-06-03">
           <eventName n="Theateraufführung">Aufführung von Sonnwendtag, 3.6.1902</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463410/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66731071cd334071f7908180</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463407/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66730ff1cd334071f790756a</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020603&amp;seite=1#burgtheater-sonnwendtag</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb61285">Der Sonnwendtag. Drama in fünf Akten</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb463410" when-iso="1902-06-03">
-          <eventName n="Theateraufführung">Aufführung von Sonnwendtag, 3.6.1902</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463410/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66731071cd334071f7908180</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020603&amp;seite=1#burgtheater-sonnwendtag-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -13061,7 +12922,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420867">König Richard III.</title>
+              <title key="pmb76823">König Richard der Dritte. In fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13948,7 +13809,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420924">Maria Magdalene</title>
+              <title key="pmb29953">Maria Magdalena. Ein bürgerliches Trauerspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14879,7 +14740,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419613">Der Kuss</title>
+              <title key="pmb163572">Der Kuß</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15276,7 +15137,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419566">Der Herr Ministerialdirektor</title>
+              <title key="pmb80176">Der Herr Ministerialdirector. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15320,31 +15181,11 @@
         </event>
         <event xml:id="pmb463512" when-iso="1902-09-11">
           <eventName n="Theateraufführung">Aufführung von Die Fee Caprice, 11.9.1902</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463515/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66731933cd334071f791456e</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463512/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667318c6cd334071f7913c5c</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020911&amp;seite=1#burgtheater-die-fee-caprice</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb163330">Fee Caprice</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb463515" when-iso="1902-09-11">
-          <eventName n="Theateraufführung">Aufführung von Die Fee Caprice, 11.9.1902</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/463515/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66731933cd334071f791456e</idno>
           <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19020911&amp;seite=1#burgtheater-die-fee-caprice-2</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -16221,7 +16062,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -18468,7 +18309,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19906,7 +19747,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420889">Liebelei</title>
+              <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20246,7 +20087,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420924">Maria Magdalene</title>
+              <title key="pmb29953">Maria Magdalena. Ein bürgerliches Trauerspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20561,7 +20402,7 @@
           <note type="listorg">
             <listOrg>
               <org role="veranstaltet von">
-                <orgName key="pmb195426">Böhmisches Quartett</orgName>
+                <orgName key="pmb195426">Böhmisches Streichquartett</orgName>
               </org>
             </listOrg>
           </note>
@@ -21962,7 +21803,7 @@
           <note type="listorg">
             <listOrg>
               <org role="veranstaltet von">
-                <orgName key="pmb195426">Böhmisches Quartett</orgName>
+                <orgName key="pmb195426">Böhmisches Streichquartett</orgName>
               </org>
             </listOrg>
           </note>
@@ -22044,7 +21885,7 @@
               <persName key="pmb27633">d’Albert, Eugen</persName>
             </person>
             <person role="hat mitwirkend">
-              <persName key="pmb97068">Hoffmann, Karl</persName>
+              <persName key="pmb97068">Hoffmann, Karel</persName>
             </person>
             <person role="hat mitwirkend">
               <persName key="pmb12335">Nedbal, Oskar</persName>
@@ -22261,7 +22102,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420073">Die Neuvermählten (Björnson)</title>
+              <title key="pmb78085">Die Neuvermählten. Schauspiel in zwei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22284,7 +22125,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420661">Hannele</title>
+              <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23839,7 +23680,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420123">Die rote Robe</title>
+              <title key="pmb79256">Die rothe Robe. Drama in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24047,7 +23888,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419471">Der Bibliothekar</title>
+              <title key="pmb195634">Der Bibliothekar. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>

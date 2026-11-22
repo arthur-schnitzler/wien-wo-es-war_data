@@ -48,7 +48,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -63,30 +63,10 @@
         </event>
         <event xml:id="pmb490465" when-iso="1927-01-01">
           <eventName n="Theateraufführung">Aufführung von Spiel im Schloß, 1.1.1927</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490465/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fb1316af2b0e29f08062d</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb77987">Spiel im Schloß</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb490468" when-iso="1927-01-01">
-          <eventName n="Theateraufführung">Aufführung von Spiel im Schloß, 1.1.1927</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490468/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fb50f6af2b0e29f086694</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490465/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fb1316af2b0e29f08062d</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -136,7 +116,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -2044,30 +2024,10 @@
         </event>
         <event xml:id="pmb490606" when-iso="1927-01-22">
           <eventName n="Theateraufführung">Aufführung von Spiel im Schloß, 22.1.1927</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490606/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fb6186af2b0e29f08846e</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb77987">Spiel im Schloß</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb490609" when-iso="1927-01-22">
-          <eventName n="Theateraufführung">Aufführung von Spiel im Schloß, 22.1.1927</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490609/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fb6676af2b0e29f088c54</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490606/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fb6186af2b0e29f08846e</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -4201,7 +4161,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4298,7 +4258,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4372,7 +4332,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -4624,7 +4584,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5098,7 +5058,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420180">Die Stützen der Gesellschaft</title>
+              <title key="pmb195360">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5547,6 +5507,8 @@
         </event>
         <event xml:id="pmb490831" when-iso="1927-02-27">
           <eventName n="Theateraufführung">Aufführung von Das grobe Hemd, 27.2.1927</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490837/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fbc536af2b0e29f091f3f</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490831/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fbb4d6af2b0e29f090882</idno>
           <listBibl>
@@ -5577,28 +5539,6 @@
           <listBibl>
             <bibl>
               <title key="pmb420993">Mädel von heute</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb490837" when-iso="1927-02-27">
-          <eventName n="Theateraufführung">Aufführung von Das grobe Hemd, 27.2.1927</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490837/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fbc536af2b0e29f091f3f</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb76982">Das grobe Hemd. Volksstück in vier Acten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -5961,30 +5901,10 @@
         </event>
         <event xml:id="pmb490855" when-iso="1927-03-02">
           <eventName n="Theateraufführung">Aufführung von Spiel im Schloß, 2.3.1927</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490855/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fbc7f6af2b0e29f0923ec</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb77987">Spiel im Schloß</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb490858" when-iso="1927-03-02">
-          <eventName n="Theateraufführung">Aufführung von Spiel im Schloß, 2.3.1927</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490858/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fbd406af2b0e29f093606</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490855/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fbc7f6af2b0e29f0923ec</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -7312,30 +7232,10 @@
         </event>
         <event xml:id="pmb490933" when-iso="1927-03-16">
           <eventName n="Theateraufführung">Aufführung von Marika, 16.3.1927</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490933/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fbf1f6af2b0e29f096234</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420934">Marika</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb490936" when-iso="1927-03-16">
-          <eventName n="Theateraufführung">Aufführung von Marika, 16.3.1927</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490936/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fc1406af2b0e29f098ef9</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490933/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fbf1f6af2b0e29f096234</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -8117,30 +8017,10 @@
         </event>
         <event xml:id="pmb490978" when-iso="1927-03-23">
           <eventName n="Theateraufführung">Aufführung von Der Querulant, 23.3.1927</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490978/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fc18d6af2b0e29f099576</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb32043">Der Querulant. Komödie in vier Akten</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb490981" when-iso="1927-03-23">
-          <eventName n="Theateraufführung">Aufführung von Der Querulant, 23.3.1927</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490981/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fd0ba6af2b0e29f0adbe9</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/490978/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fc18d6af2b0e29f099576</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -10050,7 +9930,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10674,7 +10554,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -10763,30 +10643,10 @@
         </event>
         <event xml:id="pmb491156" when-iso="1927-04-18">
           <eventName n="Theateraufführung">Aufführung von Spiel im Schloß, 18.4.1927</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/491156/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fd5ee6af2b0e29f0b504f</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb77987">Spiel im Schloß</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb491159" when-iso="1927-04-18">
-          <eventName n="Theateraufführung">Aufführung von Spiel im Schloß, 18.4.1927</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/491159/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fe0226af2b0e29f0c2a6d</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/491156/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fd5ee6af2b0e29f0b504f</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -12034,7 +11894,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421330">Weiberfeinde</title>
+              <title key="pmb80883">Weiberfeinde. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12338,7 +12198,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421330">Weiberfeinde</title>
+              <title key="pmb80883">Weiberfeinde. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12457,7 +12317,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb164447">Alt-Heidelberg</title>
+              <title key="pmb31505">Alt-Heidelberg. Schauspiel in 5 Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -12605,7 +12465,7 @@
           </listPlace>
         </event>
         <event xml:id="pmb210414" when-iso="1927-05-10">
-          <eventName n="Theateraufführung">Aufführung von Weiberfeinde. Lustspiel in drei Akten, 10.5.1927</eventName>
+          <eventName n="Theateraufführung">Aufführung von Weiberfeinde, 10.5.1927</eventName>
           <note type="listorg">
             <listOrg>
               <org role="veranstaltet von">
@@ -12615,8 +12475,11 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210414/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210414.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/491297/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fe3e26af2b0e29f0c7bea</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
             <bibl>
@@ -12629,28 +12492,6 @@
               <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
           </listPerson>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb491297" when-iso="1927-05-10">
-          <eventName n="Theateraufführung">Aufführung von Weiberfeinde, 10.5.1927</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/491297/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fe3e26af2b0e29f0c7bea</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb421330">Weiberfeinde</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
           <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
@@ -12721,7 +12562,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421330">Weiberfeinde</title>
+              <title key="pmb80883">Weiberfeinde. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13158,7 +12999,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421330">Weiberfeinde</title>
+              <title key="pmb80883">Weiberfeinde. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13181,7 +13022,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13419,7 +13260,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421330">Weiberfeinde</title>
+              <title key="pmb80883">Weiberfeinde. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13619,7 +13460,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421330">Weiberfeinde</title>
+              <title key="pmb80883">Weiberfeinde. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13881,7 +13722,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421330">Weiberfeinde</title>
+              <title key="pmb80883">Weiberfeinde. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -13979,7 +13820,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419258">Cyrano von Bergerac</title>
+              <title key="pmb77230">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14135,7 +13976,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421330">Weiberfeinde</title>
+              <title key="pmb80883">Weiberfeinde. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -14980,7 +14821,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -15196,7 +15037,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419680">Der Raub der Sabinerinnen</title>
+              <title key="pmb31615">Der Raub der Sabinerinnen. Schwank in vier Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16125,7 +15966,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16341,7 +16182,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16541,7 +16382,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16615,7 +16456,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -16749,7 +16590,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -17196,7 +17037,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -19453,7 +19294,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20583,7 +20424,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421330">Weiberfeinde</title>
+              <title key="pmb80883">Weiberfeinde. Lustspiel in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20960,6 +20801,8 @@
         </event>
         <event xml:id="pmb491777" when-iso="1927-09-24">
           <eventName n="Theateraufführung">Aufführung von XYZ, 24.9.1927</eventName>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/491780/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61bb7d3ced60fbe210015</idno>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/491777/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66902d076af2b0e29f1280e3</idno>
           <listBibl>
@@ -20967,7 +20810,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -20976,29 +20819,6 @@
               <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
               <location>
                 <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb491780" when-iso="1927-09-24">
-          <eventName n="Theateraufführung">Aufführung von XYZ, 24.9.1927</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/491780/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61bb7d3ced60fbe210015</idno>
-          <idno type="URL" subtype="anno">https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=19270924&amp;seite=1#burgtheater-xyz</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb421372">XYZ</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-              <location>
-                <geo>48,210333 16,361139</geo>
               </location>
             </place>
           </listPlace>
@@ -21095,7 +20915,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21187,7 +21007,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21312,7 +21132,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21571,7 +21391,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21674,7 +21494,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb420007">Die Kinder</title>
+              <title key="pmb30269">Die Kinder. Komödie</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21696,7 +21516,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21719,7 +21539,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419467">Der Bauer als Millionär</title>
+              <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -21795,10 +21615,17 @@
           </note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210421/</idno>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210421.html</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690f1a26af2b0e29f21fa1a</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/491831/</idno>
           <listBibl>
             <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
           <listBibl>
+            <bibl>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
+              <note type="relation-type">ist Aufführung von</note>
+            </bibl>
             <bibl>
               <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
@@ -21816,22 +21643,6 @@
                 <geo>48,200254933632 16,377117625773</geo>
               </location>
             </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb491831" when-iso="1927-10-03">
-          <eventName n="Theateraufführung">Aufführung von XYZ, 3.10.1927</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/491831/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690f1a26af2b0e29f21fa1a</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb421372">XYZ</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
             <place>
               <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
               <location>
@@ -22225,7 +22036,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22329,7 +22140,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22648,7 +22459,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22951,7 +22762,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -22974,7 +22785,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23178,7 +22989,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -23275,7 +23086,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24387,7 +24198,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb421372">XYZ</title>
+              <title key="pmb80798">X. Y. Z. Spiel zu Dreien in drei Akten</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -24410,7 +24221,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -25812,7 +25623,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -26228,30 +26039,10 @@
         </event>
         <event xml:id="pmb492134" when-iso="1927-11-15">
           <eventName n="Theateraufführung">Aufführung von Mein Vater das Kind, 15.11.1927</eventName>
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/492134/</idno>
-          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690331a6af2b0e29f130995</idno>
-          <listBibl>
-            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
-          </listBibl>
-          <listBibl>
-            <bibl>
-              <title key="pmb420946">Mein Vater das Kind</title>
-              <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-          </listBibl>
-          <listPlace>
-            <place>
-              <placeName role="veranstaltet in" key="pmb520">Akademietheater</placeName>
-              <location>
-                <geo>48,200254933632 16,377117625773</geo>
-              </location>
-            </place>
-          </listPlace>
-        </event>
-        <event xml:id="pmb492137" when-iso="1927-11-15">
-          <eventName n="Theateraufführung">Aufführung von Mein Vater das Kind, 15.11.1927</eventName>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/492137/</idno>
           <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669034bf6af2b0e29f132bf7</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/492134/</idno>
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690331a6af2b0e29f130995</idno>
           <listBibl>
             <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
           </listBibl>
@@ -27055,7 +26846,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb77323">Der Graf von Charolais</title>
+              <title key="pmb30233">Der Graf von Charolais. Ein Trauerspiel</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -29455,7 +29246,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -29691,7 +29482,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -29765,7 +29556,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb32294">Der junge Medardus</title>
+              <title key="pmb29937">Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -30135,7 +29926,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
@@ -30314,7 +30105,7 @@
           </listBibl>
           <listBibl>
             <bibl>
-              <title key="pmb419594">Der Kaufmann von Venedig</title>
+              <title key="pmb164859">Der Kaufmann von Venedig</title>
               <note type="relation-type">ist Aufführung von</note>
             </bibl>
           </listBibl>
